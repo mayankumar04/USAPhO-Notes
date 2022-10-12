@@ -9,4 +9,4 @@ quick refresher if you need it.
 I will continue to add more near the end because Quantum Mechanics and optics is definitely lacking. This is because I never got around to adding it
 to the document.
 
-The PDF is in the "out" folder.
+The PDF is in the "out" folder under the name "USAPhO Notes.pdf".
