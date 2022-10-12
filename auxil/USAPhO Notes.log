@@ -1,137 +1,66 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.1.25)  25 JAN 2021 13:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.10.12)  12 OCT 2022 12:02
 entering extended mode
-**"./USAPhO for Dummies.tex"
-("USAPhO for Dummies.tex"
-LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-01-09> xparse <2020-03-03>
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrartcl.cl
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"./USAPhO Notes.tex"
+(USAPhO Notes.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-09-28>
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrartcl.cl
 s
-Document Class: scrartcl 2020/09/21 v3.32 KOMA-Script document class (article)
+Document Class: scrartcl 2022/07/04 v3.37 KOMA-Script document class (article)
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrkbase.st
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrkbase.st
 y
-Package: scrkbase 2020/09/21 v3.32 KOMA-Script package (KOMA-Script-dependent b
+Package: scrkbase 2022/07/04 v3.37 KOMA-Script package (KOMA-Script-dependent b
 asics and keyval usage)
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrbase.sty
-Package: scrbase 2020/09/21 v3.32 KOMA-Script package (KOMA-Script-independent 
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrbase.sty
+Package: scrbase 2022/07/04 v3.37 KOMA-Script package (KOMA-Script-independent 
 basics and keyval usage)
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile.st
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile.st
 y
-Package: scrlfile 2020/09/21 v3.32 KOMA-Script package (file load hooks)
+Package: scrlfile 2022/07/04 v3.37 KOMA-Script package (file load hooks)
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile-ho
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile-ho
 ok.sty
-Package: scrlfile-hook 2020/09/21 v3.32 KOMA-Script package (using LaTeX hooks)
+Package: scrlfile-hook 2022/07/04 v3.37 KOMA-Script package (using LaTeX hooks)
 
 
-LaTeX3 Info: Defining command \BeforeFile with sig. 'm' on line 61.
-
-
-LaTeX3 Info: Defining command \AfterFile with sig. 'm' on line 65.
-
-
-LaTeX3 Info: Defining command \BeforeClass with sig. 'm' on line 69.
-
-
-LaTeX3 Info: Defining command \BeforePackage with sig. 'm' on line 73.
-
-
-LaTeX3 Info: Defining command \AfterAtEndOfClass with sig. 'smo+m' on line 83.
-
-
-LaTeX3 Info: Defining command \AfterAtEndOfPackage with sig. 'smo+m' on line
-(LaTeX3)     93.
-
-
-LaTeX3 Info: Defining command \scrlfile@AfterClass with sig. 'smo+m' on line
-(LaTeX3)     173.
-
-
-LaTeX3 Info: Defining command \AfterClass with sig. '' on line 174.
-
-
-LaTeX3 Info: Defining command \scrlfile@AfterPackage with sig. 'smo+m' on line
-(LaTeX3)     191.
-
-
-LaTeX3 Info: Defining command \AfterPackage with sig. '' on line 192.
-
-
-LaTeX3 Info: Defining command \ReplaceInput with sig. '' on line 193.
-
-
-LaTeX3 Info: Defining command \ReplaceClass with sig. 'mm' on line 196.
-
-
-LaTeX3 Info: Defining command \ReplacePackage with sig. 'mm' on line 199.
-
-
-LaTeX3 Info: Defining command \UnReplaceInput with sig. '' on line 200.
-
-
-LaTeX3 Info: Defining command \UnReplaceClass with sig. 'm' on line 203.
-
-
-LaTeX3 Info: Defining command \UnReplacePackage with sig. 'mm' on line 206.
-
-
-LaTeX3 Info: Defining command \PreventPackageFromLoading with sig. 's+om' on
-(LaTeX3)     line 234.
-
-
-LaTeX3 Info: Defining command \StorePreventPackageFromLoading with sig. 'm' on
-(LaTeX3)     line 242.
-
-
-LaTeX3 Info: Defining command \ResetPreventPackageFromLoading with sig. '' on
-(LaTeX3)     line 247.
-
-
-LaTeX3 Info: Defining command \UnPreventPackageFromLoading with sig. 'sm' on
-(LaTeX3)     line 261.
-
-
-LaTeX3 Info: Defining command \BeforeClosingMainAux with sig. 'om' on line
-(LaTeX3)     274.
-
-
-LaTeX3 Info: Defining command \AfterReadingMainAux with sig. 'om' on line 287.
-
-
-LaTeX3 Info: Defining command \protected@immediate@write with sig. 'm+m+m' on
-(LaTeX3)     line 298.
-
-
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlogo.sty
-Package: scrlogo 2020/09/21 v3.32 KOMA-Script package (logo)
-))) (C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks15
-)))
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\tocbasic.st
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlogo.sty
+Package: scrlogo 2022/07/04 v3.37 KOMA-Script package (logo)
+))) (C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line
+ 368.
+))
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\tocbasic.st
 y
-Package: tocbasic 2020/09/21 v3.32 KOMA-Script package (handling toc-files)
+Package: tocbasic 2022/07/04 v3.37 KOMA-Script package (handling toc-files)
 \scr@dte@tocline@numberwidth=\skip47
-\scr@dte@tocline@numbox=\box47
+\scr@dte@tocline@numbox=\box51
 )
 Package tocbasic Info: babel extension for `toc' omitted
 (tocbasic)             because of missing \bbl@set@language on input line 135.
 Class scrartcl Info: File `scrsize11pt.clo' used instead of
-(scrartcl)           file `scrsize11.clo' to setup font sizes on input line 222
-2.
+(scrartcl)           file `scrsize11.clo' to setup font sizes on input line 231
+9.
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrsize11pt
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrsize11pt
 .clo
-File: scrsize11pt.clo 2020/09/21 v3.32 KOMA-Script font size class option (11pt
+File: scrsize11pt.clo 2022/07/04 v3.37 KOMA-Script font size class option (11pt
 )
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\typearea.st
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\typearea.st
 y
-Package: typearea 2020/09/21 v3.32 KOMA-Script package (type area)
+Package: typearea 2022/07/04 v3.37 KOMA-Script package (type area)
 \ta@bcor=\skip48
-\ta@div=\count177
+\ta@div=\count185
 \ta@hblk=\skip49
 \ta@vblk=\skip50
 \ta@temp=\skip51
@@ -152,122 +81,132 @@ Package typearea Info: These are the values describing the layout:
 (typearea)              \topskip        = 11.0pt
 (typearea)              \footskip       = 47.6pt
 (typearea)              \baselineskip   = 13.6pt
-(typearea)              on input line 1740.
+(typearea)              on input line 1766.
 )
-\c@part=\count178
-\c@section=\count179
-\c@subsection=\count180
-\c@subsubsection=\count181
-\c@paragraph=\count182
-\c@subparagraph=\count183
+\c@part=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
 \scr@dte@section@maxnumwidth=\skip53
 Class scrartcl Info: using compatibility default `runin=bysign'
-(scrartcl)           for `\section on input line 4795.
+(scrartcl)           for `\section on input line 4897.
 Class scrartcl Info: using compatibility default `afterindent=bysign'
-(scrartcl)           for `\section on input line 4795.
+(scrartcl)           for `\section on input line 4897.
 \scr@dte@part@maxnumwidth=\skip54
 Class scrartcl Info: using compatibility default `afterindent=false'
-(scrartcl)           for `\part on input line 4803.
+(scrartcl)           for `\part on input line 4905.
 \scr@dte@subsection@maxnumwidth=\skip55
 Class scrartcl Info: using compatibility default `runin=bysign'
-(scrartcl)           for `\subsection on input line 4813.
+(scrartcl)           for `\subsection on input line 4915.
 Class scrartcl Info: using compatibility default `afterindent=bysign'
-(scrartcl)           for `\subsection on input line 4813.
+(scrartcl)           for `\subsection on input line 4915.
 \scr@dte@subsubsection@maxnumwidth=\skip56
 Class scrartcl Info: using compatibility default `runin=bysign'
-(scrartcl)           for `\subsubsection on input line 4823.
+(scrartcl)           for `\subsubsection on input line 4925.
 Class scrartcl Info: using compatibility default `afterindent=bysign'
-(scrartcl)           for `\subsubsection on input line 4823.
+(scrartcl)           for `\subsubsection on input line 4925.
 \scr@dte@paragraph@maxnumwidth=\skip57
 Class scrartcl Info: using compatibility default `runin=bysign'
-(scrartcl)           for `\paragraph on input line 4834.
+(scrartcl)           for `\paragraph on input line 4936.
 Class scrartcl Info: using compatibility default `afterindent=bysign'
-(scrartcl)           for `\paragraph on input line 4834.
+(scrartcl)           for `\paragraph on input line 4936.
 \scr@dte@subparagraph@maxnumwidth=\skip58
 Class scrartcl Info: using compatibility default `runin=bysign'
-(scrartcl)           for `\subparagraph on input line 4844.
+(scrartcl)           for `\subparagraph on input line 4946.
 Class scrartcl Info: using compatibility default `afterindent=bysign'
-(scrartcl)           for `\subparagraph on input line 4844.
+(scrartcl)           for `\subparagraph on input line 4946.
 \abovecaptionskip=\skip59
 \belowcaptionskip=\skip60
-\c@pti@nb@sid@b@x=\box48
+\c@pti@nb@sid@b@x=\box52
 Package tocbasic Info: babel extension for `lof' omitted
-(tocbasic)             because of missing \bbl@set@language on input line 6076.
+(tocbasic)             because of missing \bbl@set@language on input line 6102.
 
 \scr@dte@figure@maxnumwidth=\skip61
-\c@figure=\count184
+\c@figure=\count192
 Package tocbasic Info: babel extension for `lot' omitted
-(tocbasic)             because of missing \bbl@set@language on input line 6088.
+(tocbasic)             because of missing \bbl@set@language on input line 6118.
 
 \scr@dte@table@maxnumwidth=\skip62
-\c@table=\count185
-Class scrartcl Info: Redefining `\numberline' on input line 6252.
+\c@table=\count193
+Class scrartcl Info: Redefining `\numberline' on input line 6288.
 \bibindent=\dimen138
 ) (evan.sty
 Package: evan 
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
-Package: amsmath 2020/09/23 v2.17i AMS math features
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2022/04/08 v2.17n AMS math features
 \@mathmargin=\skip63
 
 For additional information on amsmath, use the `?' option.
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
-Package: amstext 2000/06/29 v2.01 AMS text
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks16
+\@emptytoks=\toks17
 \ex@=\dimen139
 ))
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen140
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
-Package: amsopn 2016/03/08 v2.02 operator names
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count186
+\inf@bad=\count194
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count187
-\leftroot@=\count188
+\uproot@=\count195
+\leftroot@=\count196
 LaTeX Info: Redefining \overline on input line 399.
-\classnum@=\count189
-\DOTSCASE@=\count190
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count197
+\DOTSCASE@=\count198
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
-\Mathstrutbox@=\box49
-\strutbox@=\box50
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
 \big@size=\dimen141
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count191
-\c@MaxMatrixCols=\count192
+\macc@depth=\count199
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count266
 \dotsspace@=\muskip16
-\c@parentequation=\count193
-\dspbrk@lvl=\count194
-\tag@help=\toks17
-\row@=\count195
-\column@=\count196
-\maxfields@=\count197
-\andhelp@=\toks18
+\c@parentequation=\count267
+\dspbrk@lvl=\count268
+\tag@help=\toks18
+\row@=\count269
+\column@=\count270
+\maxfields@=\count271
+\andhelp@=\toks19
 \eqnshift@=\dimen142
 \alignsep@=\dimen143
 \tagshift@=\dimen144
 \tagwidth@=\dimen145
 \totwidth@=\dimen146
 \lineht@=\dimen147
-\@envbody=\toks19
+\@envbody=\toks20
 \multlinegap=\skip64
 \multlinetaggap=\skip65
-\mathdisplay@stack=\toks20
-LaTeX Info: Redefining \[ on input line 2923.
-LaTeX Info: Redefining \] on input line 2924.
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
@@ -275,135 +214,124 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/asymptote\asymptote.sty
-Package: asymptote 2020/01/12 v1.35 Asymptote style file for LaTeX
-
-("C:/Users\diabl\OneDrive - Fort Bend Independent School District\USAPhO\out\US
-APhO for Dummies.pre")
-\ASYbox=\box51
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/asymptote\asymptote.sty
+Package: asymptote 2021/12/29 v1.37 Asymptote style file for LaTeX
+\ASYbox=\box55
 \ASYdimen=\dimen148
-\c@asy=\count198
+\c@asy=\count272
 \AsyStream=\write3
 \AsyPreStream=\write4
-
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
-Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
-File: color.cfg 2016/01/02 v1.6 sample color configuration
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
-Package color Info: Driver file: pdftex.def on input line 147.
-
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
-File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
-))
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
-Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
-
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
-Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
-
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
-Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-)
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
 fg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 105.
-)
-\Gin@req@height=\dimen149
-\Gin@req@width=\dimen150
-) (C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifpdf.sty
-Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
-Package: iftex 2020/03/06 v1.0d TeX engine tests
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+\stockwidth=\dimen149
+\stockheight=\dimen150
 ))
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.sty
+\Gin@req@height=\dimen151
+\Gin@req@width=\dimen152
+) (C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/catchfile\catchfile.s
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/catchfile\catchfile.s
 ty
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
 ty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 ))
-\openout4 = `"USAPhO for Dummies.pre"'.
+\openout4 = `"USAPhO Notes.pre"'.
 
-) (C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
+) (C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
-\thm@style=\toks21
-\thm@bodyfont=\toks22
-\thm@headfont=\toks23
-\thm@notefont=\toks24
-\thm@headpunct=\toks25
+\thm@style=\toks22
+\thm@bodyfont=\toks23
+\thm@headfont=\toks24
+\thm@notefont=\toks25
+\thm@headpunct=\toks26
 \thm@preskip=\skip66
 \thm@postskip=\skip67
 \thm@headsep=\skip68
-\dth@everypar=\toks26
+\dth@everypar=\toks27
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/xpatch\xpatch.sty
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2021-01-09 L3 programming layer (loader) 
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/xpatch\xpatch.sty
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2022-09-28 L3 programming layer (loader) 
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
-File: l3backend-pdftex.def 2021-01-09 L3 backend support: PDF output (pdfTeX)
-\l__kernel_color_stack_int=\count199
-\l__pdf_internal_box=\box52
+File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count273
+\l__pdf_internal_box=\box56
 ))
 Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
 e.sty
-Package: xparse 2020-10-27 L3 Experimental document command parser
-
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
-e-generic.tex))
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: xparse 2022-06-22 L3 Experimental document command parser
+)
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count266
+\etb@tempcnta=\count274
 ))
 Class scrartcl Info: amsthm's \deferred@thm@head patched.
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
-Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Package option `usenames' ignored on input line 216.
-Package xcolor Info: Driver file: pdftex.def on input line 225.
-LaTeX Info: Redefining \color on input line 709.
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
-Package xcolor Info: Model `RGB' extended on input line 1364.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/graphics\dvipsnam.def
+Package xcolor Info: Package option `usenames' ignored on input line 218.
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/graphics\dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\svgnam.def
-File: svgnam.def 2016/05/11 v2.12 Predefined colors according to SVG 1.1 (UK)
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\svgnam.def
+File: svgnam.def 2022/06/12 v2.14 Predefined colors according to SVG 1.1 (UK)
 ))
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
-Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2022-09-22 v7.00t Hypertext links for LaTeX
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
 .sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -411,115 +339,127 @@ Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.s
-ty
-Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
 keys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
 ty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-) (C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+) (C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
 .sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
-Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
-\@linkdim=\dimen151
-\Hy@linkcounter=\count267
-\Hy@pagecounter=\count268
- (C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
-File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count275
+)
+\@linkdim=\dimen153
+\Hy@linkcounter=\count276
+\Hy@pagecounter=\count277
+ (C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2022-09-22 v7.00t Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-)
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+) (C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count269
-Package hyperref Info: Option `colorlinks' set `true' on input line 4338.
-Package hyperref Info: Hyper figures OFF on input line 4464.
-Package hyperref Info: Link nesting OFF on input line 4469.
-Package hyperref Info: Hyper index ON on input line 4472.
-Package hyperref Info: Plain pages OFF on input line 4479.
-Package hyperref Info: Backreferencing OFF on input line 4484.
+\Hy@SavedSpaceFactor=\count278
+ (C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2022-09-22 v7.00t Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4045.
+Package hyperref Info: Hyper figures OFF on input line 4162.
+Package hyperref Info: Link nesting OFF on input line 4167.
+Package hyperref Info: Hyper index ON on input line 4170.
+Package hyperref Info: Plain pages OFF on input line 4177.
+Package hyperref Info: Backreferencing OFF on input line 4182.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4717.
-\c@Hy@tempcnt=\count270
+Package hyperref Info: Bookmarks ON on input line 4410.
+\c@Hy@tempcnt=\count279
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 5076.
-\XeTeXLinkMargin=\dimen152
+LaTeX Info: Redefining \url on input line 4748.
+\XeTeXLinkMargin=\dimen154
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
 .sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count271
-\Field@Width=\dimen153
-\Fld@charsize=\dimen154
-Package hyperref Info: Hyper figures OFF on input line 6347.
-Package hyperref Info: Link nesting OFF on input line 6352.
-Package hyperref Info: Hyper index ON on input line 6355.
-Package hyperref Info: backreferencing OFF on input line 6362.
-Package hyperref Info: Link coloring ON on input line 6365.
-Package hyperref Info: Link coloring with OCG OFF on input line 6372.
-Package hyperref Info: PDF/A mode OFF on input line 6377.
-LaTeX Info: Redefining \ref on input line 6417.
-LaTeX Info: Redefining \pageref on input line 6421.
+\Fld@menulength=\count280
+\Field@Width=\dimen155
+\Fld@charsize=\dimen156
+Package hyperref Info: Hyper figures OFF on input line 6027.
+Package hyperref Info: Link nesting OFF on input line 6032.
+Package hyperref Info: Hyper index ON on input line 6035.
+Package hyperref Info: backreferencing OFF on input line 6042.
+Package hyperref Info: Link coloring ON on input line 6045.
+Package hyperref Info: Link coloring with OCG OFF on input line 6052.
+Package hyperref Info: PDF/A mode OFF on input line 6057.
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
-Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
-ge
-with kernel methods
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
 )
-\Hy@abspage=\count272
-\c@Item=\count273
-\c@Hfootnote=\count274
+\Hy@abspage=\count281
+\c@Item=\count282
+\c@Hfootnote=\count283
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
-File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2022-09-22 v7.00t Hyperref driver for pdfTeX
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
-Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
-e
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
 with kernel methods
 )
-\Fld@listcount=\count275
-\c@bookmark@seq@number=\count276
+\Fld@listcount=\count284
+\c@bookmark@seq@number=\count285
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
 echeck.sty
-Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
 ounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-86.
+85.
 )
 \Hy@SectionHShift=\skip69
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/cleveref\cleveref.sty
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/cleveref\cleveref.sty
 Package: cleveref 2018/03/27 v0.21.4 Intelligent cross-referencing
 Package cleveref Info: `hyperref' support loaded on input line 2370.
 LaTeX Info: Redefining \cref on input line 2370.
@@ -538,447 +478,436 @@ e 7836.
 Package cleveref Info: include cross-reference names in hyperlinks on input lin
 e 7852.
 )
-\c@theorem=\count277
+\c@theorem=\count286
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
-\lst@mode=\count278
-\lst@gtempboxa=\box53
-\lst@token=\toks27
-\lst@length=\count279
-\lst@currlwidth=\dimen155
-\lst@column=\count280
-\lst@pos=\count281
-\lst@lostspace=\dimen156
-\lst@width=\dimen157
-\lst@newlines=\count282
-\lst@lineno=\count283
-\lst@maxwidth=\dimen158
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count287
+\lst@gtempboxa=\box57
+\lst@token=\toks28
+\lst@length=\count288
+\lst@currlwidth=\dimen157
+\lst@column=\count289
+\lst@pos=\count290
+\lst@lostspace=\dimen158
+\lst@width=\dimen159
+\lst@newlines=\count291
+\lst@lineno=\count292
+\lst@maxwidth=\dimen160
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
-\c@lstnumber=\count284
-\lst@skipnumbers=\count285
-\lst@framebox=\box54
+\c@lstnumber=\count293
+\lst@skipnumbers=\count294
+\lst@framebox=\box58
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
 File: listings.cfg 2020/03/24 1.8d listings configuration
 ))
 Package: listings 2020/03/24 1.8d (Carsten Heinz)
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\mathrsfs.sty
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\mathrsfs.sty
 Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
 \symrsfs=\mathgroup6
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip70
-\enit@outerparindent=\dimen159
-\enit@toks=\toks28
-\enit@inbox=\box55
-\enit@count@id=\count286
-\enitdp@description=\count287
+\enit@outerparindent=\dimen161
+\enit@toks=\toks29
+\enit@inbox=\box59
+\enit@count@id=\count295
+\enitdp@description=\count296
 )
-\c@walki=\count288
-\c@walkii=\count289
-\c@walkiii=\count290
-\enitdp@walk=\count291
+\c@walki=\count297
+\c@walkii=\count298
+\c@walkiii=\count299
+\enitdp@walk=\count300
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/todonotes\todonotes.sty
-Package: todonotes 2020/08/18 v1.1.3 Todonotes source and documentation.
-Package: todonotes 2018/11/22
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
-Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/todonotes\todonotes.sty
+Package: todonotes 2021/06/04 v1.1.5 Todonotes source and documentation.
+Package: todonotes 2021/06/04
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
-\XKV@toks=\toks29
-\XKV@tempa@toks=\toks30
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks30
+\XKV@tempa@toks=\toks31
 )
-\XKV@depth=\count292
+\XKV@depth=\count301
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.
 sty
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
 y
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
 -common.tex
-\pgfutil@everybye=\toks31
-\pgfutil@tempdima=\dimen160
-\pgfutil@tempdimb=\dimen161
+\pgfutil@everybye=\toks32
+\pgfutil@tempdima=\dimen162
+\pgfutil@tempdimb=\dimen163
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
 -common-lists.tex))
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
 -latex.def
-\pgfutil@abb=\box56
+\pgfutil@abb=\box60
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
 code.tex
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
-Package: pgfrcs 2020/12/27 v3.1.8b (3.1.8b)
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
 ))
-Package: pgf 2020/12/27 v3.1.8b (3.1.8b)
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.
 sty
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.
 sty
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
 s.code.tex
-Package: pgfsys 2020/12/27 v3.1.8b (3.1.8b)
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
 .code.tex
-\pgfkeys@pathtoks=\toks32
-\pgfkeys@temptoks=\toks33
+\pgfkeys@pathtoks=\toks33
+\pgfkeys@temptoks=\toks34
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
 filtered.code.tex
-\pgfkeys@tmptoks=\toks34
+\pgfkeys@tmptoks=\toks35
 ))
-\pgf@x=\dimen162
-\pgf@y=\dimen163
-\pgf@xa=\dimen164
-\pgf@ya=\dimen165
-\pgf@xb=\dimen166
-\pgf@yb=\dimen167
-\pgf@xc=\dimen168
-\pgf@yc=\dimen169
-\pgf@xd=\dimen170
-\pgf@yd=\dimen171
+\pgf@x=\dimen164
+\pgf@y=\dimen165
+\pgf@xa=\dimen166
+\pgf@ya=\dimen167
+\pgf@xb=\dimen168
+\pgf@yb=\dimen169
+\pgf@xc=\dimen170
+\pgf@yc=\dimen171
+\pgf@xd=\dimen172
+\pgf@yd=\dimen173
 \w@pgf@writea=\write5
 \r@pgf@reada=\read2
-\c@pgf@counta=\count293
-\c@pgf@countb=\count294
-\c@pgf@countc=\count295
-\c@pgf@countd=\count296
-\t@pgf@toka=\toks35
-\t@pgf@tokb=\toks36
-\t@pgf@tokc=\toks37
-\pgf@sys@id@count=\count297
+\c@pgf@counta=\count302
+\c@pgf@countb=\count303
+\c@pgf@countc=\count304
+\c@pgf@countd=\count305
+\t@pgf@toka=\toks36
+\t@pgf@tokb=\toks37
+\t@pgf@tokc=\toks38
+\pgf@sys@id@count=\count306
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
 fg
-File: pgf.cfg 2020/12/27 v3.1.8b (3.1.8b)
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
 )
 Driver file for pgf: pgfsys-pdftex.def
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
 s-pdftex.def
-File: pgfsys-pdftex.def 2020/12/27 v3.1.8b (3.1.8b)
+File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
 s-common-pdf.def
-File: pgfsys-common-pdf.def 2020/12/27 v3.1.8b (3.1.8b)
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
 )))
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
 ssoftpath.code.tex
-File: pgfsyssoftpath.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgfsyssoftpath@smallbuffer@items=\count298
-\pgfsyssoftpath@bigbuffer@items=\count299
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count307
+\pgfsyssoftpath@bigbuffer@items=\count308
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
 sprotocol.code.tex
-File: pgfsysprotocol.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ))
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 e.code.tex
-Package: pgfcore 2020/12/27 v3.1.8b (3.1.8b)
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
 .tex
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.
 code.tex
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.
 code.tex)
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
 r.code.tex
-\pgfmath@dimen=\dimen172
-\pgfmath@count=\count300
-\pgfmath@box=\box57
-\pgfmath@toks=\toks38
-\pgfmath@stack@operand=\toks39
-\pgfmath@stack@operation=\toks40
+\pgfmath@dimen=\dimen174
+\pgfmath@count=\count309
+\pgfmath@box=\box61
+\pgfmath@toks=\toks39
+\pgfmath@stack@operand=\toks40
+\pgfmath@stack@operation=\toks41
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
 ions.code.tex
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
 ions.basic.code.tex)
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
 ions.trigonometric.code.tex)
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
 ions.random.code.tex)
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
 ions.comparison.code.tex)
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
 ions.base.code.tex)
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
 ions.round.code.tex)
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
 ions.misc.code.tex)
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
 ions.integerarithmetics.code.tex)))
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
 .code.tex
-\c@pgfmathroundto@lastzeros=\count301
+\c@pgfmathroundto@lastzeros=\count310
 ))
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
 tex)
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 epoints.code.tex
-File: pgfcorepoints.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@picminx=\dimen173
-\pgf@picmaxx=\dimen174
-\pgf@picminy=\dimen175
-\pgf@picmaxy=\dimen176
-\pgf@pathminx=\dimen177
-\pgf@pathmaxx=\dimen178
-\pgf@pathminy=\dimen179
-\pgf@pathmaxy=\dimen180
-\pgf@xx=\dimen181
-\pgf@xy=\dimen182
-\pgf@yx=\dimen183
-\pgf@yy=\dimen184
-\pgf@zx=\dimen185
-\pgf@zy=\dimen186
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen175
+\pgf@picmaxx=\dimen176
+\pgf@picminy=\dimen177
+\pgf@picmaxy=\dimen178
+\pgf@pathminx=\dimen179
+\pgf@pathmaxx=\dimen180
+\pgf@pathminy=\dimen181
+\pgf@pathmaxy=\dimen182
+\pgf@xx=\dimen183
+\pgf@xy=\dimen184
+\pgf@yx=\dimen185
+\pgf@yy=\dimen186
+\pgf@zx=\dimen187
+\pgf@zy=\dimen188
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 epathconstruct.code.tex
-File: pgfcorepathconstruct.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@path@lastx=\dimen187
-\pgf@path@lasty=\dimen188
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen189
+\pgf@path@lasty=\dimen190
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 epathusage.code.tex
-File: pgfcorepathusage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@shorten@end@additional=\dimen189
-\pgf@shorten@start@additional=\dimen190
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen191
+\pgf@shorten@start@additional=\dimen192
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 escopes.code.tex
-File: pgfcorescopes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgfpic=\box58
-\pgf@hbox=\box59
-\pgf@layerbox@main=\box60
-\pgf@picture@serial@count=\count302
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box62
+\pgf@hbox=\box63
+\pgf@layerbox@main=\box64
+\pgf@picture@serial@count=\count311
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 egraphicstate.code.tex
-File: pgfcoregraphicstate.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgflinewidth=\dimen191
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen193
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 etransformations.code.tex
-File: pgfcoretransformations.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@pt@x=\dimen192
-\pgf@pt@y=\dimen193
-\pgf@pt@temp=\dimen194
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen194
+\pgf@pt@y=\dimen195
+\pgf@pt@temp=\dimen196
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 equick.code.tex
-File: pgfcorequick.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 eobjects.code.tex
-File: pgfcoreobjects.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 epathprocessing.code.tex
-File: pgfcorepathprocessing.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 earrows.code.tex
-File: pgfcorearrows.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgfarrowsep=\dimen195
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen197
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 eshade.code.tex
-File: pgfcoreshade.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@max=\dimen196
-\pgf@sys@shading@range@num=\count303
-\pgf@shadingcount=\count304
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen198
+\pgf@sys@shading@range@num=\count312
+\pgf@shadingcount=\count313
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 eimage.code.tex
-File: pgfcoreimage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 eexternal.code.tex
-File: pgfcoreexternal.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgfexternal@startupbox=\box61
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box65
 ))
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 elayers.code.tex
-File: pgfcorelayers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 etransparency.code.tex
-File: pgfcoretransparency.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 epatterns.code.tex
-File: pgfcorepatterns.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
 erdf.code.tex
-File: pgfcorerdf.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )))
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
 shapes.code.tex
-File: pgfmoduleshapes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgfnodeparttextbox=\box62
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box66
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
 plot.code.tex
-File: pgfmoduleplot.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
 mp-version-0-65.sty
-Package: pgfcomp-version-0-65 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@nodesepstart=\dimen197
-\pgf@nodesepend=\dimen198
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen199
+\pgf@nodesepend=\dimen256
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
 mp-version-1-18.sty
-Package: pgfcomp-version-1-18 2020/12/27 v3.1.8b (3.1.8b)
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
 ))
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.st
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.st
 y
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
 ty
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
 .code.tex))
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
 .tex))
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.
 code.tex
-Package: pgffor 2020/12/27 v3.1.8b (3.1.8b)
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
 .tex)
-\pgffor@iter=\dimen199
-\pgffor@skip=\dimen256
-\pgffor@stack=\toks41
-\pgffor@toks=\toks42
+\pgffor@iter=\dimen257
+\pgffor@skip=\dimen258
+\pgffor@stack=\toks42
+\pgffor@toks=\toks43
 ))
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
 z\tikz.code.tex
-Package: tikz 2020/12/27 v3.1.8b (3.1.8b)
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
 aryplothandlers.code.tex
-File: pgflibraryplothandlers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@plot@mark@count=\count305
-\pgfplotmarksize=\dimen257
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count314
+\pgfplotmarksize=\dimen259
 )
-\tikz@lastx=\dimen258
-\tikz@lasty=\dimen259
-\tikz@lastxsaved=\dimen260
-\tikz@lastysaved=\dimen261
-\tikz@lastmovetox=\dimen262
-\tikz@lastmovetoy=\dimen263
-\tikzleveldistance=\dimen264
-\tikzsiblingdistance=\dimen265
-\tikz@figbox=\box63
-\tikz@figbox@bg=\box64
-\tikz@tempbox=\box65
-\tikz@tempbox@bg=\box66
-\tikztreelevel=\count306
-\tikznumberofchildren=\count307
-\tikznumberofcurrentchild=\count308
-\tikz@fig@count=\count309
+\tikz@lastx=\dimen260
+\tikz@lasty=\dimen261
+\tikz@lastxsaved=\dimen262
+\tikz@lastysaved=\dimen263
+\tikz@lastmovetox=\dimen264
+\tikz@lastmovetoy=\dimen265
+\tikzleveldistance=\dimen266
+\tikzsiblingdistance=\dimen267
+\tikz@figbox=\box67
+\tikz@figbox@bg=\box68
+\tikz@tempbox=\box69
+\tikz@tempbox@bg=\box70
+\tikztreelevel=\count315
+\tikznumberofchildren=\count316
+\tikznumberofcurrentchild=\count317
+\tikz@fig@count=\count318
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
 matrix.code.tex
-File: pgfmodulematrix.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgfmatrixcurrentrow=\count310
-\pgfmatrixcurrentcolumn=\count311
-\pgf@matrix@numberofcolumns=\count312
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count319
+\pgfmatrixcurrentcolumn=\count320
+\pgf@matrix@numberofcolumns=\count321
 )
-\tikz@expandcount=\count313
+\tikz@expandcount=\count322
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
 z/libraries\tikzlibrarytopaths.code.tex
-File: tikzlibrarytopaths.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )))
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
 z/libraries\tikzlibrarypositioning.code.tex
-File: tikzlibrarypositioning.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+File: tikzlibrarypositioning.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
-z/libraries\tikzlibraryshadows.code.tex
-File: tikzlibraryshadows.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
-z/libraries\tikzlibraryfadings.code.tex
-File: tikzlibraryfadings.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
-aryfadings.code.tex
-File: pgflibraryfadings.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-)))
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\calc.sty
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count314
-\calc@Bcount=\count315
-\calc@Adimen=\dimen266
-\calc@Bdimen=\dimen267
+\calc@Acount=\count323
+\calc@Bcount=\count324
+\calc@Adimen=\dimen268
+\calc@Bdimen=\dimen269
 \calc@Askip=\skip71
 \calc@Bskip=\skip72
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count316
+\calc@Ccount=\count325
 \calc@Cskip=\skip73
 )
-\c@@todonotes@numberoftodonotes=\count317
+\c@@todonotes@numberoftodonotes=\count326
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mathtools.sty
-Package: mathtools 2020/03/24 v1.24 mathematical typesetting tools
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhsetup.sty
-Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mathtools.sty
+Package: mathtools 2022/06/29 v1.29 mathematical typesetting tools
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhsetup.sty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 )
-LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 130.
-LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 130.
-LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 130.
-LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
-\g_MT_multlinerow_int=\count318
-\l_MT_multwidth_dim=\dimen268
+\g_MT_multlinerow_int=\count327
+\l_MT_multwidth_dim=\dimen270
 \origjot=\skip74
-\l_MT_shortvdotswithinadjustabove_dim=\dimen269
-\l_MT_shortvdotswithinadjustbelow_dim=\dimen270
-\l_MT_above_intertext_sep=\dimen271
-\l_MT_below_intertext_sep=\dimen272
-\l_MT_above_shortintertext_sep=\dimen273
-\l_MT_below_shortintertext_sep=\dimen274
-\xmathstrut@box=\box67
-\xmathstrut@dim=\dimen275
+\l_MT_shortvdotswithinadjustabove_dim=\dimen271
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen272
+\l_MT_above_intertext_sep=\dimen273
+\l_MT_below_intertext_sep=\dimen274
+\l_MT_above_shortintertext_sep=\dimen275
+\l_MT_below_shortintertext_sep=\dimen276
+\xmathstrut@box=\box71
+\xmathstrut@dim=\dimen277
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
-Package: microtype 2020/12/07 v2.8 Micro-typographical refinements (RS)
-\MT@toks=\toks43
-\MT@count=\count319
-LaTeX Info: Redefining \textls on input line 788.
-\MT@outer@kern=\dimen276
-LaTeX Info: Redefining \textmicrotypecontext on input line 1358.
-\MT@listname@count=\count320
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
+Package: microtype 2022/06/23 v3.0f Micro-typographical refinements (RS)
+\MT@toks=\toks44
+\MT@tempbox=\box72
+\MT@count=\count328
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1045.
+LaTeX Info: Redefining \leftprotrusion on input line 1046.
+LaTeX Info: Redefining \rightprotrusion on input line 1056.
+LaTeX Info: Redefining \textls on input line 1234.
+\MT@outer@kern=\dimen278
+LaTeX Info: Redefining \textmicrotypecontext on input line 1858.
+\MT@listname@count=\count329
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdf
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdf
 tex.def
-File: microtype-pdftex.def 2020/12/07 v2.8 Definitions specific to pdftex (RS)
-LaTeX Info: Redefining \lsstyle on input line 915.
-LaTeX Info: Redefining \lslig on input line 915.
+File: microtype-pdftex.def 2022/06/23 v3.0f Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 900.
+LaTeX Info: Redefining \lslig on input line 900.
 \MT@outer@space=\skip75
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
-File: microtype.cfg 2020/12/07 v2.8 microtype main configuration file (RS)
-)) (C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/titling\titling.sty
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
+File: microtype.cfg 2022/06/23 v3.0f microtype main configuration file (RS)
+)) (C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/titling\titling.sty
 Package: titling 2009/09/04 v2.1d maketitle typesetting
 \thanksmarkwidth=\skip76
 \thanksmargin=\skip77
@@ -987,52 +916,40 @@ Package: titling 2009/09/04 v2.1d maketitle typesetting
 \posttitledrop=\skip79
 \postauthordrop=\skip80
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlayer-sc
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlayer-sc
 rpage.sty
-Package: scrlayer-scrpage 2020/09/21 v3.32 KOMA-Script package (end user interf
+Package: scrlayer-scrpage 2022/07/04 v3.37 KOMA-Script package (end user interf
 ace for scrlayer)
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlayer.st
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlayer.st
 y
-Package: scrlayer 2020/09/21 v3.32 KOMA-Script package (defining layers and pag
+Package: scrlayer 2022/07/04 v3.37 KOMA-Script package (defining layers and pag
 e styles)
-Package scrlayer Info: Using already defined \footheight
-(scrlayer)             hoping, that this is a length and
-(scrlayer)             not only a macro on input line 109.
-Package scrlayer Info: patching LaTeX kernel macro \pagestyle on input line 211
-6.
+Package scrlayer Info: patching LaTeX kernel macro \pagestyle on input line 215
+5.
 )
 Package scrlayer-scrpage Info: Makeing stand-alone element `pagehead' from
-(scrlayer-scrpage)             alias to `pageheadfoot' on input line 1085.
-Package scrlayer-scrpage Info: deactivating warning for font element
-(scrlayer-scrpage)             `pagefoot' on input line 1109.
+(scrlayer-scrpage)             alias to `pageheadfoot' on input line 1089.
 )
-Package scrlayer-scrpage Info: auto-selection of `pagestyleset=KOMA-Script'.
-
 1: section
-) (C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
-Package: ragged2e 2019/07/28 v2.2 ragged2e Package (MS)
+) (C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
+Package: ragged2e 2021/12/15 v3.1 ragged2e Package
 
 LaTeX Warning: Command \@arrayparboxrestore  has changed.
                Check if current package is valid.
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/everysel\everysel.sty
-Package: everysel 2021/01/20 v2.1 EverySelectfont Package (MS)
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/footmisc\footmisc.sty
+Package: footmisc 2022/03/08 v6.0d a miscellany of footnote facilities
+\FN@temptoken=\toks45
+\footnotemargin=\dimen279
+\@outputbox@depth=\dimen280
+Package footmisc Info: Declaring symbol style bringhurst on input line 695.
+Package footmisc Info: Declaring symbol style chicago on input line 703.
+Package footmisc Info: Declaring symbol style wiley on input line 712.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 723.
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/everysel\everysel-2011-
-10-28.sty))
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/footmisc\footmisc.sty
-Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
-\FN@temptoken=\toks44
-\footnotemargin=\dimen277
-\c@pp@next@reset=\count321
-Package footmisc Info: Declaring symbol style bringhurst on input line 855.
-Package footmisc Info: Declaring symbol style chicago on input line 863.
-Package footmisc Info: Declaring symbol style wiley on input line 872.
-Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
-
-Package footmisc Info: Declaring symbol style lamport* on input line 903.
-Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
+Package footmisc Info: Declaring symbol style lamport* on input line 743.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 764
 .
 )
 \CenteringLeftskip=\skip81
@@ -1049,44 +966,44 @@ Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
 \RaggedLeftParindent=\skip92
 \RaggedRightParindent=\skip93
 \JustifyingParindent=\skip94
-) (C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
-\wrapoverhang=\dimen278
-\WF@size=\dimen279
-\c@WF@wrappedlines=\count322
-\WF@box=\box68
-\WF@everypar=\toks45
+) (C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen281
+\WF@size=\dimen282
+\c@WF@wrappedlines=\count330
+\WF@box=\box73
+\WF@everypar=\toks46
 Package: wrapfig 2003/01/31  v 3.6
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count323
-\float@exts=\toks46
-\float@box=\box69
-\@float@everytoks=\toks47
-\@floatcapt=\box70
+\c@float@type=\count331
+\float@exts=\toks47
+\float@box=\box74
+\@float@everytoks=\toks48
+\@floatcapt=\box75
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xfrac\xfrac.
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xfrac\xfrac.
 sty
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3k
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3k
 eys2e.sty
-Package: l3keys2e 2020-10-27 LaTeX2e option processing using LaTeX3 keys
+Package: l3keys2e 2022-06-22 LaTeX2e option processing using LaTeX3 keys
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xtemplate\xt
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xtemplate\xt
 emplate.sty
-Package: xtemplate 2020-10-27 L3 Experimental prototype document functions
-\l__xtemplate_tmp_dim=\dimen280
-\l__xtemplate_tmp_int=\count324
+Package: xtemplate 2022-06-22 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen283
+\l__xtemplate_tmp_int=\count332
 \l__xtemplate_tmp_muskip=\muskip18
 \l__xtemplate_tmp_skip=\skip95
 )
-Package: xfrac 2020-10-27 L3 Experimental split-level fractions
-\l__xfrac_slash_box=\box71
-\l__xfrac_tmp_box=\box72
-\l__xfrac_denominator_bot_sep_dim=\dimen281
-\l__xfrac_numerator_bot_sep_dim=\dimen282
-\l__xfrac_numerator_top_sep_dim=\dimen283
-\l__xfrac_slash_left_sep_dim=\dimen284
-\l__xfrac_slash_right_sep_dim=\dimen285
+Package: xfrac 2022-06-22 L3 Experimental split-level fractions
+\l__xfrac_slash_box=\box76
+\l__xfrac_tmp_box=\box77
+\l__xfrac_denominator_bot_sep_dim=\dimen284
+\l__xfrac_numerator_bot_sep_dim=\dimen285
+\l__xfrac_numerator_top_sep_dim=\dimen286
+\l__xfrac_slash_left_sep_dim=\dimen287
+\l__xfrac_slash_right_sep_dim=\dimen288
 \l__xfrac_slash_left_muskip=\muskip19
 \l__xfrac_slash_right_muskip=\muskip20
 
@@ -1094,24 +1011,24 @@ Package xtemplate Info: Declaring object type 'xfrac' taking 3 argument(s) on
 (xtemplate)             line 80.
 
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/esint\esint.sty
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/esint\esint.sty
 Package: esint 
 \symlargesymbolsA=\mathgroup7
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/mdwtools\footnote.sty
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/mdwtools\footnote.sty
 Package: footnote 1997/01/28 1.13 Save footnotes around boxes
-\fn@notes=\box73
-\fn@width=\dimen286
+\fn@notes=\box78
+\fn@width=\dimen289
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty
-Package: lipsum 2019/01/02 v2.2 150 paragraphs of Lorem Ipsum dummy text
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count333
+\l__lipsum_a_int=\count334
+\l__lipsum_b_int=\count335
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex
-File: lipsum.ltd.tex 2019/01/02 v2.2 The Lorem ipsum dummy text
-))
-("C:/Users\diabl\OneDrive - Fort Bend Independent School District\USAPhO\out\US
-APhO for Dummies.aux")
-\openout1 = `"USAPhO for Dummies.aux"'.
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex))
+No file "USAPhO Notes".aux.
+\openout1 = `"USAPhO Notes.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
@@ -1129,55 +1046,46 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+Package scrbase Info: activating english \abstractname on input line 24.
+Package scrbase Info: activating english \partname on input line 24.
+Package scrbase Info: activating english \figurename on input line 24.
+Package scrbase Info: activating english \tablename on input line 24.
 Package scrbase Info: activating english \contentsname on input line 24.
 Package scrbase Info: activating english \listfigurename on input line 24.
 Package scrbase Info: activating english \listtablename on input line 24.
+Package scrbase Info: activating english \refname on input line 24.
+Package scrbase Info: activating english \indexname on input line 24.
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count325
-\scratchdimen=\dimen287
-\scratchbox=\box74
-\nofMPsegments=\count326
-\nofMParguments=\count327
-\everyMPshowfont=\toks48
-\MPscratchCnt=\count328
-\MPscratchDim=\dimen288
-\MPnumerator=\count329
-\makeMPintoPDFobject=\count330
-\everyMPtoPDFconversion=\toks49
+\scratchcounter=\count336
+\scratchdimen=\dimen290
+\scratchbox=\box79
+\nofMPsegments=\count337
+\nofMParguments=\count338
+\everyMPshowfont=\toks49
+\MPscratchCnt=\count339
+\MPscratchDim=\dimen291
+\MPnumerator=\count340
+\makeMPintoPDFobject=\count341
+\everyMPtoPDFconversion=\toks50
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
-)
+
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
 Package hyperref Info: Link coloring ON on input line 24.
-
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
-Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
-
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
-Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-)
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
-lestring.sty
-Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
-)
-\c@section@level=\count331
-)
-LaTeX Info: Redefining \ref on input line 24.
-LaTeX Info: Redefining \pageref on input line 24.
-LaTeX Info: Redefining \nameref on input line 24.
-
-("C:/Users\diabl\OneDrive - Fort Bend Independent School District\USAPhO\out\US
-APhO for Dummies.out")
-("C:/Users\diabl\OneDrive - Fort Bend Independent School District\USAPhO\out\US
-APhO for Dummies.out")
 \@outlinefile=\write6
-\openout6 = `"USAPhO for Dummies.out"'.
+\openout6 = `"USAPhO Notes.out"'.
 
 Class scrartcl Info: loading recommended package `bookmark'.
 (scrartcl)           Using `bookmark' together with `hyperref' is recommended,
@@ -1188,15 +1096,22 @@ Class scrartcl Info: loading recommended package `bookmark'.
 (scrartcl)             \usepackage{bookmark}
 (scrartcl)           before \begin{document} on input line 24.
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
 Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex.def
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex.def
 File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
-\BKM@id=\count332
+\BKM@id=\count342
 ))
-\c@lstlisting=\count333
+\c@lstlisting=\count343
 LaTeX Info: Redefining \microtypecontext on input line 24.
+Package microtype Info: Applying patch `item' on input line 24.
+Package microtype Info: Applying patch `toc' on input line 24.
+Package microtype Info: Applying patch `eqnum' on input line 24.
+
+
+Package microtype Warning: Unable to apply patch `footnote' on input line 24.
+
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1207,13 +1122,11 @@ LaTeX Info: Redefining \showhyphens on input line 24.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
- (C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
 Package ragged2e Info: ABD: executing \RaggedRight on input line 24.
- ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 24.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmss' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
@@ -1221,31 +1134,31 @@ Package microtype Info: Loading generic protrusion settings for font family
 LaTeX Font Info:    Trying to load font information for U+msa on input line 28.
 
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 28.
 
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Trying to load font information for U+rsfs on input line 28
 .
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.fd
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 LaTeX Font Info:    Trying to load font information for U+esint on input line 2
 8.
 
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/esint\uesint.fd
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/esint\uesint.fd
 File: uesint.fd 
 )
 Overfull \hbox (0.11906pt too wide) in paragraph at lines 41--42
@@ -1255,144 +1168,153 @@ ill oc-cur at sta-ble equi-lib-rium,
 
 [1
 
-{C:/Users/diabl/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+{C:/Users/mayan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 Overfull \hbox (0.12512pt too wide) in paragraph at lines 42--42
 \OT1/cmr/m/n/10.95 (+17) Here, the del op-er-a-tor ($[]$) de-notes ``gra-di-ent
 ." It can also de-note the di-ver-gence 
  []
 
 Package epstopdf Info: Source file: <sphere.eps>
-(epstopdf)                    date: 2021-01-01 03:47:34
-(epstopdf)                    size: 39293 bytes
+(epstopdf)                    date: 2022-10-10 18:58:30
+(epstopdf)                    size: 40007 bytes
 (epstopdf)             Output file: <sphere-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-01-25 13:35:06
+(epstopdf)                    date: 2022-10-10 18:58:30
 (epstopdf)                    size: 12172 bytes
-(epstopdf)             Command: <epstopdf --outfile=sphere-eps-converted-to.pdf
- sphere.eps>
+(epstopdf)             Command: <miktex-epstopdf --outfile=sphere-eps-converted
+-to.pdf sphere.eps>
 (epstopdf)             \includegraphics on input line 46.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./sphere-eps-converted-to.pdf): PDF inclusion: f
 ound PDF version <1.7>, but at most version <1.5> allowed
-<sphere-eps-converted-to.pdf, id=49, 420.57124pt x 389.455pt>
+<sphere-eps-converted-to.pdf, id=25, 420.57124pt x 389.455pt>
 File: sphere-eps-converted-to.pdf Graphic file (type pdf)
 <use sphere-eps-converted-to.pdf>
 Package pdftex.def Info: sphere-eps-converted-to.pdf  used on input line 46.
 (pdftex.def)             Requested size: 167.29967pt x 154.9235pt.
 Package epstopdf Info: Source file: <cylinder.eps>
-(epstopdf)                    date: 2021-01-01 03:47:34
-(epstopdf)                    size: 307331 bytes
+(epstopdf)                    date: 2022-10-10 18:58:30
+(epstopdf)                    size: 311736 bytes
 (epstopdf)             Output file: <cylinder-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-01-25 13:35:08
+(epstopdf)                    date: 2022-10-10 18:58:30
 (epstopdf)                    size: 282446 bytes
-(epstopdf)             Command: <epstopdf --outfile=cylinder-eps-converted-to.p
-df cylinder.eps>
+(epstopdf)             Command: <miktex-epstopdf --outfile=cylinder-eps-convert
+ed-to.pdf cylinder.eps>
 (epstopdf)             \includegraphics on input line 51.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./cylinder-eps-converted-to.pdf): PDF inclusion:
  found PDF version <1.7>, but at most version <1.5> allowed
-<cylinder-eps-converted-to.pdf, id=50, 404.51125pt x 437.635pt>
+<cylinder-eps-converted-to.pdf, id=26, 404.51125pt x 437.635pt>
 File: cylinder-eps-converted-to.pdf Graphic file (type pdf)
 <use cylinder-eps-converted-to.pdf>
 Package pdftex.def Info: cylinder-eps-converted-to.pdf  used on input line 51.
 (pdftex.def)             Requested size: 167.29967pt x 181.00078pt.
-[2pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) 
-has been already used, duplicate ignored
+[2
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) ha
+s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
+                                                  \__shipout_drop_firstpage_...
 l.57         \item F
                     or bodies rolling from a height $h$ on a ramp inclined a...
+
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
+                                                  \__shipout_drop_firstpage_...
 l.57         \item F
                     or bodies rolling from a height $h$ on a ramp inclined a...
  <./sphere-eps-converted-to.pdf> <./cylinder-eps-converted-to.pdf>] [3]
 Package epstopdf Info: Source file: <shear.eps>
-(epstopdf)                    date: 2021-01-01 03:47:34
-(epstopdf)                    size: 2919458 bytes
+(epstopdf)                    date: 2022-10-10 18:58:30
+(epstopdf)                    size: 2956617 bytes
 (epstopdf)             Output file: <shear-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-01-25 13:35:12
+(epstopdf)                    date: 2022-10-10 18:58:30
 (epstopdf)                    size: 59012 bytes
-(epstopdf)             Command: <epstopdf --outfile=shear-eps-converted-to.pdf 
-shear.eps>
+(epstopdf)             Command: <miktex-epstopdf --outfile=shear-eps-converted-
+to.pdf shear.eps>
 (epstopdf)             \includegraphics on input line 79.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./shear-eps-converted-to.pdf): PDF inclusion: fo
 und PDF version <1.7>, but at most version <1.5> allowed
-<shear-eps-converted-to.pdf, id=82, 342.27875pt x 218.8175pt>
+<shear-eps-converted-to.pdf, id=58, 342.27875pt x 218.8175pt>
 File: shear-eps-converted-to.pdf Graphic file (type pdf)
 <use shear-eps-converted-to.pdf>
 Package pdftex.def Info: shear-eps-converted-to.pdf  used on input line 79.
 (pdftex.def)             Requested size: 278.97957pt x 178.36305pt.
-[4] [5pdfTeX warning (ext4): destination with the same identifier (name{figure.
-3}) has been already used, duplicate ignored
+[4] [5
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) ha
+s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
+                                                  \__shipout_drop_firstpage_...
 l.93 ...\rho}=-\frac{\Delta V}V=\frac{\Delta P}B\]
                                                    Note that in the above ca...
  <./shear-eps-converted-to.pdf>] [6]
 Package epstopdf Info: Source file: <capillary.eps>
-(epstopdf)                    date: 2021-01-01 03:47:34
-(epstopdf)                    size: 1388250 bytes
+(epstopdf)                    date: 2022-10-10 18:58:30
+(epstopdf)                    size: 1406027 bytes
 (epstopdf)             Output file: <capillary-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-01-25 13:35:16
+(epstopdf)                    date: 2022-10-10 18:58:30
 (epstopdf)                    size: 9804 bytes
-(epstopdf)             Command: <epstopdf --outfile=capillary-eps-converted-to.
-pdf capillary.eps>
+(epstopdf)             Command: <miktex-epstopdf --outfile=capillary-eps-conver
+ted-to.pdf capillary.eps>
 (epstopdf)             \includegraphics on input line 103.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./capillary-eps-converted-to.pdf): PDF inclusion
 : found PDF version <1.7>, but at most version <1.5> allowed
-<capillary-eps-converted-to.pdf, id=102, 185.69376pt x 191.71625pt>
+<capillary-eps-converted-to.pdf, id=78, 185.69376pt x 191.71625pt>
 File: capillary-eps-converted-to.pdf Graphic file (type pdf)
 <use capillary-eps-converted-to.pdf>
 Package pdftex.def Info: capillary-eps-converted-to.pdf  used on input line 103
 .
 (pdftex.def)             Requested size: 167.29967pt x 172.73024pt.
 Package epstopdf Info: Source file: <viscosity.eps>
-(epstopdf)                    date: 2021-01-01 03:47:34
-(epstopdf)                    size: 140986 bytes
+(epstopdf)                    date: 2022-10-10 18:58:30
+(epstopdf)                    size: 143069 bytes
 (epstopdf)             Output file: <viscosity-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-01-25 13:35:18
+(epstopdf)                    date: 2022-10-10 18:58:30
 (epstopdf)                    size: 90580 bytes
-(epstopdf)             Command: <epstopdf --outfile=viscosity-eps-converted-to.
-pdf viscosity.eps>
+(epstopdf)             Command: <miktex-epstopdf --outfile=viscosity-eps-conver
+ted-to.pdf viscosity.eps>
 (epstopdf)             \includegraphics on input line 108.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./viscosity-eps-converted-to.pdf): PDF inclusion
 : found PDF version <1.7>, but at most version <1.5> allowed
-<viscosity-eps-converted-to.pdf, id=103, 252.945pt x 169.63374pt>
+<viscosity-eps-converted-to.pdf, id=79, 252.945pt x 169.63374pt>
 File: viscosity-eps-converted-to.pdf Graphic file (type pdf)
 <use viscosity-eps-converted-to.pdf>
 Package pdftex.def Info: viscosity-eps-converted-to.pdf  used on input line 108
 .
 (pdftex.def)             Requested size: 209.12778pt x 140.2498pt.
-[7pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) 
-has been already used, duplicate ignored
+[7
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) ha
+s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
+                                                  \__shipout_drop_firstpage_...
 l.112 ...{term}=\frac{2r^2(\rho-\sigma)g}{9\eta}\]
                                                    where $\sigma$ is the den...
+
 pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
+                                                  \__shipout_drop_firstpage_...
 l.112 ...{term}=\frac{2r^2(\rho-\sigma)g}{9\eta}\]
                                                    where $\sigma$ is the den...
  <./capillary-eps-converted-to.pdf> <./viscosity-eps-converted-to.pdf>]
-LaTeX Font Info:    Calculating math sizes for size <7.665> on input line 124.
+Overfull \hbox (0.10283pt too wide) in paragraph at lines 119--120
+[]\OT1/cmr/m/n/10.95 (+20) The heat of fusion of H$[]$O: 80 cal g$[]$. Heat of 
+vaporization of H$[]$O: 540 cal g$[]$. 
+ []
 
+LaTeX Font Info:    Calculating math sizes for size <7.665> on input line 124.
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <3.83249> not available
 (Font)              size <5> substituted on input line 124.
@@ -1414,7 +1336,7 @@ LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <3.83249> not available
 (Font)              size <5> substituted on input line 124.
 
 [8]
-USAPhO for Dummies.tex:130: Missing { inserted.
+USAPhO Notes.tex:130: Missing { inserted.
 <to be read again> 
                    \mathop 
 l.130 ... $\boxed{2.88\times10^{-3}=T\lambda_\max}
@@ -1424,7 +1346,7 @@ You might want to delete and/or insert some corrections
 so that I will find a matching right brace soon.
 (If you're confused by all this, try typing `I}' now.)
 
-USAPhO for Dummies.tex:130: Missing } inserted.
+USAPhO Notes.tex:130: Missing } inserted.
 <inserted text> 
                 }
 l.130 ... $\boxed{2.88\times10^{-3}=T\lambda_\max}
@@ -1447,14 +1369,8 @@ Overfull \hbox (0.17068pt too wide) in paragraph at lines 135--135
  is just volume. Thus, we 
  []
 
-[9]
-Overfull \hbox (0.11914pt too wide) in paragraph at lines 141--142
-[]\OT1/cmr/m/n/10.95 (+18) Total entropy of an isolated system cannot decrease 
-with time and is constant if 
- []
-
-[10] [11] [12]
-USAPhO for Dummies.tex:199: Missing \right. inserted.
+[9] [10] [11] [12]
+USAPhO Notes.tex:199: Missing \right. inserted.
 <inserted text> 
                 \right .
 l.199 ...f the particles $\left(\langle v\rangle)$
@@ -1498,34 +1414,41 @@ here pres-sure is $\OML/cmm/m/it/10.95 P[]$ \OT1/cmr/m/n/10.95 (+13) is where
 
 [18] [19]
 Package epstopdf Info: Source file: <rod.eps>
-(epstopdf)                    date: 2021-01-01 03:47:34
-(epstopdf)                    size: 3279103 bytes
+(epstopdf)                    date: 2022-10-10 18:58:30
+(epstopdf)                    size: 3320815 bytes
 (epstopdf)             Output file: <rod-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-01-25 13:35:25
+(epstopdf)                    date: 2022-10-10 18:58:30
 (epstopdf)                    size: 50774 bytes
-(epstopdf)             Command: <epstopdf --outfile=rod-eps-converted-to.pdf ro
-d.eps>
+(epstopdf)             Command: <miktex-epstopdf --outfile=rod-eps-converted-to
+.pdf rod.eps>
 (epstopdf)             \includegraphics on input line 263.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./rod-eps-converted-to.pdf): PDF inclusion: foun
 d PDF version <1.7>, but at most version <1.5> allowed
-<rod-eps-converted-to.pdf, id=200, 725.71124pt x 747.79375pt>
+<rod-eps-converted-to.pdf, id=176, 725.71124pt x 747.79375pt>
 File: rod-eps-converted-to.pdf Graphic file (type pdf)
 <use rod-eps-converted-to.pdf>
 Package pdftex.def Info: rod-eps-converted-to.pdf  used on input line 263.
 (pdftex.def)             Requested size: 209.12778pt x 215.48538pt.
-[20] [21pdfTeX warning (ext4): destination with the same identifier (name{figur
-e.6}) has been already used, duplicate ignored
+[20] [21
+pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) ha
+s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
+                                                  \__shipout_drop_firstpage_...
 l.272         \item \textbf
                            {NOTE:} inside a \textit{conductive} body the cha...
  <./rod-eps-converted-to.pdf>]
 Overfull \hbox (0.10323pt too wide) in paragraph at lines 273--273
 \OT1/cmr/m/n/10.95 (+2) Here $[]$ is the area vector and The OUTER SURFACE is t
 aken as positive for $[]$. 
+ []
+
+
+Overfull \hbox (0.16199pt too wide) in paragraph at lines 276--277
+[]\OT1/cmr/m/n/10.95 (+5) Just like with gravity, Newton's Shell Theorem also a
+pplies to electrostatic. Note 
  []
 
 [22]
@@ -1542,31 +1465,32 @@ ten-tial. You can think of it as
 
 [23]
 Package epstopdf Info: Source file: <dipole.eps>
-(epstopdf)                    date: 2021-01-01 03:47:34
-(epstopdf)                    size: 898158 bytes
+(epstopdf)                    date: 2022-10-10 18:58:30
+(epstopdf)                    size: 909731 bytes
 (epstopdf)             Output file: <dipole-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-01-25 13:35:28
+(epstopdf)                    date: 2022-10-10 18:58:30
 (epstopdf)                    size: 6545 bytes
-(epstopdf)             Command: <epstopdf --outfile=dipole-eps-converted-to.pdf
- dipole.eps>
+(epstopdf)             Command: <miktex-epstopdf --outfile=dipole-eps-converted
+-to.pdf dipole.eps>
 (epstopdf)             \includegraphics on input line 293.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./dipole-eps-converted-to.pdf): PDF inclusion: f
 ound PDF version <1.7>, but at most version <1.5> allowed
-<dipole-eps-converted-to.pdf, id=223, 157.58875pt x 145.54375pt>
+<dipole-eps-converted-to.pdf, id=199, 157.58875pt x 145.54375pt>
 File: dipole-eps-converted-to.pdf Graphic file (type pdf)
 <use dipole-eps-converted-to.pdf>
 Package pdftex.def Info: dipole-eps-converted-to.pdf  used on input line 293.
 (pdftex.def)             Requested size: 167.29967pt x 154.52213pt.
-[24pdfTeX warning (ext4): destination with the same identifier (name{figure.7})
- has been already used, duplicate ignored
+[24
+pdfTeX warning (ext4): destination with the same identifier (name{figure.7}) ha
+s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
+                                                  \__shipout_drop_firstpage_...
 l.301     \end{itemize}
                         <./dipole-eps-converted-to.pdf>] [25]
-USAPhO for Dummies.tex:315: Undefined control sequence.
+USAPhO Notes.tex:315: Undefined control sequence.
 l.315 ...athbf J}=\rho\vec{\mathbf v}_D}\] \mahtbf
                                                   {Note}: drift velocity and...
 The control sequence at the end of the top line
@@ -1588,39 +1512,39 @@ Overfull \hbox (0.15761pt too wide) in paragraph at lines 318--318
  []
 
 Package epstopdf Info: Source file: <series.eps>
-(epstopdf)                    date: 2021-01-02 05:31:09
-(epstopdf)                    size: 316112 bytes
+(epstopdf)                    date: 2022-10-10 18:58:30
+(epstopdf)                    size: 320318 bytes
 (epstopdf)             Output file: <series-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-01-25 13:35:30
+(epstopdf)                    date: 2022-10-10 18:58:30
 (epstopdf)                    size: 10437 bytes
-(epstopdf)             Command: <epstopdf --outfile=series-eps-converted-to.pdf
- series.eps>
+(epstopdf)             Command: <miktex-epstopdf --outfile=series-eps-converted
+-to.pdf series.eps>
 (epstopdf)             \includegraphics on input line 323.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./series-eps-converted-to.pdf): PDF inclusion: f
 ound PDF version <1.7>, but at most version <1.5> allowed
-<series-eps-converted-to.pdf, id=240, 100.375pt x 79.29625pt>
+<series-eps-converted-to.pdf, id=216, 100.375pt x 79.29625pt>
 File: series-eps-converted-to.pdf Graphic file (type pdf)
 <use series-eps-converted-to.pdf>
 Package pdftex.def Info: series-eps-converted-to.pdf  used on input line 323.
 (pdftex.def)             Requested size: 167.29967pt x 132.18587pt.
 Package epstopdf Info: Source file: <parallel.eps>
-(epstopdf)                    date: 2021-01-02 05:31:05
-(epstopdf)                    size: 433796 bytes
+(epstopdf)                    date: 2022-10-10 18:58:30
+(epstopdf)                    size: 439491 bytes
 (epstopdf)             Output file: <parallel-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-01-25 13:35:32
+(epstopdf)                    date: 2022-10-10 18:58:30
 (epstopdf)                    size: 11825 bytes
-(epstopdf)             Command: <epstopdf --outfile=parallel-eps-converted-to.p
-df parallel.eps>
+(epstopdf)             Command: <miktex-epstopdf --outfile=parallel-eps-convert
+ed-to.pdf parallel.eps>
 (epstopdf)             \includegraphics on input line 328.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./parallel-eps-converted-to.pdf): PDF inclusion:
  found PDF version <1.7>, but at most version <1.5> allowed
-<parallel-eps-converted-to.pdf, id=241, 108.405pt x 101.37875pt>
+<parallel-eps-converted-to.pdf, id=217, 108.405pt x 101.37875pt>
 File: parallel-eps-converted-to.pdf Graphic file (type pdf)
 <use parallel-eps-converted-to.pdf>
 Package pdftex.def Info: parallel-eps-converted-to.pdf  used on input line 328.
@@ -1632,16 +1556,18 @@ Overfull \hbox (0.11403pt too wide) in paragraph at lines 333--334
 (+8) measures the current flowing through a wire and is always attached 
  []
 
-[27pdfTeX warning (ext4): destination with the same identifier (name{figure.8})
- has been already used, duplicate ignored
+[27
+pdfTeX warning (ext4): destination with the same identifier (name{figure.8}) ha
+s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
+                                                  \__shipout_drop_firstpage_...
 l.340         \item L
                      oop Law: essentially a statement of conservation of ene...
+
 pdfTeX warning (ext4): destination with the same identifier (name{figure.9}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
+                                                  \__shipout_drop_firstpage_...
 l.340         \item L
                      oop Law: essentially a statement of conservation of ene...
  <./series-eps-converted-to.pdf> <./parallel-eps-converted-to.pdf>]
@@ -1651,20 +1577,20 @@ compensated by a battery
  []
 
 Package epstopdf Info: Source file: <kirchhoff.eps>
-(epstopdf)                    date: 2021-01-02 08:14:20
-(epstopdf)                    size: 2636960 bytes
+(epstopdf)                    date: 2022-10-10 18:58:30
+(epstopdf)                    size: 2670543 bytes
 (epstopdf)             Output file: <kirchhoff-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-01-25 13:35:36
+(epstopdf)                    date: 2022-10-10 18:58:30
 (epstopdf)                    size: 20444 bytes
-(epstopdf)             Command: <epstopdf --outfile=kirchhoff-eps-converted-to.
-pdf kirchhoff.eps>
+(epstopdf)             Command: <miktex-epstopdf --outfile=kirchhoff-eps-conver
+ted-to.pdf kirchhoff.eps>
 (epstopdf)             \includegraphics on input line 344.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./kirchhoff-eps-converted-to.pdf): PDF inclusion
 : found PDF version <1.7>, but at most version <1.5> allowed
-<kirchhoff-eps-converted-to.pdf, id=258, 259.97125pt x 259.97125pt>
+<kirchhoff-eps-converted-to.pdf, id=234, 259.97125pt x 259.97125pt>
 File: kirchhoff-eps-converted-to.pdf Graphic file (type pdf)
 <use kirchhoff-eps-converted-to.pdf>
 Package pdftex.def Info: kirchhoff-eps-converted-to.pdf  used on input line 344
@@ -1677,8 +1603,7 @@ OT1/cmr/m/n/10.95 (+4) with voltage $[]$ around the loop clockwise, we
  []
 
 
-USAPhO for Dummies.tex:353: LaTeX Error: Something's wrong--perhaps a missing \
-item.
+USAPhO Notes.tex:353: LaTeX Error: Something's wrong--perhaps a missing \item.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -1690,47 +1615,48 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 Package epstopdf Info: Source file: <delta.eps>
-(epstopdf)                    date: 2021-01-03 10:33:18
-(epstopdf)                    size: 2371466 bytes
+(epstopdf)                    date: 2022-10-10 18:58:30
+(epstopdf)                    size: 2401689 bytes
 (epstopdf)             Output file: <delta-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-01-25 13:35:40
+(epstopdf)                    date: 2022-10-10 18:58:30
 (epstopdf)                    size: 48681 bytes
-(epstopdf)             Command: <epstopdf --outfile=delta-eps-converted-to.pdf 
-delta.eps>
+(epstopdf)             Command: <miktex-epstopdf --outfile=delta-eps-converted-
+to.pdf delta.eps>
 (epstopdf)             \includegraphics on input line 360.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./delta-eps-converted-to.pdf): PDF inclusion: fo
 und PDF version <1.7>, but at most version <1.5> allowed
-<delta-eps-converted-to.pdf, id=259, 268.00125pt x 226.8475pt>
+<delta-eps-converted-to.pdf, id=235, 268.00125pt x 226.8475pt>
 File: delta-eps-converted-to.pdf Graphic file (type pdf)
 <use delta-eps-converted-to.pdf>
 Package pdftex.def Info: delta-eps-converted-to.pdf  used on input line 360.
 (pdftex.def)             Requested size: 167.29967pt x 141.60973pt.
 Package epstopdf Info: Source file: <star.eps>
-(epstopdf)                    date: 2021-01-03 10:26:34
-(epstopdf)                    size: 1493441 bytes
+(epstopdf)                    date: 2022-10-10 18:58:30
+(epstopdf)                    size: 1512549 bytes
 (epstopdf)             Output file: <star-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-01-25 13:35:43
+(epstopdf)                    date: 2022-10-10 18:58:30
 (epstopdf)                    size: 34860 bytes
-(epstopdf)             Command: <epstopdf --outfile=star-eps-converted-to.pdf s
-tar.eps>
+(epstopdf)             Command: <miktex-epstopdf --outfile=star-eps-converted-t
+o.pdf star.eps>
 (epstopdf)             \includegraphics on input line 365.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./star-eps-converted-to.pdf): PDF inclusion: fou
 nd PDF version <1.7>, but at most version <1.5> allowed
-<star-eps-converted-to.pdf, id=260, 212.795pt x 179.67125pt>
+<star-eps-converted-to.pdf, id=236, 212.795pt x 179.67125pt>
 File: star-eps-converted-to.pdf Graphic file (type pdf)
 <use star-eps-converted-to.pdf>
 Package pdftex.def Info: star-eps-converted-to.pdf  used on input line 365.
 (pdftex.def)             Requested size: 167.29967pt x 141.26428pt.
-[28pdfTeX warning (ext4): destination with the same identifier (name{figure.10}
-) has been already used, duplicate ignored
+[28
+pdfTeX warning (ext4): destination with the same identifier (name{figure.10}) h
+as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
+                                                  \__shipout_drop_firstpage_...
 l.370         \item W
                      hile solving for equivalent resistance, there is someth...
  <./kirchhoff-eps-converted-to.pdf>]
@@ -1738,22 +1664,18 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmtt' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-
-Overfull \hbox (0.12047pt too wide) in paragraph at lines 371--372
-[]\OT1/cmr/m/n/10.95 (+16) To solve a complicated resistance structure, you can
- use symmetry to cut it into 
- []
-
-[29pdfTeX warning (ext4): destination with the same identifier (name{figure.11}
-) has been already used, duplicate ignored
+ [29
+pdfTeX warning (ext4): destination with the same identifier (name{figure.11}) h
+as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
+                                                  \__shipout_drop_firstpage_...
 l.378         \item I
                      n a capacitor, the higher the voltage applied between t...
+
 pdfTeX warning (ext4): destination with the same identifier (name{figure.12}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
+                                                  \__shipout_drop_firstpage_...
 l.378         \item I
                      n a capacitor, the higher the voltage applied between t...
  <./delta-eps-converted-to.pdf> <./star-eps-converted-to.pdf>]
@@ -1763,13 +1685,13 @@ el-plate capacitor with area
  []
 
 
-Overfull \hbox (0.16603pt too wide) in paragraph at lines 387--387
-[]\OT1/cmr/m/n/10.95 (+10) The capacitance of a spherical capacitor (with inner
- spherical radius $\OML/cmm/m/it/10.95 a$ \OT1/cmr/m/n/10.95 (+10) and outer 
+Overfull \hbox (0.11008pt too wide) in paragraph at lines 387--387
+[]\OT1/cmr/m/n/10.95 (+11) The capacitance of a spherical capacitor (with inner
+ spherical radius $\OML/cmm/m/it/10.95 a$ \OT1/cmr/m/n/10.95 (+11) and outer 
  []
 
 [30] [31]
-USAPhO for Dummies.tex:404: Undefined control sequence.
+USAPhO Notes.tex:404: Undefined control sequence.
 l.404 ...eutral. The charges may be flowing \texit
                                                   {through} the wire, but th...
 The control sequence at the end of the top line
@@ -1785,20 +1707,20 @@ s in the semi-circular wire
  []
 
 Package epstopdf Info: Source file: <magneticdipole.eps>
-(epstopdf)                    date: 2021-01-06 07:46:21
-(epstopdf)                    size: 2969537 bytes
+(epstopdf)                    date: 2022-10-10 18:58:30
+(epstopdf)                    size: 3007330 bytes
 (epstopdf)             Output file: <magneticdipole-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-01-25 13:35:48
+(epstopdf)                    date: 2022-10-10 18:58:30
 (epstopdf)                    size: 21332 bytes
-(epstopdf)             Command: <epstopdf --outfile=magneticdipole-eps-converte
-d-to.pdf magneticdipole.eps>
+(epstopdf)             Command: <miktex-epstopdf --outfile=magneticdipole-eps-c
+onverted-to.pdf magneticdipole.eps>
 (epstopdf)             \includegraphics on input line 412.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./magneticdipole-eps-converted-to.pdf): PDF incl
 usion: found PDF version <1.7>, but at most version <1.5> allowed
-<magneticdipole-eps-converted-to.pdf, id=309, 465.74pt x 163.61125pt>
+<magneticdipole-eps-converted-to.pdf, id=285, 465.74pt x 163.61125pt>
 File: magneticdipole-eps-converted-to.pdf Graphic file (type pdf)
 <use magneticdipole-eps-converted-to.pdf>
 Package pdftex.def Info: magneticdipole-eps-converted-to.pdf  used on input lin
@@ -1809,47 +1731,54 @@ Overfull \hbox (0.90657pt too wide) in paragraph at lines 412--413
  [][] 
  []
 
-[33pdfTeX warning (ext4): destination with the same identifier (name{figure.13}
-) has been already used, duplicate ignored
+[33
+pdfTeX warning (ext4): destination with the same identifier (name{figure.13}) h
+as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
+                                                  \__shipout_drop_firstpage_...
 l.417         \item J
                      ust like with $\vec{\mathbf p}$, the potential energy h...
  <./magneticdipole-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <biot.eps>
-(epstopdf)                    date: 2021-01-08 00:33:17
-(epstopdf)                    size: 2437443 bytes
+(epstopdf)                    date: 2022-10-10 18:58:30
+(epstopdf)                    size: 2468501 bytes
 (epstopdf)             Output file: <biot-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-01-25 13:35:51
+(epstopdf)                    date: 2022-10-10 18:58:30
 (epstopdf)                    size: 23947 bytes
-(epstopdf)             Command: <epstopdf --outfile=biot-eps-converted-to.pdf b
-iot.eps>
+(epstopdf)             Command: <miktex-epstopdf --outfile=biot-eps-converted-t
+o.pdf biot.eps>
 (epstopdf)             \includegraphics on input line 427.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./biot-eps-converted-to.pdf): PDF inclusion: fou
 nd PDF version <1.7>, but at most version <1.5> allowed
-<biot-eps-converted-to.pdf, id=319, 263.98625pt x 236.885pt>
+<biot-eps-converted-to.pdf, id=295, 263.98625pt x 236.885pt>
 File: biot-eps-converted-to.pdf Graphic file (type pdf)
 <use biot-eps-converted-to.pdf>
 Package pdftex.def Info: biot-eps-converted-to.pdf  used on input line 427.
 (pdftex.def)             Requested size: 158.39296pt x 142.13208pt.
 [34]
 Overfull \hbox (0.10501pt too wide) in paragraph at lines 431--432
-\OT1/cmr/m/n/10.95 (+7) over, $\OML/cmm/m/it/10.95  \OT1/cmr/m/n/10.95 (+7) = 
-\OML/cmm/m/it/10.95 [][]$ \OT1/cmr/m/n/10.95 (+7) where $\OML/cmm/m/it/10.95 
-[]$ \OT1/cmr/m/n/10.95 (+7) is the rel-a-tive mag-netic per-me-abil-ity which 
-is anal-o-gous 
+\OT1/cmr/m/n/10.95 (+7) over, $\OML/cmm/m/it/10.95 ^^V \OT1/cmr/m/n/10.95 (+7) 
+= \OML/cmm/m/it/10.95 ^^V[]^^V[]$ \OT1/cmr/m/n/10.95 (+7) where $\OML/cmm/m/it/
+10.95 ^^V[]$ \OT1/cmr/m/n/10.95 (+7) is the rel-a-tive mag-netic per-me-abil-it
+y which is anal-o-gous 
  []
 
-[35pdfTeX warning (ext4): destination with the same identifier (name{figure.14}
-) has been already used, duplicate ignored
+[35
+pdfTeX warning (ext4): destination with the same identifier (name{figure.14}) h
+as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
+                                                  \__shipout_drop_firstpage_...
 l.436 ...his magnetic field will be $I_2B$, or, \[
                                                   \boxed{\frac{\mathrm dF}{\...
  <./biot-eps-converted-to.pdf>]
+
+LaTeX Warning: Reference `secondfootnote' on page 36 undefined on input line 43
+6.
+
+
 Overfull \hbox (0.11435pt too wide) in paragraph at lines 436--437
 \OT1/cmr/m/n/10.95 (+16) For the other wire, the force will be identical and th
 is force will be \OT1/cmr/m/it/10.95 (+16) attractive \OT1/cmr/m/n/10.95 (+16) 
@@ -1857,7 +1786,7 @@ for
  []
 
 
-USAPhO for Dummies.tex:438: LaTeX Error: There's no line here to end.
+USAPhO Notes.tex:438: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -1870,20 +1799,20 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 Package epstopdf Info: Source file: <ampere.eps>
-(epstopdf)                    date: 2021-01-08 04:52:47
-(epstopdf)                    size: 2731220 bytes
+(epstopdf)                    date: 2022-10-10 18:58:30
+(epstopdf)                    size: 2765997 bytes
 (epstopdf)             Output file: <ampere-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-01-25 13:35:55
+(epstopdf)                    date: 2022-10-10 18:58:30
 (epstopdf)                    size: 49934 bytes
-(epstopdf)             Command: <epstopdf --outfile=ampere-eps-converted-to.pdf
- ampere.eps>
+(epstopdf)             Command: <miktex-epstopdf --outfile=ampere-eps-converted
+-to.pdf ampere.eps>
 (epstopdf)             \includegraphics on input line 442.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./ampere-eps-converted-to.pdf): PDF inclusion: f
 ound PDF version <1.7>, but at most version <1.5> allowed
-<ampere-eps-converted-to.pdf, id=337, 854.19125pt x 528.97626pt>
+<ampere-eps-converted-to.pdf, id=313, 854.19125pt x 528.97626pt>
 File: ampere-eps-converted-to.pdf Graphic file (type pdf)
 <use ampere-eps-converted-to.pdf>
 Package pdftex.def Info: ampere-eps-converted-to.pdf  used on input line 442.
@@ -1894,10 +1823,11 @@ Overfull \hbox (0.16792pt too wide) in paragraph at lines 439--444
 long a closed, pla-nar curve is the prod- 
  []
 
-[36pdfTeX warning (ext4): destination with the same identifier (name{figure.15}
-) has been already used, duplicate ignored
+[36
+pdfTeX warning (ext4): destination with the same identifier (name{figure.15}) h
+as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
+                                                  \__shipout_drop_firstpage_...
 l.445 ...the total enclosed current, and we get \[
                                                   \boxed{\oint_{\partial \Si...
  <./ampere-eps-converted-to.pdf>]
@@ -1907,40 +1837,40 @@ Overfull \hbox (0.11522pt too wide) in paragraph at lines 445--445
  []
 
 Package epstopdf Info: Source file: <solenoid.eps>
-(epstopdf)                    date: 2021-01-08 09:10:43
-(epstopdf)                    size: 16662959 bytes
+(epstopdf)                    date: 2022-10-10 18:58:30
+(epstopdf)                    size: 16874087 bytes
 (epstopdf)             Output file: <solenoid-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-01-25 13:36:13
+(epstopdf)                    date: 2022-10-10 18:58:30
 (epstopdf)                    size: 211664 bytes
-(epstopdf)             Command: <epstopdf --outfile=solenoid-eps-converted-to.p
-df solenoid.eps>
+(epstopdf)             Command: <miktex-epstopdf --outfile=solenoid-eps-convert
+ed-to.pdf solenoid.eps>
 (epstopdf)             \includegraphics on input line 453.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./solenoid-eps-converted-to.pdf): PDF inclusion:
  found PDF version <1.7>, but at most version <1.5> allowed
-<solenoid-eps-converted-to.pdf, id=347, 2168.1pt x 1273.75874pt>
+<solenoid-eps-converted-to.pdf, id=324, 2168.1pt x 1273.75874pt>
 File: solenoid-eps-converted-to.pdf Graphic file (type pdf)
 <use solenoid-eps-converted-to.pdf>
 Package pdftex.def Info: solenoid-eps-converted-to.pdf  used on input line 453.
 
 (pdftex.def)             Requested size: 230.04182pt x 135.13829pt.
 Package epstopdf Info: Source file: <toroid.eps>
-(epstopdf)                    date: 2021-01-08 09:18:34
-(epstopdf)                    size: 606928 bytes
+(epstopdf)                    date: 2022-10-10 18:58:30
+(epstopdf)                    size: 614815 bytes
 (epstopdf)             Output file: <toroid-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-01-25 13:36:15
+(epstopdf)                    date: 2022-10-10 18:58:30
 (epstopdf)                    size: 40403 bytes
-(epstopdf)             Command: <epstopdf --outfile=toroid-eps-converted-to.pdf
- toroid.eps>
+(epstopdf)             Command: <miktex-epstopdf --outfile=toroid-eps-converted
+-to.pdf toroid.eps>
 (epstopdf)             \includegraphics on input line 458.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./toroid-eps-converted-to.pdf): PDF inclusion: f
 ound PDF version <1.7>, but at most version <1.5> allowed
-<toroid-eps-converted-to.pdf, id=348, 315.1775pt x 316.18124pt>
+<toroid-eps-converted-to.pdf, id=325, 315.1775pt x 316.18124pt>
 File: toroid-eps-converted-to.pdf Graphic file (type pdf)
 <use toroid-eps-converted-to.pdf>
 Package pdftex.def Info: toroid-eps-converted-to.pdf  used on input line 458.
@@ -1952,21 +1882,23 @@ t/10.95 Bl$ \OT1/cmr/m/n/10.95 (+20) and the en-closed cur-rent is sim-ply, $\O
 ML/cmm/m/it/10.95 nlI$\OT1/cmr/m/n/10.95 (+20) . 
  []
 
-[37pdfTeX warning (ext4): destination with the same identifier (name{figure.16}
-) has been already used, duplicate ignored
+[37
+pdfTeX warning (ext4): destination with the same identifier (name{figure.16}) h
+as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
+                                                  \__shipout_drop_firstpage_...
 l.463 ...nlI$. Thus, the magnetic field becomes \[
                                                   Bl=\mu nlI\implies\boxed{B...
+
 pdfTeX warning (ext4): destination with the same identifier (name{figure.17}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
+                                                  \__shipout_drop_firstpage_...
 l.463 ...nlI$. Thus, the magnetic field becomes \[
                                                   Bl=\mu nlI\implies\boxed{B...
  <./solenoid-eps-converted-to.pdf> <./toroid-eps-converted-to.pdf>]
 
-USAPhO for Dummies.tex:467: LaTeX Error: There's no line here to end.
+USAPhO Notes.tex:467: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -1987,7 +1919,7 @@ OT1/cmr/m/n/10.95 (+20) the mag-netic flux change.
 
 [38]
 
-USAPhO for Dummies.tex:476: LaTeX Error: There's no line here to end.
+USAPhO Notes.tex:476: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -2001,20 +1933,20 @@ or  <return>  to continue without it.
 
 [39]
 Package epstopdf Info: Source file: <tor.eps>
-(epstopdf)                    date: 2021-01-09 12:44:48
-(epstopdf)                    size: 2792991 bytes
+(epstopdf)                    date: 2022-10-10 18:58:30
+(epstopdf)                    size: 2828549 bytes
 (epstopdf)             Output file: <tor-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-01-25 13:36:19
+(epstopdf)                    date: 2022-10-10 18:58:30
 (epstopdf)                    size: 25135 bytes
-(epstopdf)             Command: <epstopdf --outfile=tor-eps-converted-to.pdf to
-r.eps>
+(epstopdf)             Command: <miktex-epstopdf --outfile=tor-eps-converted-to
+.pdf tor.eps>
 (epstopdf)             \includegraphics on input line 485.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./tor-eps-converted-to.pdf): PDF inclusion: foun
 d PDF version <1.7>, but at most version <1.5> allowed
-<tor-eps-converted-to.pdf, id=373, 359.3425pt x 198.7425pt>
+<tor-eps-converted-to.pdf, id=350, 359.3425pt x 198.7425pt>
 File: tor-eps-converted-to.pdf Graphic file (type pdf)
 <use tor-eps-converted-to.pdf>
 Package pdftex.def Info: tor-eps-converted-to.pdf  used on input line 485.
@@ -2025,20 +1957,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 484--486
  []
 
 Package epstopdf Info: Source file: <inductor.eps>
-(epstopdf)                    date: 2021-01-10 01:51:05
-(epstopdf)                    size: 1129999 bytes
+(epstopdf)                    date: 2022-10-10 18:58:30
+(epstopdf)                    size: 1144507 bytes
 (epstopdf)             Output file: <inductor-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-01-25 13:36:21
+(epstopdf)                    date: 2022-10-10 18:58:30
 (epstopdf)                    size: 20967 bytes
-(epstopdf)             Command: <epstopdf --outfile=inductor-eps-converted-to.p
-df inductor.eps>
+(epstopdf)             Command: <miktex-epstopdf --outfile=inductor-eps-convert
+ed-to.pdf inductor.eps>
 (epstopdf)             \includegraphics on input line 490.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./inductor-eps-converted-to.pdf): PDF inclusion:
  found PDF version <1.7>, but at most version <1.5> allowed
-<inductor-eps-converted-to.pdf, id=374, 233.87375pt x 123.46124pt>
+<inductor-eps-converted-to.pdf, id=351, 233.87375pt x 123.46124pt>
 File: inductor-eps-converted-to.pdf Graphic file (type pdf)
 <use inductor-eps-converted-to.pdf>
 Package pdftex.def Info: inductor-eps-converted-to.pdf  used on input line 490.
@@ -2052,25 +1984,22 @@ t/10.95 A$ \OT1/cmr/m/n/10.95 (+20) and whose emf is sim-ply $\OMS/cmsy/m/n/10.
  (+20) 0$, then the in-duc-tor is equiv- 
  []
 
-[40pdfTeX warning (ext4): destination with the same identifier (name{figure.18}
-) has been already used, duplicate ignored
+[40
+pdfTeX warning (ext4): destination with the same identifier (name{figure.18}) h
+as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
+                                                  \__shipout_drop_firstpage_...
 l.497         \item A
                      n inductor can also store energy (in the form of magnet...
+
 pdfTeX warning (ext4): destination with the same identifier (name{figure.19}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
+                                                  \__shipout_drop_firstpage_...
 l.497         \item A
                      n inductor can also store energy (in the form of magnet...
  <./tor-eps-converted-to.pdf> <./inductor-eps-converted-to.pdf>]
-Overfull \hbox (0.1289pt too wide) in paragraph at lines 497--498
-[]\OT1/cmr/m/n/10.95 (+3) An inductor can also store energy (in the form of mag
-netic potential energy) just 
- []
-
-USAPhO for Dummies.tex:498: Undefined control sequence.
+USAPhO Notes.tex:498: Undefined control sequence.
 l.498 ...we get \[\mathcal EI\mathrm dt-I^2R\mthrm
                                                    dt=LI\mathrm dI\] Note th...
 The control sequence at the end of the top line
@@ -2079,7 +2008,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-USAPhO for Dummies.tex:498: Undefined control sequence.
+USAPhO Notes.tex:498: Undefined control sequence.
 l.498 ..., we get \[\int_0^t\mathcal EI-I^2R\mthrm
                                                    dt=\int_0^ILI\mathrm dI\i...
 The control sequence at the end of the top line
@@ -2090,41 +2019,48 @@ and I'll forget about whatever was undefined.
 
 
 Overfull \hbox (2.1339pt too wide) detected at line 499
-\OMS/cmsy/m/n/10.95 E   \OML/cmm/m/it/10.95 IR \OT1/cmr/m/n/10.95 = \OML/cmm/m/
-it/10.95 L[]  \OT1/cmr/m/n/10.95 =[]\OMS/cmsy/m/n/10.95 )  [] \OT1/cmr/m/n/10.9
-5 = []  =[]\OMS/cmsy/m/n/10.95 )  [][] [] \OT1/cmr/m/n/10.95 = [][] []  =[]\OMS
-/cmsy/m/n/10.95 )  []
+\OMS/cmsy/m/n/10.95 E ^^@ \OML/cmm/m/it/10.95 IR \OT1/cmr/m/n/10.95 = \OML/cmm/
+m/it/10.95 L[]  \OT1/cmr/m/n/10.95 =[]\OMS/cmsy/m/n/10.95 )  [] \OT1/cmr/m/n/10
+.95 = []  =[]\OMS/cmsy/m/n/10.95 )  [][] [] \OT1/cmr/m/n/10.95 = [][] []  =[]\O
+MS/cmsy/m/n/10.95 )  []
  []
 
 [41]
 Package epstopdf Info: Source file: <example.eps>
-(epstopdf)                    date: 2021-01-10 10:18:32
-(epstopdf)                    size: 1126323 bytes
+(epstopdf)                    date: 2022-10-10 18:58:30
+(epstopdf)                    size: 1140785 bytes
 (epstopdf)             Output file: <example-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-01-25 13:36:24
+(epstopdf)                    date: 2022-10-10 18:58:30
 (epstopdf)                    size: 46771 bytes
-(epstopdf)             Command: <epstopdf --outfile=example-eps-converted-to.pd
-f example.eps>
+(epstopdf)             Command: <miktex-epstopdf --outfile=example-eps-converte
+d-to.pdf example.eps>
 (epstopdf)             \includegraphics on input line 504.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./example-eps-converted-to.pdf): PDF inclusion: 
 found PDF version <1.7>, but at most version <1.5> allowed
-<example-eps-converted-to.pdf, id=394, 421.575pt x 440.64626pt>
+<example-eps-converted-to.pdf, id=371, 421.575pt x 440.64626pt>
 File: example-eps-converted-to.pdf Graphic file (type pdf)
 <use example-eps-converted-to.pdf>
 Package pdftex.def Info: example-eps-converted-to.pdf  used on input line 504.
 (pdftex.def)             Requested size: 126.47346pt x 132.19489pt.
-[42pdfTeX warning (ext4): destination with the same identifier (name{figure.20}
-) has been already used, duplicate ignored
+
+Overfull \hbox (0.13283pt too wide) in paragraph at lines 509--509
+[]\OT1/cmr/m/n/10.95 (+15) Well, the inductor will let no current through after
+ 0 time and hence the current 
+ []
+
+[42
+pdfTeX warning (ext4): destination with the same identifier (name{figure.20}) h
+as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
+                                                  \__shipout_drop_firstpage_...
 l.511 ...rac12LI^2=\frac12LI_0^2e^{-\frac{2R}Lt}\]
                                                    Thus, the change in energ...
  <./example-eps-converted-to.pdf>]
 
-USAPhO for Dummies.tex:513: LaTeX Error: There's no line here to end.
+USAPhO Notes.tex:513: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -2137,26 +2073,26 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 Package epstopdf Info: Source file: <magnet.eps>
-(epstopdf)                    date: 2021-01-10 11:56:40
-(epstopdf)                    size: 573511 bytes
+(epstopdf)                    date: 2022-10-10 18:58:30
+(epstopdf)                    size: 580975 bytes
 (epstopdf)             Output file: <magnet-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-01-25 13:36:26
+(epstopdf)                    date: 2022-10-10 18:58:30
 (epstopdf)                    size: 32281 bytes
-(epstopdf)             Command: <epstopdf --outfile=magnet-eps-converted-to.pdf
- magnet.eps>
+(epstopdf)             Command: <miktex-epstopdf --outfile=magnet-eps-converted
+-to.pdf magnet.eps>
 (epstopdf)             \includegraphics on input line 517.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./magnet-eps-converted-to.pdf): PDF inclusion: f
 ound PDF version <1.7>, but at most version <1.5> allowed
-<magnet-eps-converted-to.pdf, id=406, 322.20375pt x 292.09125pt>
+<magnet-eps-converted-to.pdf, id=383, 322.20375pt x 292.09125pt>
 File: magnet-eps-converted-to.pdf Graphic file (type pdf)
 <use magnet-eps-converted-to.pdf>
 Package pdftex.def Info: magnet-eps-converted-to.pdf  used on input line 517.
 (pdftex.def)             Requested size: 161.10147pt x 146.04526pt.
 
-USAPhO for Dummies.tex:521: LaTeX Error: There's no line here to end.
+USAPhO Notes.tex:521: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -2169,89 +2105,93 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 Package epstopdf Info: Source file: <LC.eps>
-(epstopdf)                    date: 2021-01-12 23:59:49
-(epstopdf)                    size: 1190610 bytes
+(epstopdf)                    date: 2022-10-10 18:58:30
+(epstopdf)                    size: 1205885 bytes
 (epstopdf)             Output file: <LC-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-01-25 13:36:28
+(epstopdf)                    date: 2022-10-10 18:58:30
 (epstopdf)                    size: 36279 bytes
-(epstopdf)             Command: <epstopdf --outfile=LC-eps-converted-to.pdf LC.
-eps>
+(epstopdf)             Command: <miktex-epstopdf --outfile=LC-eps-converted-to.
+pdf LC.eps>
 (epstopdf)             \includegraphics on input line 525.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./LC-eps-converted-to.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<LC-eps-converted-to.pdf, id=407, 591.20876pt x 332.24126pt>
+<LC-eps-converted-to.pdf, id=384, 591.20876pt x 332.24126pt>
 File: LC-eps-converted-to.pdf Graphic file (type pdf)
 <use LC-eps-converted-to.pdf>
 Package pdftex.def Info: LC-eps-converted-to.pdf  used on input line 525.
 (pdftex.def)             Requested size: 206.92616pt x 116.28618pt.
-[43pdfTeX warning (ext4): destination with the same identifier (name{figure.21}
-) has been already used, duplicate ignored
+[43
+pdfTeX warning (ext4): destination with the same identifier (name{figure.21}) h
+as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
+                                                  \__shipout_drop_firstpage_...
 l.527     \end{figure}
                        <./magnet-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <ex.eps>
-(epstopdf)                    date: 2021-01-14 13:41:05
-(epstopdf)                    size: 196990 bytes
+(epstopdf)                    date: 2022-10-10 18:58:30
+(epstopdf)                    size: 199888 bytes
 (epstopdf)             Output file: <ex-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-01-25 13:36:30
+(epstopdf)                    date: 2022-10-10 18:58:30
 (epstopdf)                    size: 5658 bytes
-(epstopdf)             Command: <epstopdf --outfile=ex-eps-converted-to.pdf ex.
-eps>
+(epstopdf)             Command: <miktex-epstopdf --outfile=ex-eps-converted-to.
+pdf ex.eps>
 (epstopdf)             \includegraphics on input line 535.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./ex-eps-converted-to.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<ex-eps-converted-to.pdf, id=418, 148.555pt x 98.3675pt>
+<ex-eps-converted-to.pdf, id=395, 148.555pt x 98.3675pt>
 File: ex-eps-converted-to.pdf Graphic file (type pdf)
 <use ex-eps-converted-to.pdf>
 Package pdftex.def Info: ex-eps-converted-to.pdf  used on input line 535.
 (pdftex.def)             Requested size: 222.83194pt x 147.55084pt.
-[44pdfTeX warning (ext4): destination with the same identifier (name{figure.22}
-) has been already used, duplicate ignored
+[44
+pdfTeX warning (ext4): destination with the same identifier (name{figure.22}) h
+as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
+                                                  \__shipout_drop_firstpage_...
 l.538         \item T
                      he cell in the above circuit has an emf $\mathcal E$, a...
  <./LC-eps-converted-to.pdf>] [45 <./ex-eps-converted-to.pdf>]
-Overfull \hbox (0.14742pt too wide) in paragraph at lines 552--552
-[]\OT1/cmr/m/n/10.95 (+18) As we have already seen, for a loop of wire rotating
- with angular velocity $\OML/cmm/m/it/10.95 !$ \OT1/cmr/m/n/10.95 (+18) in a 
- []
-
 Package epstopdf Info: Source file: <fourier.eps>
-(epstopdf)                    date: 2021-01-15 01:59:08
-(epstopdf)                    size: 2583728 bytes
+(epstopdf)                    date: 2022-10-10 18:58:30
+(epstopdf)                    size: 2616638 bytes
 (epstopdf)             Output file: <fourier-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-01-25 13:36:34
+(epstopdf)                    date: 2022-10-10 18:58:30
 (epstopdf)                    size: 32154 bytes
-(epstopdf)             Command: <epstopdf --outfile=fourier-eps-converted-to.pd
-f fourier.eps>
+(epstopdf)             Command: <miktex-epstopdf --outfile=fourier-eps-converte
+d-to.pdf fourier.eps>
 (epstopdf)             \includegraphics on input line 557.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./fourier-eps-converted-to.pdf): PDF inclusion: 
 found PDF version <1.7>, but at most version <1.5> allowed
-<fourier-eps-converted-to.pdf, id=441, 539.01375pt x 122.4575pt>
+<fourier-eps-converted-to.pdf, id=418, 539.01375pt x 122.4575pt>
 File: fourier-eps-converted-to.pdf Graphic file (type pdf)
 <use fourier-eps-converted-to.pdf>
 Package pdftex.def Info: fourier-eps-converted-to.pdf  used on input line 557.
 (pdftex.def)             Requested size: 355.75017pt x 80.82219pt.
-[46pdfTeX warning (ext4): destination with the same identifier (name{figure.23}
-) has been already used, duplicate ignored
+
+Overfull \hbox (0.15291pt too wide) in paragraph at lines 562--562
+[]\OT1/cmr/m/n/10.95 (+5) There is also the RMS current associated with AC. Thi
+s is simply the root mean- 
+ []
+
+[46
+pdfTeX warning (ext4): destination with the same identifier (name{figure.23}) h
+as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
+                                                  \__shipout_drop_firstpage_...
 l.563 ...X_C}\implies\boxed{X_C=\frac1{C\omega}}\]
                                                    Here, $X_C$ is the capaci...
  <./fourier-eps-converted-to.pdf>]
 
-USAPhO for Dummies.tex:566: LaTeX Error: There's no line here to end.
+USAPhO Notes.tex:566: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -2265,15 +2205,15 @@ or  <return>  to continue without it.
 
 LaTeX Font Info:    Trying to load font information for U+euf on input line 569
 .
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\ueuf.fd
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\ueuf.fd
 File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
 )
-(C:\Users\diabl\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-euf.cfg
+(C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-euf.cfg
 File: mt-euf.cfg 2006/07/03 v1.1 microtype config. file: AMS Euler Fraktur (RS)
 
 )
 [47]
-USAPhO for Dummies.tex:571: Undefined control sequence.
+USAPhO Notes.tex:571: Undefined control sequence.
 <argument> ...ntom {\l__xfrac_phantom_tl }\mthcal 
                                                   E_0}
 l.571 ...citive circuit, $\sfrac{\mthcal E_0}{I_0}
@@ -2284,7 +2224,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-USAPhO for Dummies.tex:571: Undefined control sequence.
+USAPhO Notes.tex:571: Undefined control sequence.
 <argument> ...ntom {\l__xfrac_phantom_tl }\mthcal 
                                                   E_0}
 l.571 ...citive circuit, $\sfrac{\mthcal E_0}{I_0}
@@ -2295,7 +2235,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-USAPhO for Dummies.tex:571: Undefined control sequence.
+USAPhO Notes.tex:571: Undefined control sequence.
 <argument> ...ntom {\l__xfrac_phantom_tl }\mthcal 
                                                   E_0}
 l.571 ...citive circuit, $\sfrac{\mthcal E_0}{I_0}
@@ -2306,7 +2246,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-USAPhO for Dummies.tex:571: Undefined control sequence.
+USAPhO Notes.tex:571: Undefined control sequence.
 <argument> ...ntom {\l__xfrac_phantom_tl }\mthcal 
                                                   E_0}
 l.571 ...citive circuit, $\sfrac{\mthcal E_0}{I_0}
@@ -2318,20 +2258,20 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 Package epstopdf Info: Source file: <phasor.eps>
-(epstopdf)                    date: 2021-01-15 14:50:55
-(epstopdf)                    size: 2640825 bytes
+(epstopdf)                    date: 2022-10-10 18:58:30
+(epstopdf)                    size: 2674457 bytes
 (epstopdf)             Output file: <phasor-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-01-25 13:36:38
+(epstopdf)                    date: 2022-10-10 18:58:30
 (epstopdf)                    size: 18071 bytes
-(epstopdf)             Command: <epstopdf --outfile=phasor-eps-converted-to.pdf
- phasor.eps>
+(epstopdf)             Command: <miktex-epstopdf --outfile=phasor-eps-converted
+-to.pdf phasor.eps>
 (epstopdf)             \includegraphics on input line 576.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./phasor-eps-converted-to.pdf): PDF inclusion: f
 ound PDF version <1.7>, but at most version <1.5> allowed
-<phasor-eps-converted-to.pdf, id=463, 316.18124pt x 213.79875pt>
+<phasor-eps-converted-to.pdf, id=440, 316.18124pt x 213.79875pt>
 File: phasor-eps-converted-to.pdf Graphic file (type pdf)
 <use phasor-eps-converted-to.pdf>
 Package pdftex.def Info: phasor-eps-converted-to.pdf  used on input line 576.
@@ -2342,15 +2282,16 @@ Overfull \hbox (0.14255pt too wide) in paragraph at lines 579--580
 um-bers which are eas-ier.  So, the 
  []
 
-[48pdfTeX warning (ext4): destination with the same identifier (name{figure.24}
-) has been already used, duplicate ignored
+[48
+pdfTeX warning (ext4): destination with the same identifier (name{figure.24}) h
+as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
+                                                  \__shipout_drop_firstpage_...
 l.580 ...ind the modulus of the impedance, i.e. \[
                                                   |Z|=\sqrt{R^2+X^2}\] Then ...
  <./phasor-eps-converted-to.pdf>]
 
-USAPhO for Dummies.tex:586: LaTeX Error: There's no line here to end.
+USAPhO Notes.tex:586: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -2365,7 +2306,7 @@ or  <return>  to continue without it.
 
 [49]
 
-USAPhO for Dummies.tex:589: LaTeX Error: There's no line here to end.
+USAPhO Notes.tex:589: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -2378,7 +2319,7 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-USAPhO for Dummies.tex:591: LaTeX Error: There's no line here to end.
+USAPhO Notes.tex:591: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -2391,26 +2332,26 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 Package epstopdf Info: Source file: <case4.eps>
-(epstopdf)                    date: 2021-01-19 05:18:22
-(epstopdf)                    size: 7497187 bytes
+(epstopdf)                    date: 2022-10-10 18:58:30
+(epstopdf)                    size: 7592292 bytes
 (epstopdf)             Output file: <case4-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-01-25 13:36:49
+(epstopdf)                    date: 2022-10-10 18:58:30
 (epstopdf)                    size: 91137 bytes
-(epstopdf)             Command: <epstopdf --outfile=case4-eps-converted-to.pdf 
-case4.eps>
+(epstopdf)             Command: <miktex-epstopdf --outfile=case4-eps-converted-
+to.pdf case4.eps>
 (epstopdf)             \includegraphics on input line 595.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./case4-eps-converted-to.pdf): PDF inclusion: fo
 und PDF version <1.7>, but at most version <1.5> allowed
-<case4-eps-converted-to.pdf, id=481, 671.50874pt x 287.0725pt>
+<case4-eps-converted-to.pdf, id=458, 671.50874pt x 287.0725pt>
 File: case4-eps-converted-to.pdf Graphic file (type pdf)
 <use case4-eps-converted-to.pdf>
 Package pdftex.def Info: case4-eps-converted-to.pdf  used on input line 595.
 (pdftex.def)             Requested size: 402.90836pt x 172.24483pt.
 
-USAPhO for Dummies.tex:599: LaTeX Error: There's no line here to end.
+USAPhO Notes.tex:599: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -2422,28 +2363,29 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[50pdfTeX warning (ext4): destination with the same identifier (name{figure.25}
-) has been already used, duplicate ignored
+[50
+pdfTeX warning (ext4): destination with the same identifier (name{figure.25}) h
+as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
+                                                  \__shipout_drop_firstpage_...
 l.601         \item T
                      he incident ray, the reflected ray, and the normal to t...
  <./case4-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <convexmirror.eps>
-(epstopdf)                    date: 2021-01-20 07:48:26
-(epstopdf)                    size: 1984420 bytes
+(epstopdf)                    date: 2022-10-10 18:58:30
+(epstopdf)                    size: 2009743 bytes
 (epstopdf)             Output file: <convexmirror-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-01-25 13:36:52
+(epstopdf)                    date: 2022-10-10 18:58:30
 (epstopdf)                    size: 24377 bytes
-(epstopdf)             Command: <epstopdf --outfile=convexmirror-eps-converted-
-to.pdf convexmirror.eps>
+(epstopdf)             Command: <miktex-epstopdf --outfile=convexmirror-eps-con
+verted-to.pdf convexmirror.eps>
 (epstopdf)             \includegraphics on input line 613.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./convexmirror-eps-converted-to.pdf): PDF inclus
 ion: found PDF version <1.7>, but at most version <1.5> allowed
-<convexmirror-eps-converted-to.pdf, id=494, 270.00874pt x 187.70125pt>
+<convexmirror-eps-converted-to.pdf, id=471, 270.00874pt x 187.70125pt>
 File: convexmirror-eps-converted-to.pdf Graphic file (type pdf)
 <use convexmirror-eps-converted-to.pdf>
 Package pdftex.def Info: convexmirror-eps-converted-to.pdf  used on input line 
@@ -2455,20 +2397,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 612--614
  []
 
 Package epstopdf Info: Source file: <concavemirror.eps>
-(epstopdf)                    date: 2021-01-20 08:39:26
-(epstopdf)                    size: 1984420 bytes
+(epstopdf)                    date: 2022-10-10 18:58:30
+(epstopdf)                    size: 2009743 bytes
 (epstopdf)             Output file: <concavemirror-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-01-25 13:36:55
+(epstopdf)                    date: 2022-10-10 18:58:30
 (epstopdf)                    size: 24486 bytes
-(epstopdf)             Command: <epstopdf --outfile=concavemirror-eps-converted
--to.pdf concavemirror.eps>
+(epstopdf)             Command: <miktex-epstopdf --outfile=concavemirror-eps-co
+nverted-to.pdf concavemirror.eps>
 (epstopdf)             \includegraphics on input line 618.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./concavemirror-eps-converted-to.pdf): PDF inclu
 sion: found PDF version <1.7>, but at most version <1.5> allowed
-<concavemirror-eps-converted-to.pdf, id=495, 270.00874pt x 187.70125pt>
+<concavemirror-eps-converted-to.pdf, id=472, 270.00874pt x 187.70125pt>
 File: concavemirror-eps-converted-to.pdf Graphic file (type pdf)
 <use concavemirror-eps-converted-to.pdf>
 Package pdftex.def Info: concavemirror-eps-converted-to.pdf  used on input line
@@ -2487,16 +2429,18 @@ Overfull \hbox (0.13293pt too wide) in paragraph at lines 629--630
 y 
  []
 
-[51pdfTeX warning (ext4): destination with the same identifier (name{figure.26}
-) has been already used, duplicate ignored
+[51
+pdfTeX warning (ext4): destination with the same identifier (name{figure.26}) h
+as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
+                                                  \__shipout_drop_firstpage_...
 l.630         \item \textit
                            {Object between} $F$ \textit{and} $C$: if the obj...
+
 pdfTeX warning (ext4): destination with the same identifier (name{figure.27}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
+                                                  \__shipout_drop_firstpage_...
 l.630         \item \textit
                            {Object between} $F$ \textit{and} $C$: if the obj...
  <./convexmirror-eps-converted-to.pdf> <./concavemirror-eps-converted-to.pdf>]
@@ -2507,20 +2451,20 @@ Overfull \hbox (0.1364pt too wide) in paragraph at lines 631--632
  []
 
 Package epstopdf Info: Source file: <concave1.eps>
-(epstopdf)                    date: 2021-01-20 13:44:34
-(epstopdf)                    size: 899203 bytes
+(epstopdf)                    date: 2022-10-10 18:58:30
+(epstopdf)                    size: 910789 bytes
 (epstopdf)             Output file: <concave1-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-01-25 13:36:58
+(epstopdf)                    date: 2022-10-10 18:58:30
 (epstopdf)                    size: 24256 bytes
-(epstopdf)             Command: <epstopdf --outfile=concave1-eps-converted-to.p
-df concave1.eps>
+(epstopdf)             Command: <miktex-epstopdf --outfile=concave1-eps-convert
+ed-to.pdf concave1.eps>
 (epstopdf)             \includegraphics on input line 638.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./concave1-eps-converted-to.pdf): PDF inclusion:
  found PDF version <1.7>, but at most version <1.5> allowed
-<concave1-eps-converted-to.pdf, id=511, 225.84375pt x 101.37875pt>
+<concave1-eps-converted-to.pdf, id=488, 225.84375pt x 101.37875pt>
 File: concave1-eps-converted-to.pdf Graphic file (type pdf)
 <use concave1-eps-converted-to.pdf>
 Package pdftex.def Info: concave1-eps-converted-to.pdf  used on input line 638.
@@ -2532,40 +2476,40 @@ Underfull \hbox (badness 10000) in paragraph at lines 637--639
  []
 
 Package epstopdf Info: Source file: <concave2.eps>
-(epstopdf)                    date: 2021-01-20 13:44:34
-(epstopdf)                    size: 645331 bytes
+(epstopdf)                    date: 2022-10-10 18:58:30
+(epstopdf)                    size: 653704 bytes
 (epstopdf)             Output file: <concave2-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-01-25 13:37:00
+(epstopdf)                    date: 2022-10-10 18:58:30
 (epstopdf)                    size: 19916 bytes
-(epstopdf)             Command: <epstopdf --outfile=concave2-eps-converted-to.p
-df concave2.eps>
+(epstopdf)             Command: <miktex-epstopdf --outfile=concave2-eps-convert
+ed-to.pdf concave2.eps>
 (epstopdf)             \includegraphics on input line 643.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./concave2-eps-converted-to.pdf): PDF inclusion:
  found PDF version <1.7>, but at most version <1.5> allowed
-<concave2-eps-converted-to.pdf, id=512, 175.65625pt x 93.34875pt>
+<concave2-eps-converted-to.pdf, id=489, 175.65625pt x 93.34875pt>
 File: concave2-eps-converted-to.pdf Graphic file (type pdf)
 <use concave2-eps-converted-to.pdf>
 Package pdftex.def Info: concave2-eps-converted-to.pdf  used on input line 643.
 
 (pdftex.def)             Requested size: 204.94751pt x 108.92415pt.
 Package epstopdf Info: Source file: <concave3.eps>
-(epstopdf)                    date: 2021-01-20 13:44:35
-(epstopdf)                    size: 1096217 bytes
+(epstopdf)                    date: 2022-10-10 18:58:30
+(epstopdf)                    size: 1110297 bytes
 (epstopdf)             Output file: <concave3-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-01-25 13:37:03
+(epstopdf)                    date: 2022-10-10 18:58:30
 (epstopdf)                    size: 28132 bytes
-(epstopdf)             Command: <epstopdf --outfile=concave3-eps-converted-to.p
-df concave3.eps>
+(epstopdf)             Command: <miktex-epstopdf --outfile=concave3-eps-convert
+ed-to.pdf concave3.eps>
 (epstopdf)             \includegraphics on input line 650.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./concave3-eps-converted-to.pdf): PDF inclusion:
  found PDF version <1.7>, but at most version <1.5> allowed
-<concave3-eps-converted-to.pdf, id=513, 245.91875pt x 113.42375pt>
+<concave3-eps-converted-to.pdf, id=490, 245.91875pt x 113.42375pt>
 File: concave3-eps-converted-to.pdf Graphic file (type pdf)
 <use concave3-eps-converted-to.pdf>
 Package pdftex.def Info: concave3-eps-converted-to.pdf  used on input line 650.
@@ -2577,40 +2521,40 @@ Underfull \hbox (badness 10000) in paragraph at lines 649--651
  []
 
 Package epstopdf Info: Source file: <concave4.eps>
-(epstopdf)                    date: 2021-01-20 13:44:55
-(epstopdf)                    size: 904867 bytes
+(epstopdf)                    date: 2022-10-10 18:58:30
+(epstopdf)                    size: 916525 bytes
 (epstopdf)             Output file: <concave4-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-01-25 13:37:06
+(epstopdf)                    date: 2022-10-10 18:58:30
 (epstopdf)                    size: 27128 bytes
-(epstopdf)             Command: <epstopdf --outfile=concave4-eps-converted-to.p
-df concave4.eps>
+(epstopdf)             Command: <miktex-epstopdf --outfile=concave4-eps-convert
+ed-to.pdf concave4.eps>
 (epstopdf)             \includegraphics on input line 655.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./concave4-eps-converted-to.pdf): PDF inclusion:
  found PDF version <1.7>, but at most version <1.5> allowed
-<concave4-eps-converted-to.pdf, id=514, 211.79124pt x 109.40875pt>
+<concave4-eps-converted-to.pdf, id=491, 211.79124pt x 109.40875pt>
 File: concave4-eps-converted-to.pdf Graphic file (type pdf)
 <use concave4-eps-converted-to.pdf>
 Package pdftex.def Info: concave4-eps-converted-to.pdf  used on input line 655.
 
 (pdftex.def)             Requested size: 204.94751pt x 105.8776pt.
 Package epstopdf Info: Source file: <concave5.eps>
-(epstopdf)                    date: 2021-01-20 13:44:56
-(epstopdf)                    size: 1074764 bytes
+(epstopdf)                    date: 2022-10-10 18:58:30
+(epstopdf)                    size: 1088573 bytes
 (epstopdf)             Output file: <concave5-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-01-25 13:37:08
+(epstopdf)                    date: 2022-10-10 18:58:30
 (epstopdf)                    size: 28244 bytes
-(epstopdf)             Command: <epstopdf --outfile=concave5-eps-converted-to.p
-df concave5.eps>
+(epstopdf)             Command: <miktex-epstopdf --outfile=concave5-eps-convert
+ed-to.pdf concave5.eps>
 (epstopdf)             \includegraphics on input line 662.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./concave5-eps-converted-to.pdf): PDF inclusion:
  found PDF version <1.7>, but at most version <1.5> allowed
-<concave5-eps-converted-to.pdf, id=515, 250.9375pt x 109.40875pt>
+<concave5-eps-converted-to.pdf, id=492, 250.9375pt x 109.40875pt>
 File: concave5-eps-converted-to.pdf Graphic file (type pdf)
 <use concave5-eps-converted-to.pdf>
 Package pdftex.def Info: concave5-eps-converted-to.pdf  used on input line 662.
@@ -2622,44 +2566,48 @@ Underfull \hbox (badness 10000) in paragraph at lines 661--663
  []
 
 Package epstopdf Info: Source file: <concave6.eps>
-(epstopdf)                    date: 2021-01-20 13:44:56
-(epstopdf)                    size: 775646 bytes
+(epstopdf)                    date: 2022-10-10 18:58:30
+(epstopdf)                    size: 785668 bytes
 (epstopdf)             Output file: <concave6-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-01-25 13:37:11
+(epstopdf)                    date: 2022-10-10 18:58:30
 (epstopdf)                    size: 19541 bytes
-(epstopdf)             Command: <epstopdf --outfile=concave6-eps-converted-to.p
-df concave6.eps>
+(epstopdf)             Command: <miktex-epstopdf --outfile=concave6-eps-convert
+ed-to.pdf concave6.eps>
 (epstopdf)             \includegraphics on input line 667.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./concave6-eps-converted-to.pdf): PDF inclusion:
  found PDF version <1.7>, but at most version <1.5> allowed
-<concave6-eps-converted-to.pdf, id=516, 183.68625pt x 107.40125pt>
+<concave6-eps-converted-to.pdf, id=493, 183.68625pt x 107.40125pt>
 File: concave6-eps-converted-to.pdf Graphic file (type pdf)
 <use concave6-eps-converted-to.pdf>
 Package pdftex.def Info: concave6-eps-converted-to.pdf  used on input line 667.
 
 (pdftex.def)             Requested size: 204.94751pt x 119.84116pt.
-[52pdfTeX warning (ext4): destination with the same identifier (name{figure.28}
-) has been already used, duplicate ignored
+[52
+pdfTeX warning (ext4): destination with the same identifier (name{figure.28}) h
+as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
+                                                  \__shipout_drop_firstpage_...
 l.671     \quad
-               \textbf{Convex Mirror}pdfTeX warning (ext4): destination with th
-e same identifier (name{figure.29}) has been already used, duplicate ignored
+               \textbf{Convex Mirror}
+pdfTeX warning (ext4): destination with the same identifier (name{figure.29}) h
+as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
+                                                  \__shipout_drop_firstpage_...
 l.671     \quad
-               \textbf{Convex Mirror}pdfTeX warning (ext4): destination with th
-e same identifier (name{figure.30}) has been already used, duplicate ignored
+               \textbf{Convex Mirror}
+pdfTeX warning (ext4): destination with the same identifier (name{figure.30}) h
+as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
+                                                  \__shipout_drop_firstpage_...
 l.671     \quad
-               \textbf{Convex Mirror}pdfTeX warning (ext4): destination with th
-e same identifier (name{figure.31}) has been already used, duplicate ignored
+               \textbf{Convex Mirror}
+pdfTeX warning (ext4): destination with the same identifier (name{figure.31}) h
+as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
+                                                  \__shipout_drop_firstpage_...
 l.671     \quad
                \textbf{Convex Mirror} <./concave1-eps-converted-to.pdf> <./conc
 ave2-eps-converted-to.pdf> <./concave3-eps-converted-to.pdf> <./concave4-eps-co
@@ -2668,6 +2616,13 @@ Overfull \hbox (0.11566pt too wide) in paragraph at lines 673--674
 \OT1/cmr/m/n/10.95 (+18) (since the re-flected rays \OT1/cmr/m/it/10.95 (+18) p
 ro-duced \OT1/cmr/m/n/10.95 (+18) in-ter-sect), in-verted, and smaller than the
  orig-i- 
+ []
+
+
+Overfull \hbox (0.14304pt too wide) in paragraph at lines 677--677
+[]\OT1/cmr/m/n/10.95 (+17) The \OT1/cmr/bx/n/10.95 (+17) Mirror Equation[][][][
+][] \OT1/cmr/m/n/10.95 (+17) is really helpful for doing calculations. If an ob
+ject is a 
  []
 
 
@@ -2684,34 +2639,36 @@ Overfull \hbox (0.1364pt too wide) in paragraph at lines 686--687
 
  []
 
-[53pdfTeX warning (ext4): destination with the same identifier (name{figure.32}
-) has been already used, duplicate ignored
+[53
+pdfTeX warning (ext4): destination with the same identifier (name{figure.32}) h
+as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
+                                                  \__shipout_drop_firstpage_...
 l.687         \item \textit
                            {Object beyond} $C$: if the object is farther tha...
+
 pdfTeX warning (ext4): destination with the same identifier (name{figure.33}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
+                                                  \__shipout_drop_firstpage_...
 l.687         \item \textit
                            {Object beyond} $C$: if the object is farther tha...
  <./concave5-eps-converted-to.pdf> <./concave6-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <convex1.eps>
-(epstopdf)                    date: 2021-01-21 04:26:00
-(epstopdf)                    size: 1291559 bytes
+(epstopdf)                    date: 2022-10-10 18:58:30
+(epstopdf)                    size: 1308112 bytes
 (epstopdf)             Output file: <convex1-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-01-25 13:37:14
+(epstopdf)                    date: 2022-10-10 18:58:30
 (epstopdf)                    size: 19634 bytes
-(epstopdf)             Command: <epstopdf --outfile=convex1-eps-converted-to.pd
-f convex1.eps>
+(epstopdf)             Command: <miktex-epstopdf --outfile=convex1-eps-converte
+d-to.pdf convex1.eps>
 (epstopdf)             \includegraphics on input line 693.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./convex1-eps-converted-to.pdf): PDF inclusion: 
 found PDF version <1.7>, but at most version <1.5> allowed
-<convex1-eps-converted-to.pdf, id=562, 255.95625pt x 129.48375pt>
+<convex1-eps-converted-to.pdf, id=539, 255.95625pt x 129.48375pt>
 File: convex1-eps-converted-to.pdf Graphic file (type pdf)
 <use convex1-eps-converted-to.pdf>
 Package pdftex.def Info: convex1-eps-converted-to.pdf  used on input line 693.
@@ -2722,39 +2679,39 @@ Underfull \hbox (badness 10000) in paragraph at lines 692--694
  []
 
 Package epstopdf Info: Source file: <convex2.eps>
-(epstopdf)                    date: 2021-01-21 04:25:55
-(epstopdf)                    size: 896201 bytes
+(epstopdf)                    date: 2022-10-10 18:58:30
+(epstopdf)                    size: 907749 bytes
 (epstopdf)             Output file: <convex2-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-01-25 13:37:16
+(epstopdf)                    date: 2022-10-10 18:58:30
 (epstopdf)                    size: 15740 bytes
-(epstopdf)             Command: <epstopdf --outfile=convex2-eps-converted-to.pd
-f convex2.eps>
+(epstopdf)             Command: <miktex-epstopdf --outfile=convex2-eps-converte
+d-to.pdf convex2.eps>
 (epstopdf)             \includegraphics on input line 698.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./convex2-eps-converted-to.pdf): PDF inclusion: 
 found PDF version <1.7>, but at most version <1.5> allowed
-<convex2-eps-converted-to.pdf, id=563, 193.72375pt x 118.4425pt>
+<convex2-eps-converted-to.pdf, id=540, 193.72375pt x 118.4425pt>
 File: convex2-eps-converted-to.pdf Graphic file (type pdf)
 <use convex2-eps-converted-to.pdf>
 Package pdftex.def Info: convex2-eps-converted-to.pdf  used on input line 698.
 (pdftex.def)             Requested size: 204.94751pt x 125.30626pt.
 Package epstopdf Info: Source file: <convex3.eps>
-(epstopdf)                    date: 2021-01-21 04:25:55
-(epstopdf)                    size: 1306841 bytes
+(epstopdf)                    date: 2022-10-10 18:58:30
+(epstopdf)                    size: 1323587 bytes
 (epstopdf)             Output file: <convex3-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-01-25 13:37:20
+(epstopdf)                    date: 2022-10-10 18:58:30
 (epstopdf)                    size: 19219 bytes
-(epstopdf)             Command: <epstopdf --outfile=convex3-eps-converted-to.pd
-f convex3.eps>
+(epstopdf)             Command: <miktex-epstopdf --outfile=convex3-eps-converte
+d-to.pdf convex3.eps>
 (epstopdf)             \includegraphics on input line 705.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./convex3-eps-converted-to.pdf): PDF inclusion: 
 found PDF version <1.7>, but at most version <1.5> allowed
-<convex3-eps-converted-to.pdf, id=564, 283.0575pt x 118.4425pt>
+<convex3-eps-converted-to.pdf, id=541, 283.0575pt x 118.4425pt>
 File: convex3-eps-converted-to.pdf Graphic file (type pdf)
 <use convex3-eps-converted-to.pdf>
 Package pdftex.def Info: convex3-eps-converted-to.pdf  used on input line 705.
@@ -2765,39 +2722,39 @@ Underfull \hbox (badness 10000) in paragraph at lines 704--706
  []
 
 Package epstopdf Info: Source file: <convex4.eps>
-(epstopdf)                    date: 2021-01-21 04:27:50
-(epstopdf)                    size: 1221444 bytes
+(epstopdf)                    date: 2022-10-10 18:58:30
+(epstopdf)                    size: 1237109 bytes
 (epstopdf)             Output file: <convex4-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-01-25 13:37:22
+(epstopdf)                    date: 2022-10-10 18:58:30
 (epstopdf)                    size: 18144 bytes
-(epstopdf)             Command: <epstopdf --outfile=convex4-eps-converted-to.pd
-f convex4.eps>
+(epstopdf)             Command: <miktex-epstopdf --outfile=convex4-eps-converte
+d-to.pdf convex4.eps>
 (epstopdf)             \includegraphics on input line 710.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./convex4-eps-converted-to.pdf): PDF inclusion: 
 found PDF version <1.7>, but at most version <1.5> allowed
-<convex4-eps-converted-to.pdf, id=565, 263.98625pt x 118.4425pt>
+<convex4-eps-converted-to.pdf, id=542, 263.98625pt x 118.4425pt>
 File: convex4-eps-converted-to.pdf Graphic file (type pdf)
 <use convex4-eps-converted-to.pdf>
 Package pdftex.def Info: convex4-eps-converted-to.pdf  used on input line 710.
 (pdftex.def)             Requested size: 204.94751pt x 91.95282pt.
 Package epstopdf Info: Source file: <convex5.eps>
-(epstopdf)                    date: 2021-01-21 04:27:49
-(epstopdf)                    size: 1201457 bytes
+(epstopdf)                    date: 2022-10-10 18:58:30
+(epstopdf)                    size: 1216869 bytes
 (epstopdf)             Output file: <convex5-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-01-25 13:37:26
+(epstopdf)                    date: 2022-10-10 18:58:30
 (epstopdf)                    size: 17706 bytes
-(epstopdf)             Command: <epstopdf --outfile=convex5-eps-converted-to.pd
-f convex5.eps>
+(epstopdf)             Command: <miktex-epstopdf --outfile=convex5-eps-converte
+d-to.pdf convex5.eps>
 (epstopdf)             \includegraphics on input line 717.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./convex5-eps-converted-to.pdf): PDF inclusion: 
 found PDF version <1.7>, but at most version <1.5> allowed
-<convex5-eps-converted-to.pdf, id=566, 259.97125pt x 118.4425pt>
+<convex5-eps-converted-to.pdf, id=543, 259.97125pt x 118.4425pt>
 File: convex5-eps-converted-to.pdf Graphic file (type pdf)
 <use convex5-eps-converted-to.pdf>
 Package pdftex.def Info: convex5-eps-converted-to.pdf  used on input line 717.
@@ -2808,58 +2765,64 @@ Underfull \hbox (badness 10000) in paragraph at lines 716--718
  []
 
 Package epstopdf Info: Source file: <convex6.eps>
-(epstopdf)                    date: 2021-01-21 04:27:49
-(epstopdf)                    size: 1097888 bytes
+(epstopdf)                    date: 2022-10-10 18:58:30
+(epstopdf)                    size: 1111989 bytes
 (epstopdf)             Output file: <convex6-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-01-25 13:37:30
+(epstopdf)                    date: 2022-10-10 18:58:30
 (epstopdf)                    size: 18693 bytes
-(epstopdf)             Command: <epstopdf --outfile=convex6-eps-converted-to.pd
-f convex6.eps>
+(epstopdf)             Command: <miktex-epstopdf --outfile=convex6-eps-converte
+d-to.pdf convex6.eps>
 (epstopdf)             \includegraphics on input line 722.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./convex6-eps-converted-to.pdf): PDF inclusion: 
 found PDF version <1.7>, but at most version <1.5> allowed
-<convex6-eps-converted-to.pdf, id=567, 237.88875pt x 118.4425pt>
+<convex6-eps-converted-to.pdf, id=544, 237.88875pt x 118.4425pt>
 File: convex6-eps-converted-to.pdf Graphic file (type pdf)
 <use convex6-eps-converted-to.pdf>
 Package pdftex.def Info: convex6-eps-converted-to.pdf  used on input line 722.
 (pdftex.def)             Requested size: 204.94751pt x 102.04651pt.
-[54pdfTeX warning (ext4): destination with the same identifier (name{figure.34}
-) has been already used, duplicate ignored
+[54
+pdfTeX warning (ext4): destination with the same identifier (name{figure.34}) h
+as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
+                                                  \__shipout_drop_firstpage_...
 l.728         \item \textit
                            {Object between} $P$ \textit{and infinity}: if th...
+
 pdfTeX warning (ext4): destination with the same identifier (name{figure.35}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
+                                                  \__shipout_drop_firstpage_...
 l.728         \item \textit
                            {Object between} $P$ \textit{and infinity}: if th...
+
 pdfTeX warning (ext4): destination with the same identifier (name{figure.36}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
+                                                  \__shipout_drop_firstpage_...
 l.728         \item \textit
                            {Object between} $P$ \textit{and infinity}: if th...
+
 pdfTeX warning (ext4): destination with the same identifier (name{figure.37}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
+                                                  \__shipout_drop_firstpage_...
 l.728         \item \textit
                            {Object between} $P$ \textit{and infinity}: if th...
+
 pdfTeX warning (ext4): destination with the same identifier (name{figure.38}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
+                                                  \__shipout_drop_firstpage_...
 l.728         \item \textit
                            {Object between} $P$ \textit{and infinity}: if th...
+
 pdfTeX warning (ext4): destination with the same identifier (name{figure.39}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
+                                                  \__shipout_drop_firstpage_...
 l.728         \item \textit
                            {Object between} $P$ \textit{and infinity}: if th...
  <./convex1-eps-converted-to.pdf> <./convex2-eps-converted-to.pdf> <./convex3-e
@@ -2880,8 +2843,8 @@ hen de-throned it with his Wave The-ory,
 
 Overfull \hbox (0.1141pt too wide) in paragraph at lines 732--733
 \OT1/cmr/m/n/10.95 (+12) out de-scrib-ing light as an elec-tro-mag-netic wave (
-re-mem-ber $\OML/cmm/m/it/10.95 "[][] \OT1/cmr/m/n/10.95 (+12) = \OML/cmm/m/it
-/10.95 c[]$\OT1/cmr/m/n/10.95 (+12) ) and he can de- 
+re-mem-ber $\OML/cmm/m/it/10.95 "[]^^V[] \OT1/cmr/m/n/10.95 (+12) = \OML/cmm/m/
+it/10.95 c[]$\OT1/cmr/m/n/10.95 (+12) ) and he can de- 
  []
 
 
@@ -2903,103 +2866,127 @@ isturbances called \OT1/cmr/m/it/10.95 (+8) secondary
  []
 
 Package epstopdf Info: Source file: <wavefront.eps>
-(epstopdf)                    date: 2021-01-18 11:12:16
-(epstopdf)                    size: 794020 bytes
+(epstopdf)                    date: 2022-10-10 18:58:30
+(epstopdf)                    size: 804275 bytes
 (epstopdf)             Output file: <wavefront-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-01-25 13:37:33
+(epstopdf)                    date: 2022-10-10 18:58:30
 (epstopdf)                    size: 30177 bytes
-(epstopdf)             Command: <epstopdf --outfile=wavefront-eps-converted-to.
-pdf wavefront.eps>
+(epstopdf)             Command: <miktex-epstopdf --outfile=wavefront-eps-conver
+ted-to.pdf wavefront.eps>
 (epstopdf)             \includegraphics on input line 742.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./wavefront-eps-converted-to.pdf): PDF inclusion
 : found PDF version <1.7>, but at most version <1.5> allowed
-<wavefront-eps-converted-to.pdf, id=600, 228.855pt x 88.33pt>
+<wavefront-eps-converted-to.pdf, id=577, 228.855pt x 88.33pt>
 File: wavefront-eps-converted-to.pdf Graphic file (type pdf)
 <use wavefront-eps-converted-to.pdf>
 Package pdftex.def Info: wavefront-eps-converted-to.pdf  used on input line 742
 .
 (pdftex.def)             Requested size: 343.28165pt x 132.49466pt.
-[55pdfTeX warning (ext4): destination with the same identifier (name{figure.40}
-) has been already used, duplicate ignored
+[55
+pdfTeX warning (ext4): destination with the same identifier (name{figure.40}) h
+as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
+                                                  \__shipout_drop_firstpage_...
 l.745 \end{document}
                      <./wavefront-eps-converted-to.pdf>]
-("C:/Users\diabl\OneDrive - Fort Bend Independent School District\USAPhO\out\US
-APhO for Dummies.aux")
+(C:/Users\mayan\OneDrive - The University of Texas at Austin\Documents\USAPhO-N
+otes\auxil\USAPhO Notes.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 2.90001pt have occurred.
 
-Package rerunfilecheck Info: File `"USAPhO for Dummies".out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `"USAPhO Notes".out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `"USAPhO Notes".out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 30200 strings out of 479618
- 612601 string characters out of 2865026
- 1208133 words of memory out of 3000000
- 46395 multiletter control sequences out of 15000+200000
- 436691 words of font info for 236 fonts, out of 3000000 for 9000
+ 34424 strings out of 475385
+ 695102 string characters out of 2776906
+ 1270133 words of memory out of 3000000
+ 54845 multiletter control sequences out of 15000+600000
+ 502460 words of font info for 236 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 117i,43n,116p,10642b,673s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{Hfootnote.7} has been referenced but does not exi
-st, replaced by a fixed one
+ 118i,43n,119p,10636b,719s stack positions out of 10000i,1000n,20000p,200000b,80000s
+
+pdfTeX warning (dest): name{Hfootnote.8} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.7} has been referenced but does not exist
+, replaced by a fixed one
+
 
 pdfTeX warning (dest): name{Hfootnote.6} has been referenced but does not exist
 , replaced by a fixed one
 
+
 pdfTeX warning (dest): name{Hfootnote.5} has been referenced but does not exist
 , replaced by a fixed one
+
 
 pdfTeX warning (dest): name{Hfootnote.4} has been referenced but does not exist
 , replaced by a fixed one
 
+
 pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exist
 , replaced by a fixed one
+
 
 pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist
 , replaced by a fixed one
 
+
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist
 , replaced by a fixed one
 
- <C:\Users\diabl\AppData\Local\MiKTeX\fonts/pk/ljfour/public/esint/dpi657\esint
-10.pk> <C:\Users\diabl\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\
-tcrm1095.pk><C:/Users/diabl/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
-sfonts/cm/cmbx10.pfb><C:/Users/diabl/AppData/Local/Programs/MiKTeX/fonts/type1/
-public/amsfonts/cm/cmbx8.pfb><C:/Users/diabl/AppData/Local/Programs/MiKTeX/font
-s/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/diabl/AppData/Local/Programs/MiK
-TeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/diabl/AppData/Local/P
-rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/diabl/AppDa
-ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/di
-abl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:
-/Users/diabl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5
-.pfb><C:/Users/diabl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
-cm/cmmi6.pfb><C:/Users/diabl/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
-msfonts/cm/cmmi8.pfb><C:/Users/diabl/AppData/Local/Programs/MiKTeX/fonts/type1/
-public/amsfonts/cm/cmmi9.pfb><C:/Users/diabl/AppData/Local/Programs/MiKTeX/font
-s/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/diabl/AppData/Local/Programs/MiK
-TeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/diabl/AppData/Local/Progr
-ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/diabl/AppData/Loca
-l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/diabl/AppDa
-ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/diab
-l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:
-/Users/diabl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy1
-0.pfb><C:/Users/diabl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
-/cm/cmsy6.pfb><C:/Users/diabl/AppData/Local/Programs/MiKTeX/fonts/type1/public/
-amsfonts/cm/cmsy8.pfb><C:/Users/diabl/AppData/Local/Programs/MiKTeX/fonts/type1
-/public/amsfonts/cm/cmti10.pfb><C:/Users/diabl/AppData/Local/Programs/MiKTeX/fo
-nts/type1/public/amsfonts/cm/cmti9.pfb><C:/Users/diabl/AppData/Local/Programs/M
-iKTeX/fonts/type1/public/amsfonts/cm/cmtt9.pfb><C:/Users/diabl/AppData/Local/Pr
-ograms/MiKTeX/fonts/type1/public/amsfonts/euler/eufm10.pfb><C:/Users/diabl/AppD
+ <C:\Users\mayan\AppData\Local\MiKTeX\fonts/pk/ljfour/public/esint/dpi657\esint
+10.pk> <C:\Users\mayan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\
+tcrm1095.pk><C:/Users/mayan/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmbx10.pfb><C:/Users/mayan/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmbx8.pfb><C:/Users/mayan/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/mayan/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/mayan/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/mayan/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/ma
+yan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:
+/Users/mayan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5
+.pfb><C:/Users/mayan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmmi6.pfb><C:/Users/mayan/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmmi8.pfb><C:/Users/mayan/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmmi9.pfb><C:/Users/mayan/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/mayan/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/mayan/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/mayan/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/mayan/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/maya
+n/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:
+/Users/mayan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy1
+0.pfb><C:/Users/mayan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmsy6.pfb><C:/Users/mayan/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmsy8.pfb><C:/Users/mayan/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmti10.pfb><C:/Users/mayan/AppData/Local/Programs/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmti9.pfb><C:/Users/mayan/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmtt9.pfb><C:/Users/mayan/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/public/amsfonts/euler/eufm10.pfb><C:/Users/mayan/AppD
 ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on "C:/Users\diabl\OneDrive - Fort Bend Independent School Distr
-ict\USAPhO\out\USAPhO for Dummies.pdf" (55 pages, 2129553 bytes).
+Output written on "C:/Users\mayan\OneDrive - The University of Texas at Austin\
+Documents\USAPhO-Notes\out\USAPhO Notes.pdf" (55 pages, 2148003 bytes).
 PDF statistics:
- 869 PDF objects out of 1000 (max. 8388607)
- 182 named destinations out of 1000 (max. 500000)
- 74874 words of extra memory for PDF output out of 89155 (max. 10000000)
+ 871 PDF objects out of 1000 (max. 8388607)
+ 183 named destinations out of 1000 (max. 500000)
+ 74778 words of extra memory for PDF output out of 89155 (max. 10000000)
 
