@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.10.12)  12 OCT 2022 12:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.10.18)  8 DEC 2022 18:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -9,28 +9,28 @@ LaTeX2e <2022-06-01> patch level 5
 L3 programming layer <2022-09-28>
 (C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrartcl.cl
 s
-Document Class: scrartcl 2022/07/04 v3.37 KOMA-Script document class (article)
+Document Class: scrartcl 2022/10/12 v3.38 KOMA-Script document class (article)
 
 (C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrkbase.st
 y
-Package: scrkbase 2022/07/04 v3.37 KOMA-Script package (KOMA-Script-dependent b
+Package: scrkbase 2022/10/12 v3.38 KOMA-Script package (KOMA-Script-dependent b
 asics and keyval usage)
 
 (C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrbase.sty
-Package: scrbase 2022/07/04 v3.37 KOMA-Script package (KOMA-Script-independent 
+Package: scrbase 2022/10/12 v3.38 KOMA-Script package (KOMA-Script-independent 
 basics and keyval usage)
 
 (C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile.st
 y
-Package: scrlfile 2022/07/04 v3.37 KOMA-Script package (file load hooks)
+Package: scrlfile 2022/10/12 v3.38 KOMA-Script package (file load hooks)
 
 (C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile-ho
 ok.sty
-Package: scrlfile-hook 2022/07/04 v3.37 KOMA-Script package (using LaTeX hooks)
+Package: scrlfile-hook 2022/10/12 v3.38 KOMA-Script package (using LaTeX hooks)
 
 
 (C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlogo.sty
-Package: scrlogo 2022/07/04 v3.37 KOMA-Script package (logo)
+Package: scrlogo 2022/10/12 v3.38 KOMA-Script package (logo)
 ))) (C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
@@ -41,24 +41,25 @@ Already applied: [0000/00/00] Usage of raw or classic option list on input line
 ))
 (C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\tocbasic.st
 y
-Package: tocbasic 2022/07/04 v3.37 KOMA-Script package (handling toc-files)
+Package: tocbasic 2022/10/12 v3.38 KOMA-Script package (handling toc-files)
 \scr@dte@tocline@numberwidth=\skip47
 \scr@dte@tocline@numbox=\box51
 )
-Package tocbasic Info: babel extension for `toc' omitted
-(tocbasic)             because of missing \bbl@set@language on input line 135.
+Package tocbasic Info: omitting babel extension for `toc'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `toc' on input line 135.
 Class scrartcl Info: File `scrsize11pt.clo' used instead of
-(scrartcl)           file `scrsize11.clo' to setup font sizes on input line 231
-9.
+(scrartcl)           file `scrsize11.clo' to setup font sizes on input line 236
+7.
 
 (C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrsize11pt
 .clo
-File: scrsize11pt.clo 2022/07/04 v3.37 KOMA-Script font size class option (11pt
+File: scrsize11pt.clo 2022/10/12 v3.38 KOMA-Script font size class option (11pt
 )
 )
 (C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\typearea.st
 y
-Package: typearea 2022/07/04 v3.37 KOMA-Script package (type area)
+Package: typearea 2022/10/12 v3.38 KOMA-Script package (type area)
 \ta@bcor=\skip48
 \ta@div=\count185
 \ta@hblk=\skip49
@@ -81,7 +82,7 @@ Package typearea Info: These are the values describing the layout:
 (typearea)              \topskip        = 11.0pt
 (typearea)              \footskip       = 47.6pt
 (typearea)              \baselineskip   = 13.6pt
-(typearea)              on input line 1766.
+(typearea)              on input line 1767.
 )
 \c@part=\count186
 \c@section=\count187
@@ -91,46 +92,46 @@ Package typearea Info: These are the values describing the layout:
 \c@subparagraph=\count191
 \scr@dte@section@maxnumwidth=\skip53
 Class scrartcl Info: using compatibility default `runin=bysign'
-(scrartcl)           for `\section on input line 4897.
+(scrartcl)           for `\section on input line 4994.
 Class scrartcl Info: using compatibility default `afterindent=bysign'
-(scrartcl)           for `\section on input line 4897.
+(scrartcl)           for `\section on input line 4994.
 \scr@dte@part@maxnumwidth=\skip54
 Class scrartcl Info: using compatibility default `afterindent=false'
-(scrartcl)           for `\part on input line 4905.
+(scrartcl)           for `\part on input line 5002.
 \scr@dte@subsection@maxnumwidth=\skip55
 Class scrartcl Info: using compatibility default `runin=bysign'
-(scrartcl)           for `\subsection on input line 4915.
+(scrartcl)           for `\subsection on input line 5012.
 Class scrartcl Info: using compatibility default `afterindent=bysign'
-(scrartcl)           for `\subsection on input line 4915.
+(scrartcl)           for `\subsection on input line 5012.
 \scr@dte@subsubsection@maxnumwidth=\skip56
 Class scrartcl Info: using compatibility default `runin=bysign'
-(scrartcl)           for `\subsubsection on input line 4925.
+(scrartcl)           for `\subsubsection on input line 5022.
 Class scrartcl Info: using compatibility default `afterindent=bysign'
-(scrartcl)           for `\subsubsection on input line 4925.
+(scrartcl)           for `\subsubsection on input line 5022.
 \scr@dte@paragraph@maxnumwidth=\skip57
 Class scrartcl Info: using compatibility default `runin=bysign'
-(scrartcl)           for `\paragraph on input line 4936.
+(scrartcl)           for `\paragraph on input line 5033.
 Class scrartcl Info: using compatibility default `afterindent=bysign'
-(scrartcl)           for `\paragraph on input line 4936.
+(scrartcl)           for `\paragraph on input line 5033.
 \scr@dte@subparagraph@maxnumwidth=\skip58
 Class scrartcl Info: using compatibility default `runin=bysign'
-(scrartcl)           for `\subparagraph on input line 4946.
+(scrartcl)           for `\subparagraph on input line 5043.
 Class scrartcl Info: using compatibility default `afterindent=bysign'
-(scrartcl)           for `\subparagraph on input line 4946.
+(scrartcl)           for `\subparagraph on input line 5043.
 \abovecaptionskip=\skip59
 \belowcaptionskip=\skip60
 \c@pti@nb@sid@b@x=\box52
-Package tocbasic Info: babel extension for `lof' omitted
-(tocbasic)             because of missing \bbl@set@language on input line 6102.
-
+Package tocbasic Info: omitting babel extension for `lof'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lof' on input line 6211.
 \scr@dte@figure@maxnumwidth=\skip61
 \c@figure=\count192
-Package tocbasic Info: babel extension for `lot' omitted
-(tocbasic)             because of missing \bbl@set@language on input line 6118.
-
+Package tocbasic Info: omitting babel extension for `lot'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lot' on input line 6227.
 \scr@dte@table@maxnumwidth=\skip62
 \c@table=\count193
-Class scrartcl Info: Redefining `\numberline' on input line 6288.
+Class scrartcl Info: Redefining `\numberline' on input line 6397.
 \bibindent=\dimen138
 ) (evan.sty
 Package: evan 
@@ -214,13 +215,30 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
+
+evan.sty:194: LaTeX Error: Command \sl undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.194 \renewcommand{\sl}
+                        {\opname{\mathfrak{sl}}} % frak gl group
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
 (C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/asymptote\asymptote.sty
 Package: asymptote 2021/12/29 v1.37 Asymptote style file for LaTeX
+
+(C:/Users\mayan\OneDrive - The University of Texas at Austin\Documents\USAPhO-N
+otes\auxil\USAPhO Notes.pre)
 \ASYbox=\box55
 \ASYdimen=\dimen148
 \c@asy=\count272
 \AsyStream=\write3
 \AsyPreStream=\write4
+
 (C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
@@ -918,15 +936,15 @@ Package: titling 2009/09/04 v2.1d maketitle typesetting
 
 (C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlayer-sc
 rpage.sty
-Package: scrlayer-scrpage 2022/07/04 v3.37 KOMA-Script package (end user interf
+Package: scrlayer-scrpage 2022/10/12 v3.38 KOMA-Script package (end user interf
 ace for scrlayer)
 
 (C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlayer.st
 y
-Package: scrlayer 2022/07/04 v3.37 KOMA-Script package (defining layers and pag
+Package: scrlayer 2022/10/12 v3.38 KOMA-Script package (defining layers and pag
 e styles)
-Package scrlayer Info: patching LaTeX kernel macro \pagestyle on input line 215
-5.
+Package scrlayer Info: patching LaTeX kernel macro \pagestyle on input line 217
+6.
 )
 Package scrlayer-scrpage Info: Makeing stand-alone element `pagehead' from
 (scrlayer-scrpage)             alias to `pageheadfoot' on input line 1089.
@@ -1027,36 +1045,38 @@ Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
 \l__lipsum_b_int=\count335
 
 (C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex))
-No file "USAPhO Notes".aux.
+
+(C:/Users\mayan\OneDrive - The University of Texas at Austin\Documents\USAPhO-N
+otes\auxil\USAPhO Notes.aux)
 \openout1 = `"USAPhO Notes.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-Package scrbase Info: activating english \abstractname on input line 24.
-Package scrbase Info: activating english \partname on input line 24.
-Package scrbase Info: activating english \figurename on input line 24.
-Package scrbase Info: activating english \tablename on input line 24.
-Package scrbase Info: activating english \contentsname on input line 24.
-Package scrbase Info: activating english \listfigurename on input line 24.
-Package scrbase Info: activating english \listtablename on input line 24.
-Package scrbase Info: activating english \refname on input line 24.
-Package scrbase Info: activating english \indexname on input line 24.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+Package scrbase Info: activating english \abstractname on input line 20.
+Package scrbase Info: activating english \partname on input line 20.
+Package scrbase Info: activating english \figurename on input line 20.
+Package scrbase Info: activating english \tablename on input line 20.
+Package scrbase Info: activating english \contentsname on input line 20.
+Package scrbase Info: activating english \listfigurename on input line 20.
+Package scrbase Info: activating english \listtablename on input line 20.
+Package scrbase Info: activating english \refname on input line 20.
+Package scrbase Info: activating english \indexname on input line 20.
 
 (C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
@@ -1083,7 +1103,12 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring ON on input line 24.
+Package hyperref Info: Link coloring ON on input line 20.
+
+(C:/Users\mayan\OneDrive - The University of Texas at Austin\Documents\USAPhO-N
+otes\auxil\USAPhO Notes.out)
+(C:/Users\mayan\OneDrive - The University of Texas at Austin\Documents\USAPhO-N
+otes\auxil\USAPhO Notes.out)
 \@outlinefile=\write6
 \openout6 = `"USAPhO Notes.out"'.
 
@@ -1094,7 +1119,7 @@ Class scrartcl Info: loading recommended package `bookmark'.
 (scrartcl)           `bookmarkpackage=false' before \begin{document} and
 (scrartcl)           you can avoid this message adding:
 (scrartcl)             \usepackage{bookmark}
-(scrartcl)           before \begin{document} on input line 24.
+(scrartcl)           before \begin{document} on input line 20.
 
 (C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
 Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
@@ -1104,13 +1129,13 @@ File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
 \BKM@id=\count342
 ))
 \c@lstlisting=\count343
-LaTeX Info: Redefining \microtypecontext on input line 24.
-Package microtype Info: Applying patch `item' on input line 24.
-Package microtype Info: Applying patch `toc' on input line 24.
-Package microtype Info: Applying patch `eqnum' on input line 24.
+LaTeX Info: Redefining \microtypecontext on input line 20.
+Package microtype Info: Applying patch `item' on input line 20.
+Package microtype Info: Applying patch `toc' on input line 20.
+Package microtype Info: Applying patch `eqnum' on input line 20.
 
 
-Package microtype Warning: Unable to apply patch `footnote' on input line 24.
+Package microtype Warning: Unable to apply patch `footnote' on input line 20.
 
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
@@ -1118,7 +1143,7 @@ Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 24.
+LaTeX Info: Redefining \showhyphens on input line 20.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -1126,12 +1151,12 @@ Package microtype Info: No adjustment of character kerning.
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-Package ragged2e Info: ABD: executing \RaggedRight on input line 24.
+Package ragged2e Info: ABD: executing \RaggedRight on input line 20.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmss' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 28.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 24.
 
 
 (C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
@@ -1140,7 +1165,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 28.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 24.
 
 
 (C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
@@ -1149,19 +1174,19 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 (C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 28
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 24
 .
 
 (C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 LaTeX Font Info:    Trying to load font information for U+esint on input line 2
-8.
+4.
 
 (C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/esint\uesint.fd
 File: uesint.fd 
 )
-Overfull \hbox (0.11906pt too wide) in paragraph at lines 41--42
+Overfull \hbox (0.11906pt too wide) in paragraph at lines 37--38
 \OT1/cmr/m/n/10.95 (+17) si-tion will have a lo-cal max-ima. A lo-cal min-ima w
 ill oc-cur at sta-ble equi-lib-rium, 
  []
@@ -1169,7 +1194,7 @@ ill oc-cur at sta-ble equi-lib-rium,
 [1
 
 {C:/Users/mayan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-Overfull \hbox (0.12512pt too wide) in paragraph at lines 42--42
+Overfull \hbox (0.12512pt too wide) in paragraph at lines 38--38
 \OT1/cmr/m/n/10.95 (+17) Here, the del op-er-a-tor ($[]$) de-notes ``gra-di-ent
 ." It can also de-note the di-ver-gence 
  []
@@ -1182,7 +1207,7 @@ Package epstopdf Info: Source file: <sphere.eps>
 (epstopdf)                    size: 12172 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=sphere-eps-converted
 -to.pdf sphere.eps>
-(epstopdf)             \includegraphics on input line 46.
+(epstopdf)             \includegraphics on input line 42.
 Package epstopdf Info: Output file is already uptodate.
 
 
@@ -1191,7 +1216,7 @@ ound PDF version <1.7>, but at most version <1.5> allowed
 <sphere-eps-converted-to.pdf, id=25, 420.57124pt x 389.455pt>
 File: sphere-eps-converted-to.pdf Graphic file (type pdf)
 <use sphere-eps-converted-to.pdf>
-Package pdftex.def Info: sphere-eps-converted-to.pdf  used on input line 46.
+Package pdftex.def Info: sphere-eps-converted-to.pdf  used on input line 42.
 (pdftex.def)             Requested size: 167.29967pt x 154.9235pt.
 Package epstopdf Info: Source file: <cylinder.eps>
 (epstopdf)                    date: 2022-10-10 18:58:30
@@ -1201,7 +1226,7 @@ Package epstopdf Info: Source file: <cylinder.eps>
 (epstopdf)                    size: 282446 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=cylinder-eps-convert
 ed-to.pdf cylinder.eps>
-(epstopdf)             \includegraphics on input line 51.
+(epstopdf)             \includegraphics on input line 47.
 Package epstopdf Info: Output file is already uptodate.
 
 
@@ -1210,21 +1235,21 @@ pdfTeX warning: pdflatex (file ./cylinder-eps-converted-to.pdf): PDF inclusion:
 <cylinder-eps-converted-to.pdf, id=26, 404.51125pt x 437.635pt>
 File: cylinder-eps-converted-to.pdf Graphic file (type pdf)
 <use cylinder-eps-converted-to.pdf>
-Package pdftex.def Info: cylinder-eps-converted-to.pdf  used on input line 51.
+Package pdftex.def Info: cylinder-eps-converted-to.pdf  used on input line 47.
 (pdftex.def)             Requested size: 167.29967pt x 181.00078pt.
 [2
 pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.57         \item F
+l.53         \item F
                     or bodies rolling from a height $h$ on a ramp inclined a...
 
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.57         \item F
+l.53         \item F
                     or bodies rolling from a height $h$ on a ramp inclined a...
  <./sphere-eps-converted-to.pdf> <./cylinder-eps-converted-to.pdf>] [3]
 Package epstopdf Info: Source file: <shear.eps>
@@ -1235,7 +1260,7 @@ Package epstopdf Info: Source file: <shear.eps>
 (epstopdf)                    size: 59012 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=shear-eps-converted-
 to.pdf shear.eps>
-(epstopdf)             \includegraphics on input line 79.
+(epstopdf)             \includegraphics on input line 75.
 Package epstopdf Info: Output file is already uptodate.
 
 
@@ -1244,14 +1269,14 @@ und PDF version <1.7>, but at most version <1.5> allowed
 <shear-eps-converted-to.pdf, id=58, 342.27875pt x 218.8175pt>
 File: shear-eps-converted-to.pdf Graphic file (type pdf)
 <use shear-eps-converted-to.pdf>
-Package pdftex.def Info: shear-eps-converted-to.pdf  used on input line 79.
+Package pdftex.def Info: shear-eps-converted-to.pdf  used on input line 75.
 (pdftex.def)             Requested size: 278.97957pt x 178.36305pt.
 [4] [5
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.93 ...\rho}=-\frac{\Delta V}V=\frac{\Delta P}B\]
+l.89 ...\rho}=-\frac{\Delta V}V=\frac{\Delta P}B\]
                                                    Note that in the above ca...
  <./shear-eps-converted-to.pdf>] [6]
 Package epstopdf Info: Source file: <capillary.eps>
@@ -1262,7 +1287,7 @@ Package epstopdf Info: Source file: <capillary.eps>
 (epstopdf)                    size: 9804 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=capillary-eps-conver
 ted-to.pdf capillary.eps>
-(epstopdf)             \includegraphics on input line 103.
+(epstopdf)             \includegraphics on input line 99.
 Package epstopdf Info: Output file is already uptodate.
 
 
@@ -1271,8 +1296,8 @@ pdfTeX warning: pdflatex (file ./capillary-eps-converted-to.pdf): PDF inclusion
 <capillary-eps-converted-to.pdf, id=78, 185.69376pt x 191.71625pt>
 File: capillary-eps-converted-to.pdf Graphic file (type pdf)
 <use capillary-eps-converted-to.pdf>
-Package pdftex.def Info: capillary-eps-converted-to.pdf  used on input line 103
-.
+Package pdftex.def Info: capillary-eps-converted-to.pdf  used on input line 99.
+
 (pdftex.def)             Requested size: 167.29967pt x 172.73024pt.
 Package epstopdf Info: Source file: <viscosity.eps>
 (epstopdf)                    date: 2022-10-10 18:58:30
@@ -1282,7 +1307,7 @@ Package epstopdf Info: Source file: <viscosity.eps>
 (epstopdf)                    size: 90580 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=viscosity-eps-conver
 ted-to.pdf viscosity.eps>
-(epstopdf)             \includegraphics on input line 108.
+(epstopdf)             \includegraphics on input line 104.
 Package epstopdf Info: Output file is already uptodate.
 
 
@@ -1291,7 +1316,7 @@ pdfTeX warning: pdflatex (file ./viscosity-eps-converted-to.pdf): PDF inclusion
 <viscosity-eps-converted-to.pdf, id=79, 252.945pt x 169.63374pt>
 File: viscosity-eps-converted-to.pdf Graphic file (type pdf)
 <use viscosity-eps-converted-to.pdf>
-Package pdftex.def Info: viscosity-eps-converted-to.pdf  used on input line 108
+Package pdftex.def Info: viscosity-eps-converted-to.pdf  used on input line 104
 .
 (pdftex.def)             Requested size: 209.12778pt x 140.2498pt.
 [7
@@ -1299,57 +1324,57 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.112 ...{term}=\frac{2r^2(\rho-\sigma)g}{9\eta}\]
+l.108 ...{term}=\frac{2r^2(\rho-\sigma)g}{9\eta}\]
                                                    where $\sigma$ is the den...
 
 pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.112 ...{term}=\frac{2r^2(\rho-\sigma)g}{9\eta}\]
+l.108 ...{term}=\frac{2r^2(\rho-\sigma)g}{9\eta}\]
                                                    where $\sigma$ is the den...
  <./capillary-eps-converted-to.pdf> <./viscosity-eps-converted-to.pdf>]
-Overfull \hbox (0.10283pt too wide) in paragraph at lines 119--120
+Overfull \hbox (0.10283pt too wide) in paragraph at lines 115--116
 []\OT1/cmr/m/n/10.95 (+20) The heat of fusion of H$[]$O: 80 cal g$[]$. Heat of 
 vaporization of H$[]$O: 540 cal g$[]$. 
  []
 
-LaTeX Font Info:    Calculating math sizes for size <7.665> on input line 124.
+LaTeX Font Info:    Calculating math sizes for size <7.665> on input line 120.
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <3.83249> not available
-(Font)              size <5> substituted on input line 124.
+(Font)              size <5> substituted on input line 120.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <3.83249> not available
-(Font)              size <5> substituted on input line 124.
+(Font)              size <5> substituted on input line 120.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <3.83249> not available
-(Font)              size <5> substituted on input line 124.
+(Font)              size <5> substituted on input line 120.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <3.83249> not available
-(Font)              size <5> substituted on input line 124.
+(Font)              size <5> substituted on input line 120.
 
 
 LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <3.83249> not available
-(Font)              size <5> substituted on input line 124.
+(Font)              size <5> substituted on input line 120.
 
 [8]
-USAPhO Notes.tex:130: Missing { inserted.
+USAPhO Notes.tex:126: Missing { inserted.
 <to be read again> 
                    \mathop 
-l.130 ... $\boxed{2.88\times10^{-3}=T\lambda_\max}
+l.126 ... $\boxed{2.88\times10^{-3}=T\lambda_\max}
                                                   $
 A left brace was mandatory here, so I've put one in.
 You might want to delete and/or insert some corrections
 so that I will find a matching right brace soon.
 (If you're confused by all this, try typing `I}' now.)
 
-USAPhO Notes.tex:130: Missing } inserted.
+USAPhO Notes.tex:126: Missing } inserted.
 <inserted text> 
                 }
-l.130 ... $\boxed{2.88\times10^{-3}=T\lambda_\max}
+l.126 ... $\boxed{2.88\times10^{-3}=T\lambda_\max}
                                                   $
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1358,22 +1383,22 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-Overfull \hbox (15.29742pt too wide) in paragraph at lines 133--134
+Overfull \hbox (15.29742pt too wide) in paragraph at lines 129--130
 \OT1/cmr/m/n/10.95 (-20) heat through-out some iso-choric pro-cess. Some-thing 
 to \OT1/cmr/bx/n/10.95 (-20) re-mem-ber\OT1/cmr/m/n/10.95 (-20) : $[]$ 
  []
 
 
-Overfull \hbox (0.17068pt too wide) in paragraph at lines 135--135
+Overfull \hbox (0.17068pt too wide) in paragraph at lines 131--131
 \OT1/cmr/m/n/10.95 (+16) times area times distance. However, area time distance
  is just volume. Thus, we 
  []
 
 [9] [10] [11] [12]
-USAPhO Notes.tex:199: Missing \right. inserted.
+USAPhO Notes.tex:195: Missing \right. inserted.
 <inserted text> 
                 \right .
-l.199 ...f the particles $\left(\langle v\rangle)$
+l.195 ...f the particles $\left(\langle v\rangle)$
                                                   . They are given by Maxwel...
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1382,32 +1407,32 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-Overfull \hbox (0.18373pt too wide) in paragraph at lines 202--204
+Overfull \hbox (0.18373pt too wide) in paragraph at lines 198--200
 \OT1/cmr/m/n/10.95 (+19) each particle. This energy is $[]\OML/cmm/m/it/10.95 k
 []T$\OT1/cmr/m/n/10.95 (+19) . Now, you might recognize this as the same as the
  
  []
 
 [13]
-Overfull \hbox (0.1451pt too wide) in paragraph at lines 205--205
+Overfull \hbox (0.1451pt too wide) in paragraph at lines 201--201
 \OT1/cmr/m/n/10.95 (+3) To make a small change in internal energy $d\OML/cmm/m/
 it/10.95 U$ \OT1/cmr/m/n/10.95 (+3) at constant volume, corresponding 
  []
 
 [14]
-Overfull \hbox (0.10947pt too wide) in paragraph at lines 212--213
+Overfull \hbox (0.10947pt too wide) in paragraph at lines 208--209
 \OT1/cmr/m/n/10.95 (+3) tion it-self has a very low prob-a-bil-ity since it is 
 nearly im-pos-si-ble for all the par-ti-cles to 
  []
 
 [15]
-Overfull \hbox (0.1429pt too wide) in paragraph at lines 230--230
+Overfull \hbox (0.1429pt too wide) in paragraph at lines 226--226
 \OT1/cmr/m/n/10.95 (+18) directions. Standing waves are basically like ripples:
  they oscillate in place. The 
  []
 
 [16] [17]
-Overfull \hbox (0.15094pt too wide) in paragraph at lines 239--240
+Overfull \hbox (0.15094pt too wide) in paragraph at lines 235--236
 \OT1/cmr/m/n/10.95 (+13) ment from their mean po-si-tions is 0. At the points w
 here pres-sure is $\OML/cmm/m/it/10.95 P[]$ \OT1/cmr/m/n/10.95 (+13) is where 
  []
@@ -1421,7 +1446,7 @@ Package epstopdf Info: Source file: <rod.eps>
 (epstopdf)                    size: 50774 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=rod-eps-converted-to
 .pdf rod.eps>
-(epstopdf)             \includegraphics on input line 263.
+(epstopdf)             \includegraphics on input line 259.
 Package epstopdf Info: Output file is already uptodate.
 
 
@@ -1430,35 +1455,35 @@ d PDF version <1.7>, but at most version <1.5> allowed
 <rod-eps-converted-to.pdf, id=176, 725.71124pt x 747.79375pt>
 File: rod-eps-converted-to.pdf Graphic file (type pdf)
 <use rod-eps-converted-to.pdf>
-Package pdftex.def Info: rod-eps-converted-to.pdf  used on input line 263.
+Package pdftex.def Info: rod-eps-converted-to.pdf  used on input line 259.
 (pdftex.def)             Requested size: 209.12778pt x 215.48538pt.
 [20] [21
 pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.272         \item \textbf
+l.268         \item \textbf
                            {NOTE:} inside a \textit{conductive} body the cha...
  <./rod-eps-converted-to.pdf>]
-Overfull \hbox (0.10323pt too wide) in paragraph at lines 273--273
+Overfull \hbox (0.10323pt too wide) in paragraph at lines 269--269
 \OT1/cmr/m/n/10.95 (+2) Here $[]$ is the area vector and The OUTER SURFACE is t
 aken as positive for $[]$. 
  []
 
 
-Overfull \hbox (0.16199pt too wide) in paragraph at lines 276--277
+Overfull \hbox (0.16199pt too wide) in paragraph at lines 272--273
 []\OT1/cmr/m/n/10.95 (+5) Just like with gravity, Newton's Shell Theorem also a
 pplies to electrostatic. Note 
  []
 
 [22]
-Overfull \hbox (0.1217pt too wide) in paragraph at lines 281--281
+Overfull \hbox (0.1217pt too wide) in paragraph at lines 277--277
 []\OT1/cmr/m/n/10.95 (+17) Self en-ergy is the en-ergy con-tained in a charged 
 body on ac-count of the ar-range- 
  []
 
 
-Overfull \hbox (0.19075pt too wide) in paragraph at lines 283--283
+Overfull \hbox (0.19075pt too wide) in paragraph at lines 279--279
 \OT1/cmr/m/n/10.95 (+12) be-cause charge al-ways tries to go to-wards lower po-
 ten-tial. You can think of it as 
  []
@@ -1472,7 +1497,7 @@ Package epstopdf Info: Source file: <dipole.eps>
 (epstopdf)                    size: 6545 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=dipole-eps-converted
 -to.pdf dipole.eps>
-(epstopdf)             \includegraphics on input line 293.
+(epstopdf)             \includegraphics on input line 289.
 Package epstopdf Info: Output file is already uptodate.
 
 
@@ -1481,17 +1506,17 @@ ound PDF version <1.7>, but at most version <1.5> allowed
 <dipole-eps-converted-to.pdf, id=199, 157.58875pt x 145.54375pt>
 File: dipole-eps-converted-to.pdf Graphic file (type pdf)
 <use dipole-eps-converted-to.pdf>
-Package pdftex.def Info: dipole-eps-converted-to.pdf  used on input line 293.
+Package pdftex.def Info: dipole-eps-converted-to.pdf  used on input line 289.
 (pdftex.def)             Requested size: 167.29967pt x 154.52213pt.
 [24
 pdfTeX warning (ext4): destination with the same identifier (name{figure.7}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.301     \end{itemize}
+l.297     \end{itemize}
                         <./dipole-eps-converted-to.pdf>] [25]
-USAPhO Notes.tex:315: Undefined control sequence.
-l.315 ...athbf J}=\rho\vec{\mathbf v}_D}\] \mahtbf
+USAPhO Notes.tex:311: Undefined control sequence.
+l.311 ...athbf J}=\rho\vec{\mathbf v}_D}\] \mahtbf
                                                   {Note}: drift velocity and...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1500,13 +1525,13 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (0.17365pt too wide) in paragraph at lines 316--316
+Overfull \hbox (0.17365pt too wide) in paragraph at lines 312--312
 \OT1/cmr/m/n/10.95 (+1) re-sis-tance and a nar-rower wire (with lower cross-sec
 tional area) also in-creases the 
  []
 
 
-Overfull \hbox (0.15761pt too wide) in paragraph at lines 318--318
+Overfull \hbox (0.15761pt too wide) in paragraph at lines 314--314
 \OT1/cmr/m/n/10.95 (+3) energy (a battery is an example of a transducer). It is
  the work required to move 
  []
@@ -1519,7 +1544,7 @@ Package epstopdf Info: Source file: <series.eps>
 (epstopdf)                    size: 10437 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=series-eps-converted
 -to.pdf series.eps>
-(epstopdf)             \includegraphics on input line 323.
+(epstopdf)             \includegraphics on input line 319.
 Package epstopdf Info: Output file is already uptodate.
 
 
@@ -1528,7 +1553,7 @@ ound PDF version <1.7>, but at most version <1.5> allowed
 <series-eps-converted-to.pdf, id=216, 100.375pt x 79.29625pt>
 File: series-eps-converted-to.pdf Graphic file (type pdf)
 <use series-eps-converted-to.pdf>
-Package pdftex.def Info: series-eps-converted-to.pdf  used on input line 323.
+Package pdftex.def Info: series-eps-converted-to.pdf  used on input line 319.
 (pdftex.def)             Requested size: 167.29967pt x 132.18587pt.
 Package epstopdf Info: Source file: <parallel.eps>
 (epstopdf)                    date: 2022-10-10 18:58:30
@@ -1538,7 +1563,7 @@ Package epstopdf Info: Source file: <parallel.eps>
 (epstopdf)                    size: 11825 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=parallel-eps-convert
 ed-to.pdf parallel.eps>
-(epstopdf)             \includegraphics on input line 328.
+(epstopdf)             \includegraphics on input line 324.
 Package epstopdf Info: Output file is already uptodate.
 
 
@@ -1547,11 +1572,11 @@ pdfTeX warning: pdflatex (file ./parallel-eps-converted-to.pdf): PDF inclusion:
 <parallel-eps-converted-to.pdf, id=217, 108.405pt x 101.37875pt>
 File: parallel-eps-converted-to.pdf Graphic file (type pdf)
 <use parallel-eps-converted-to.pdf>
-Package pdftex.def Info: parallel-eps-converted-to.pdf  used on input line 328.
+Package pdftex.def Info: parallel-eps-converted-to.pdf  used on input line 324.
 
 (pdftex.def)             Requested size: 167.29967pt x 156.47644pt.
 [26]
-Overfull \hbox (0.11403pt too wide) in paragraph at lines 333--334
+Overfull \hbox (0.11403pt too wide) in paragraph at lines 329--330
 \OT1/cmr/m/n/10.95 (+8) An \OT1/cmr/m/it/10.95 (+8) ammeter \OT1/cmr/m/n/10.95 
 (+8) measures the current flowing through a wire and is always attached 
  []
@@ -1561,17 +1586,17 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.8}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.340         \item L
+l.336         \item L
                      oop Law: essentially a statement of conservation of ene...
 
 pdfTeX warning (ext4): destination with the same identifier (name{figure.9}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.340         \item L
+l.336         \item L
                      oop Law: essentially a statement of conservation of ene...
  <./series-eps-converted-to.pdf> <./parallel-eps-converted-to.pdf>]
-Overfull \hbox (0.11217pt too wide) in paragraph at lines 340--341
+Overfull \hbox (0.11217pt too wide) in paragraph at lines 336--337
 \OT1/cmr/m/n/10.95 (+9) closed loop, then the amount of voltage drop will be re
 compensated by a battery 
  []
@@ -1584,7 +1609,7 @@ Package epstopdf Info: Source file: <kirchhoff.eps>
 (epstopdf)                    size: 20444 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=kirchhoff-eps-conver
 ted-to.pdf kirchhoff.eps>
-(epstopdf)             \includegraphics on input line 344.
+(epstopdf)             \includegraphics on input line 340.
 Package epstopdf Info: Output file is already uptodate.
 
 
@@ -1593,23 +1618,23 @@ pdfTeX warning: pdflatex (file ./kirchhoff-eps-converted-to.pdf): PDF inclusion
 <kirchhoff-eps-converted-to.pdf, id=234, 259.97125pt x 259.97125pt>
 File: kirchhoff-eps-converted-to.pdf Graphic file (type pdf)
 <use kirchhoff-eps-converted-to.pdf>
-Package pdftex.def Info: kirchhoff-eps-converted-to.pdf  used on input line 344
+Package pdftex.def Info: kirchhoff-eps-converted-to.pdf  used on input line 340
 .
 (pdftex.def)             Requested size: 194.97795pt x 194.97795pt.
 
-Overfull \hbox (0.15619pt too wide) in paragraph at lines 348--349
+Overfull \hbox (0.15619pt too wide) in paragraph at lines 344--345
 \OT1/cmr/m/n/10.95 (+4) Following the loop from point $\OML/cmm/m/it/10.95 A$ \
 OT1/cmr/m/n/10.95 (+4) with voltage $[]$ around the loop clockwise, we 
  []
 
 
-USAPhO Notes.tex:353: LaTeX Error: Something's wrong--perhaps a missing \item.
+USAPhO Notes.tex:349: LaTeX Error: Something's wrong--perhaps a missing \item.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.353     \end{itemize}
+l.349     \end{itemize}
                        
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1622,7 +1647,7 @@ Package epstopdf Info: Source file: <delta.eps>
 (epstopdf)                    size: 48681 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=delta-eps-converted-
 to.pdf delta.eps>
-(epstopdf)             \includegraphics on input line 360.
+(epstopdf)             \includegraphics on input line 356.
 Package epstopdf Info: Output file is already uptodate.
 
 
@@ -1631,7 +1656,7 @@ und PDF version <1.7>, but at most version <1.5> allowed
 <delta-eps-converted-to.pdf, id=235, 268.00125pt x 226.8475pt>
 File: delta-eps-converted-to.pdf Graphic file (type pdf)
 <use delta-eps-converted-to.pdf>
-Package pdftex.def Info: delta-eps-converted-to.pdf  used on input line 360.
+Package pdftex.def Info: delta-eps-converted-to.pdf  used on input line 356.
 (pdftex.def)             Requested size: 167.29967pt x 141.60973pt.
 Package epstopdf Info: Source file: <star.eps>
 (epstopdf)                    date: 2022-10-10 18:58:30
@@ -1641,7 +1666,7 @@ Package epstopdf Info: Source file: <star.eps>
 (epstopdf)                    size: 34860 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=star-eps-converted-t
 o.pdf star.eps>
-(epstopdf)             \includegraphics on input line 365.
+(epstopdf)             \includegraphics on input line 361.
 Package epstopdf Info: Output file is already uptodate.
 
 
@@ -1650,14 +1675,14 @@ nd PDF version <1.7>, but at most version <1.5> allowed
 <star-eps-converted-to.pdf, id=236, 212.795pt x 179.67125pt>
 File: star-eps-converted-to.pdf Graphic file (type pdf)
 <use star-eps-converted-to.pdf>
-Package pdftex.def Info: star-eps-converted-to.pdf  used on input line 365.
+Package pdftex.def Info: star-eps-converted-to.pdf  used on input line 361.
 (pdftex.def)             Requested size: 167.29967pt x 141.26428pt.
 [28
 pdfTeX warning (ext4): destination with the same identifier (name{figure.10}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.370         \item W
+l.366         \item W
                      hile solving for equivalent resistance, there is someth...
  <./kirchhoff-eps-converted-to.pdf>]
 Package microtype Info: Loading generic protrusion settings for font family
@@ -1669,30 +1694,30 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.11}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.378         \item I
+l.374         \item I
                      n a capacitor, the higher the voltage applied between t...
 
 pdfTeX warning (ext4): destination with the same identifier (name{figure.12}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.378         \item I
+l.374         \item I
                      n a capacitor, the higher the voltage applied between t...
  <./delta-eps-converted-to.pdf> <./star-eps-converted-to.pdf>]
-Overfull \hbox (0.13399pt too wide) in paragraph at lines 386--386
+Overfull \hbox (0.13399pt too wide) in paragraph at lines 382--382
 []\OT1/cmr/m/n/10.95 (+14) Using the method above, the capacitance for a parall
 el-plate capacitor with area 
  []
 
 
-Overfull \hbox (0.11008pt too wide) in paragraph at lines 387--387
+Overfull \hbox (0.11008pt too wide) in paragraph at lines 383--383
 []\OT1/cmr/m/n/10.95 (+11) The capacitance of a spherical capacitor (with inner
  spherical radius $\OML/cmm/m/it/10.95 a$ \OT1/cmr/m/n/10.95 (+11) and outer 
  []
 
 [30] [31]
-USAPhO Notes.tex:404: Undefined control sequence.
-l.404 ...eutral. The charges may be flowing \texit
+USAPhO Notes.tex:400: Undefined control sequence.
+l.400 ...eutral. The charges may be flowing \texit
                                                   {through} the wire, but th...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1701,7 +1726,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 [32]
-Overfull \hbox (0.14488pt too wide) in paragraph at lines 407--408
+Overfull \hbox (0.14488pt too wide) in paragraph at lines 403--404
 \OT1/cmr/m/n/10.95 (+8) length along the line joining the top and the bottom, a
 s in the semi-circular wire 
  []
@@ -1714,7 +1739,7 @@ Package epstopdf Info: Source file: <magneticdipole.eps>
 (epstopdf)                    size: 21332 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=magneticdipole-eps-c
 onverted-to.pdf magneticdipole.eps>
-(epstopdf)             \includegraphics on input line 412.
+(epstopdf)             \includegraphics on input line 408.
 Package epstopdf Info: Output file is already uptodate.
 
 
@@ -1724,10 +1749,10 @@ usion: found PDF version <1.7>, but at most version <1.5> allowed
 File: magneticdipole-eps-converted-to.pdf Graphic file (type pdf)
 <use magneticdipole-eps-converted-to.pdf>
 Package pdftex.def Info: magneticdipole-eps-converted-to.pdf  used on input lin
-e 412.
+e 408.
 (pdftex.def)             Requested size: 419.16212pt x 147.24875pt.
 
-Overfull \hbox (0.90657pt too wide) in paragraph at lines 412--413
+Overfull \hbox (0.90657pt too wide) in paragraph at lines 408--409
  [][] 
  []
 
@@ -1736,7 +1761,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.13}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.417         \item J
+l.413         \item J
                      ust like with $\vec{\mathbf p}$, the potential energy h...
  <./magneticdipole-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <biot.eps>
@@ -1747,7 +1772,7 @@ Package epstopdf Info: Source file: <biot.eps>
 (epstopdf)                    size: 23947 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=biot-eps-converted-t
 o.pdf biot.eps>
-(epstopdf)             \includegraphics on input line 427.
+(epstopdf)             \includegraphics on input line 423.
 Package epstopdf Info: Output file is already uptodate.
 
 
@@ -1756,10 +1781,10 @@ nd PDF version <1.7>, but at most version <1.5> allowed
 <biot-eps-converted-to.pdf, id=295, 263.98625pt x 236.885pt>
 File: biot-eps-converted-to.pdf Graphic file (type pdf)
 <use biot-eps-converted-to.pdf>
-Package pdftex.def Info: biot-eps-converted-to.pdf  used on input line 427.
+Package pdftex.def Info: biot-eps-converted-to.pdf  used on input line 423.
 (pdftex.def)             Requested size: 158.39296pt x 142.13208pt.
 [34]
-Overfull \hbox (0.10501pt too wide) in paragraph at lines 431--432
+Overfull \hbox (0.10501pt too wide) in paragraph at lines 427--428
 \OT1/cmr/m/n/10.95 (+7) over, $\OML/cmm/m/it/10.95 ^^V \OT1/cmr/m/n/10.95 (+7) 
 = \OML/cmm/m/it/10.95 ^^V[]^^V[]$ \OT1/cmr/m/n/10.95 (+7) where $\OML/cmm/m/it/
 10.95 ^^V[]$ \OT1/cmr/m/n/10.95 (+7) is the rel-a-tive mag-netic per-me-abil-it
@@ -1771,28 +1796,23 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.14}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.436 ...his magnetic field will be $I_2B$, or, \[
+l.432 ...his magnetic field will be $I_2B$, or, \[
                                                   \boxed{\frac{\mathrm dF}{\...
  <./biot-eps-converted-to.pdf>]
-
-LaTeX Warning: Reference `secondfootnote' on page 36 undefined on input line 43
-6.
-
-
-Overfull \hbox (0.11435pt too wide) in paragraph at lines 436--437
+Overfull \hbox (0.11435pt too wide) in paragraph at lines 432--433
 \OT1/cmr/m/n/10.95 (+16) For the other wire, the force will be identical and th
 is force will be \OT1/cmr/m/it/10.95 (+16) attractive \OT1/cmr/m/n/10.95 (+16) 
 for 
  []
 
 
-USAPhO Notes.tex:438: LaTeX Error: There's no line here to end.
+USAPhO Notes.tex:434: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.438     \subsubsection{Amp\`ere's Law}\newline
+l.434     \subsubsection{Amp\`ere's Law}\newline
                                                 
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1806,19 +1826,19 @@ Package epstopdf Info: Source file: <ampere.eps>
 (epstopdf)                    size: 49934 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=ampere-eps-converted
 -to.pdf ampere.eps>
-(epstopdf)             \includegraphics on input line 442.
+(epstopdf)             \includegraphics on input line 438.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./ampere-eps-converted-to.pdf): PDF inclusion: f
 ound PDF version <1.7>, but at most version <1.5> allowed
-<ampere-eps-converted-to.pdf, id=313, 854.19125pt x 528.97626pt>
+<ampere-eps-converted-to.pdf, id=314, 854.19125pt x 528.97626pt>
 File: ampere-eps-converted-to.pdf Graphic file (type pdf)
 <use ampere-eps-converted-to.pdf>
-Package pdftex.def Info: ampere-eps-converted-to.pdf  used on input line 442.
+Package pdftex.def Info: ampere-eps-converted-to.pdf  used on input line 438.
 (pdftex.def)             Requested size: 384.38252pt x 238.03711pt.
 
-Overfull \hbox (0.16792pt too wide) in paragraph at lines 439--444
+Overfull \hbox (0.16792pt too wide) in paragraph at lines 435--440
 \OT1/cmr/m/n/10.95 (+9) The cir-cu-la-tion of the re-sul-tant mag-netic field a
 long a closed, pla-nar curve is the prod- 
  []
@@ -1828,10 +1848,10 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.15}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.445 ...the total enclosed current, and we get \[
+l.441 ...the total enclosed current, and we get \[
                                                   \boxed{\oint_{\partial \Si...
  <./ampere-eps-converted-to.pdf>]
-Overfull \hbox (0.11522pt too wide) in paragraph at lines 445--445
+Overfull \hbox (0.11522pt too wide) in paragraph at lines 441--441
 \OT1/cmr/m/n/10.95 (+20) by the curve over which to integrate on the left. Also
 , the del represents the ``curl" of 
  []
@@ -1844,16 +1864,16 @@ Package epstopdf Info: Source file: <solenoid.eps>
 (epstopdf)                    size: 211664 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=solenoid-eps-convert
 ed-to.pdf solenoid.eps>
-(epstopdf)             \includegraphics on input line 453.
+(epstopdf)             \includegraphics on input line 449.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./solenoid-eps-converted-to.pdf): PDF inclusion:
  found PDF version <1.7>, but at most version <1.5> allowed
-<solenoid-eps-converted-to.pdf, id=324, 2168.1pt x 1273.75874pt>
+<solenoid-eps-converted-to.pdf, id=325, 2168.1pt x 1273.75874pt>
 File: solenoid-eps-converted-to.pdf Graphic file (type pdf)
 <use solenoid-eps-converted-to.pdf>
-Package pdftex.def Info: solenoid-eps-converted-to.pdf  used on input line 453.
+Package pdftex.def Info: solenoid-eps-converted-to.pdf  used on input line 449.
 
 (pdftex.def)             Requested size: 230.04182pt x 135.13829pt.
 Package epstopdf Info: Source file: <toroid.eps>
@@ -1864,19 +1884,19 @@ Package epstopdf Info: Source file: <toroid.eps>
 (epstopdf)                    size: 40403 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=toroid-eps-converted
 -to.pdf toroid.eps>
-(epstopdf)             \includegraphics on input line 458.
+(epstopdf)             \includegraphics on input line 454.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./toroid-eps-converted-to.pdf): PDF inclusion: f
 ound PDF version <1.7>, but at most version <1.5> allowed
-<toroid-eps-converted-to.pdf, id=325, 315.1775pt x 316.18124pt>
+<toroid-eps-converted-to.pdf, id=326, 315.1775pt x 316.18124pt>
 File: toroid-eps-converted-to.pdf Graphic file (type pdf)
 <use toroid-eps-converted-to.pdf>
-Package pdftex.def Info: toroid-eps-converted-to.pdf  used on input line 458.
+Package pdftex.def Info: toroid-eps-converted-to.pdf  used on input line 454.
 (pdftex.def)             Requested size: 125.47794pt x 125.87683pt.
 
-Overfull \hbox (0.15273pt too wide) in paragraph at lines 463--463
+Overfull \hbox (0.15273pt too wide) in paragraph at lines 459--459
 \OT1/cmr/m/n/10.95 (+20) the bot-tom half, the mag-netic field is $\OML/cmm/m/i
 t/10.95 Bl$ \OT1/cmr/m/n/10.95 (+20) and the en-closed cur-rent is sim-ply, $\O
 ML/cmm/m/it/10.95 nlI$\OT1/cmr/m/n/10.95 (+20) . 
@@ -1887,31 +1907,31 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.16}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.463 ...nlI$. Thus, the magnetic field becomes \[
+l.459 ...nlI$. Thus, the magnetic field becomes \[
                                                   Bl=\mu nlI\implies\boxed{B...
 
 pdfTeX warning (ext4): destination with the same identifier (name{figure.17}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.463 ...nlI$. Thus, the magnetic field becomes \[
+l.459 ...nlI$. Thus, the magnetic field becomes \[
                                                   Bl=\mu nlI\implies\boxed{B...
  <./solenoid-eps-converted-to.pdf> <./toroid-eps-converted-to.pdf>]
 
-USAPhO Notes.tex:467: LaTeX Error: There's no line here to end.
+USAPhO Notes.tex:463: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.467     \subsubsection{Faraday's Law}\newline
+l.463     \subsubsection{Faraday's Law}\newline
                                                
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (0.1262pt too wide) in paragraph at lines 470--470
+Overfull \hbox (0.1262pt too wide) in paragraph at lines 466--466
 \OT1/cmr/m/n/10.95 (+20) The neg-a-tive sign shows that $\OMS/cmsy/m/n/10.95 E$
  \OT1/cmr/m/n/10.95 (+20) is gen-er-ated to \OT1/cmr/m/it/10.95 (+20) op-pose \
 OT1/cmr/m/n/10.95 (+20) the mag-netic flux change. 
@@ -1919,13 +1939,13 @@ OT1/cmr/m/n/10.95 (+20) the mag-netic flux change.
 
 [38]
 
-USAPhO Notes.tex:476: LaTeX Error: There's no line here to end.
+USAPhO Notes.tex:472: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.476 ...section{Inductance and Inductors}\newline
+l.472 ...section{Inductance and Inductors}\newline
                                                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1940,19 +1960,19 @@ Package epstopdf Info: Source file: <tor.eps>
 (epstopdf)                    size: 25135 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=tor-eps-converted-to
 .pdf tor.eps>
-(epstopdf)             \includegraphics on input line 485.
+(epstopdf)             \includegraphics on input line 481.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./tor-eps-converted-to.pdf): PDF inclusion: foun
 d PDF version <1.7>, but at most version <1.5> allowed
-<tor-eps-converted-to.pdf, id=350, 359.3425pt x 198.7425pt>
+<tor-eps-converted-to.pdf, id=351, 359.3425pt x 198.7425pt>
 File: tor-eps-converted-to.pdf Graphic file (type pdf)
 <use tor-eps-converted-to.pdf>
-Package pdftex.def Info: tor-eps-converted-to.pdf  used on input line 485.
+Package pdftex.def Info: tor-eps-converted-to.pdf  used on input line 481.
 (pdftex.def)             Requested size: 230.04182pt x 127.23418pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 484--486
+Underfull \hbox (badness 10000) in paragraph at lines 480--482
 []\OT1/cmr/m/n/10.95 (+20) . 
  []
 
@@ -1964,20 +1984,20 @@ Package epstopdf Info: Source file: <inductor.eps>
 (epstopdf)                    size: 20967 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=inductor-eps-convert
 ed-to.pdf inductor.eps>
-(epstopdf)             \includegraphics on input line 490.
+(epstopdf)             \includegraphics on input line 486.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./inductor-eps-converted-to.pdf): PDF inclusion:
  found PDF version <1.7>, but at most version <1.5> allowed
-<inductor-eps-converted-to.pdf, id=351, 233.87375pt x 123.46124pt>
+<inductor-eps-converted-to.pdf, id=352, 233.87375pt x 123.46124pt>
 File: inductor-eps-converted-to.pdf Graphic file (type pdf)
 <use inductor-eps-converted-to.pdf>
-Package pdftex.def Info: inductor-eps-converted-to.pdf  used on input line 490.
+Package pdftex.def Info: inductor-eps-converted-to.pdf  used on input line 486.
 
 (pdftex.def)             Requested size: 167.29967pt x 88.3212pt.
 
-Overfull \hbox (0.14728pt too wide) in paragraph at lines 496--497
+Overfull \hbox (0.14728pt too wide) in paragraph at lines 492--493
 \OT1/cmr/m/it/10.95 (+20) to-wards \OT1/cmr/m/n/10.95 (+20) point $\OML/cmm/m/i
 t/10.95 A$ \OT1/cmr/m/n/10.95 (+20) and whose emf is sim-ply $\OMS/cmsy/m/n/10.
 95 E$\OT1/cmr/m/n/10.95 (+20) . If $[] \OML/cmm/m/it/10.95 < \OT1/cmr/m/n/10.95
@@ -1989,18 +2009,18 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.18}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.497         \item A
+l.493         \item A
                      n inductor can also store energy (in the form of magnet...
 
 pdfTeX warning (ext4): destination with the same identifier (name{figure.19}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.497         \item A
+l.493         \item A
                      n inductor can also store energy (in the form of magnet...
  <./tor-eps-converted-to.pdf> <./inductor-eps-converted-to.pdf>]
-USAPhO Notes.tex:498: Undefined control sequence.
-l.498 ...we get \[\mathcal EI\mathrm dt-I^2R\mthrm
+USAPhO Notes.tex:494: Undefined control sequence.
+l.494 ...we get \[\mathcal EI\mathrm dt-I^2R\mthrm
                                                    dt=LI\mathrm dI\] Note th...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2008,8 +2028,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-USAPhO Notes.tex:498: Undefined control sequence.
-l.498 ..., we get \[\int_0^t\mathcal EI-I^2R\mthrm
+USAPhO Notes.tex:494: Undefined control sequence.
+l.494 ..., we get \[\int_0^t\mathcal EI-I^2R\mthrm
                                                    dt=\int_0^ILI\mathrm dI\i...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2018,7 +2038,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (2.1339pt too wide) detected at line 499
+Overfull \hbox (2.1339pt too wide) detected at line 495
 \OMS/cmsy/m/n/10.95 E ^^@ \OML/cmm/m/it/10.95 IR \OT1/cmr/m/n/10.95 = \OML/cmm/
 m/it/10.95 L[]  \OT1/cmr/m/n/10.95 =[]\OMS/cmsy/m/n/10.95 )  [] \OT1/cmr/m/n/10
 .95 = []  =[]\OMS/cmsy/m/n/10.95 )  [][] [] \OT1/cmr/m/n/10.95 = [][] []  =[]\O
@@ -2034,19 +2054,19 @@ Package epstopdf Info: Source file: <example.eps>
 (epstopdf)                    size: 46771 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=example-eps-converte
 d-to.pdf example.eps>
-(epstopdf)             \includegraphics on input line 504.
+(epstopdf)             \includegraphics on input line 500.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./example-eps-converted-to.pdf): PDF inclusion: 
 found PDF version <1.7>, but at most version <1.5> allowed
-<example-eps-converted-to.pdf, id=371, 421.575pt x 440.64626pt>
+<example-eps-converted-to.pdf, id=372, 421.575pt x 440.64626pt>
 File: example-eps-converted-to.pdf Graphic file (type pdf)
 <use example-eps-converted-to.pdf>
-Package pdftex.def Info: example-eps-converted-to.pdf  used on input line 504.
+Package pdftex.def Info: example-eps-converted-to.pdf  used on input line 500.
 (pdftex.def)             Requested size: 126.47346pt x 132.19489pt.
 
-Overfull \hbox (0.13283pt too wide) in paragraph at lines 509--509
+Overfull \hbox (0.13283pt too wide) in paragraph at lines 505--505
 []\OT1/cmr/m/n/10.95 (+15) Well, the inductor will let no current through after
  0 time and hence the current 
  []
@@ -2056,17 +2076,17 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.20}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.511 ...rac12LI^2=\frac12LI_0^2e^{-\frac{2R}Lt}\]
+l.507 ...rac12LI^2=\frac12LI_0^2e^{-\frac{2R}Lt}\]
                                                    Thus, the change in energ...
  <./example-eps-converted-to.pdf>]
 
-USAPhO Notes.tex:513: LaTeX Error: There's no line here to end.
+USAPhO Notes.tex:509: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.513 ...section{Gauss' Law for Magnetism}\newline
+l.509 ...section{Gauss' Law for Magnetism}\newline
                                                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2080,25 +2100,25 @@ Package epstopdf Info: Source file: <magnet.eps>
 (epstopdf)                    size: 32281 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=magnet-eps-converted
 -to.pdf magnet.eps>
-(epstopdf)             \includegraphics on input line 517.
+(epstopdf)             \includegraphics on input line 513.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./magnet-eps-converted-to.pdf): PDF inclusion: f
 ound PDF version <1.7>, but at most version <1.5> allowed
-<magnet-eps-converted-to.pdf, id=383, 322.20375pt x 292.09125pt>
+<magnet-eps-converted-to.pdf, id=384, 322.20375pt x 292.09125pt>
 File: magnet-eps-converted-to.pdf Graphic file (type pdf)
 <use magnet-eps-converted-to.pdf>
-Package pdftex.def Info: magnet-eps-converted-to.pdf  used on input line 517.
+Package pdftex.def Info: magnet-eps-converted-to.pdf  used on input line 513.
 (pdftex.def)             Requested size: 161.10147pt x 146.04526pt.
 
-USAPhO Notes.tex:521: LaTeX Error: There's no line here to end.
+USAPhO Notes.tex:517: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.521     \subsubsection{LC Circuits}\newline
+l.517     \subsubsection{LC Circuits}\newline
                                              
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2112,23 +2132,23 @@ Package epstopdf Info: Source file: <LC.eps>
 (epstopdf)                    size: 36279 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=LC-eps-converted-to.
 pdf LC.eps>
-(epstopdf)             \includegraphics on input line 525.
+(epstopdf)             \includegraphics on input line 521.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./LC-eps-converted-to.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<LC-eps-converted-to.pdf, id=384, 591.20876pt x 332.24126pt>
+<LC-eps-converted-to.pdf, id=385, 591.20876pt x 332.24126pt>
 File: LC-eps-converted-to.pdf Graphic file (type pdf)
 <use LC-eps-converted-to.pdf>
-Package pdftex.def Info: LC-eps-converted-to.pdf  used on input line 525.
+Package pdftex.def Info: LC-eps-converted-to.pdf  used on input line 521.
 (pdftex.def)             Requested size: 206.92616pt x 116.28618pt.
 [43
 pdfTeX warning (ext4): destination with the same identifier (name{figure.21}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.527     \end{figure}
+l.523     \end{figure}
                        <./magnet-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <ex.eps>
 (epstopdf)                    date: 2022-10-10 18:58:30
@@ -2138,23 +2158,23 @@ Package epstopdf Info: Source file: <ex.eps>
 (epstopdf)                    size: 5658 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=ex-eps-converted-to.
 pdf ex.eps>
-(epstopdf)             \includegraphics on input line 535.
+(epstopdf)             \includegraphics on input line 531.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./ex-eps-converted-to.pdf): PDF inclusion: found
  PDF version <1.7>, but at most version <1.5> allowed
-<ex-eps-converted-to.pdf, id=395, 148.555pt x 98.3675pt>
+<ex-eps-converted-to.pdf, id=396, 148.555pt x 98.3675pt>
 File: ex-eps-converted-to.pdf Graphic file (type pdf)
 <use ex-eps-converted-to.pdf>
-Package pdftex.def Info: ex-eps-converted-to.pdf  used on input line 535.
+Package pdftex.def Info: ex-eps-converted-to.pdf  used on input line 531.
 (pdftex.def)             Requested size: 222.83194pt x 147.55084pt.
 [44
 pdfTeX warning (ext4): destination with the same identifier (name{figure.22}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.538         \item T
+l.534         \item T
                      he cell in the above circuit has an emf $\mathcal E$, a...
  <./LC-eps-converted-to.pdf>] [45 <./ex-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <fourier.eps>
@@ -2165,19 +2185,19 @@ Package epstopdf Info: Source file: <fourier.eps>
 (epstopdf)                    size: 32154 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=fourier-eps-converte
 d-to.pdf fourier.eps>
-(epstopdf)             \includegraphics on input line 557.
+(epstopdf)             \includegraphics on input line 553.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./fourier-eps-converted-to.pdf): PDF inclusion: 
 found PDF version <1.7>, but at most version <1.5> allowed
-<fourier-eps-converted-to.pdf, id=418, 539.01375pt x 122.4575pt>
+<fourier-eps-converted-to.pdf, id=419, 539.01375pt x 122.4575pt>
 File: fourier-eps-converted-to.pdf Graphic file (type pdf)
 <use fourier-eps-converted-to.pdf>
-Package pdftex.def Info: fourier-eps-converted-to.pdf  used on input line 557.
+Package pdftex.def Info: fourier-eps-converted-to.pdf  used on input line 553.
 (pdftex.def)             Requested size: 355.75017pt x 80.82219pt.
 
-Overfull \hbox (0.15291pt too wide) in paragraph at lines 562--562
+Overfull \hbox (0.15291pt too wide) in paragraph at lines 558--558
 []\OT1/cmr/m/n/10.95 (+5) There is also the RMS current associated with AC. Thi
 s is simply the root mean- 
  []
@@ -2187,23 +2207,23 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.23}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.563 ...X_C}\implies\boxed{X_C=\frac1{C\omega}}\]
+l.559 ...X_C}\implies\boxed{X_C=\frac1{C\omega}}\]
                                                    Here, $X_C$ is the capaci...
  <./fourier-eps-converted-to.pdf>]
 
-USAPhO Notes.tex:566: LaTeX Error: There's no line here to end.
+USAPhO Notes.tex:562: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.566     \subsubsection{Impedance}\newline
+l.562     \subsubsection{Impedance}\newline
                                            
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-LaTeX Font Info:    Trying to load font information for U+euf on input line 569
+LaTeX Font Info:    Trying to load font information for U+euf on input line 565
 .
 (C:\Users\mayan\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\ueuf.fd
 File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
@@ -2213,10 +2233,10 @@ File: mt-euf.cfg 2006/07/03 v1.1 microtype config. file: AMS Euler Fraktur (RS)
 
 )
 [47]
-USAPhO Notes.tex:571: Undefined control sequence.
+USAPhO Notes.tex:567: Undefined control sequence.
 <argument> ...ntom {\l__xfrac_phantom_tl }\mthcal 
                                                   E_0}
-l.571 ...citive circuit, $\sfrac{\mthcal E_0}{I_0}
+l.567 ...citive circuit, $\sfrac{\mthcal E_0}{I_0}
                                                   =X_C$, so we get $\boxed{Z...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2224,10 +2244,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-USAPhO Notes.tex:571: Undefined control sequence.
+USAPhO Notes.tex:567: Undefined control sequence.
 <argument> ...ntom {\l__xfrac_phantom_tl }\mthcal 
                                                   E_0}
-l.571 ...citive circuit, $\sfrac{\mthcal E_0}{I_0}
+l.567 ...citive circuit, $\sfrac{\mthcal E_0}{I_0}
                                                   =X_C$, so we get $\boxed{Z...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2235,10 +2255,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-USAPhO Notes.tex:571: Undefined control sequence.
+USAPhO Notes.tex:567: Undefined control sequence.
 <argument> ...ntom {\l__xfrac_phantom_tl }\mthcal 
                                                   E_0}
-l.571 ...citive circuit, $\sfrac{\mthcal E_0}{I_0}
+l.567 ...citive circuit, $\sfrac{\mthcal E_0}{I_0}
                                                   =X_C$, so we get $\boxed{Z...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2246,10 +2266,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-USAPhO Notes.tex:571: Undefined control sequence.
+USAPhO Notes.tex:567: Undefined control sequence.
 <argument> ...ntom {\l__xfrac_phantom_tl }\mthcal 
                                                   E_0}
-l.571 ...citive circuit, $\sfrac{\mthcal E_0}{I_0}
+l.567 ...citive circuit, $\sfrac{\mthcal E_0}{I_0}
                                                   =X_C$, so we get $\boxed{Z...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2265,19 +2285,19 @@ Package epstopdf Info: Source file: <phasor.eps>
 (epstopdf)                    size: 18071 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=phasor-eps-converted
 -to.pdf phasor.eps>
-(epstopdf)             \includegraphics on input line 576.
+(epstopdf)             \includegraphics on input line 572.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./phasor-eps-converted-to.pdf): PDF inclusion: f
 ound PDF version <1.7>, but at most version <1.5> allowed
-<phasor-eps-converted-to.pdf, id=440, 316.18124pt x 213.79875pt>
+<phasor-eps-converted-to.pdf, id=441, 316.18124pt x 213.79875pt>
 File: phasor-eps-converted-to.pdf Graphic file (type pdf)
 <use phasor-eps-converted-to.pdf>
-Package pdftex.def Info: phasor-eps-converted-to.pdf  used on input line 576.
+Package pdftex.def Info: phasor-eps-converted-to.pdf  used on input line 572.
 (pdftex.def)             Requested size: 208.68025pt x 141.1076pt.
 
-Overfull \hbox (0.14255pt too wide) in paragraph at lines 579--580
+Overfull \hbox (0.14255pt too wide) in paragraph at lines 575--576
 \OT1/cmr/m/n/10.95 (+14) mula al-lows us to work with ex-po-nen-tial com-plex n
 um-bers which are eas-ier.  So, the 
  []
@@ -2287,17 +2307,17 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.24}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.580 ...ind the modulus of the impedance, i.e. \[
+l.576 ...ind the modulus of the impedance, i.e. \[
                                                   |Z|=\sqrt{R^2+X^2}\] Then ...
  <./phasor-eps-converted-to.pdf>]
 
-USAPhO Notes.tex:586: LaTeX Error: There's no line here to end.
+USAPhO Notes.tex:582: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.586     \newline
+l.582     \newline
                   \quad Imagine a RLC circuit with an AC power source of emf...
 
 Your command was ignored.
@@ -2306,26 +2326,26 @@ or  <return>  to continue without it.
 
 [49]
 
-USAPhO Notes.tex:589: LaTeX Error: There's no line here to end.
+USAPhO Notes.tex:585: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.589     \subsection{Geometrical Optics}\newline
+l.585     \subsection{Geometrical Optics}\newline
                                                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-USAPhO Notes.tex:591: LaTeX Error: There's no line here to end.
+USAPhO Notes.tex:587: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.591     \subsubsection{Shadow Formation}\newline
+l.587     \subsubsection{Shadow Formation}\newline
                                                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2339,25 +2359,25 @@ Package epstopdf Info: Source file: <case4.eps>
 (epstopdf)                    size: 91137 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=case4-eps-converted-
 to.pdf case4.eps>
-(epstopdf)             \includegraphics on input line 595.
+(epstopdf)             \includegraphics on input line 591.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./case4-eps-converted-to.pdf): PDF inclusion: fo
 und PDF version <1.7>, but at most version <1.5> allowed
-<case4-eps-converted-to.pdf, id=458, 671.50874pt x 287.0725pt>
+<case4-eps-converted-to.pdf, id=459, 671.50874pt x 287.0725pt>
 File: case4-eps-converted-to.pdf Graphic file (type pdf)
 <use case4-eps-converted-to.pdf>
-Package pdftex.def Info: case4-eps-converted-to.pdf  used on input line 595.
+Package pdftex.def Info: case4-eps-converted-to.pdf  used on input line 591.
 (pdftex.def)             Requested size: 402.90836pt x 172.24483pt.
 
-USAPhO Notes.tex:599: LaTeX Error: There's no line here to end.
+USAPhO Notes.tex:595: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.599     \newline
+l.595     \newline
                   \quad Laws of reflection
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2368,7 +2388,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.25}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.601         \item T
+l.597         \item T
                      he incident ray, the reflected ray, and the normal to t...
  <./case4-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <convexmirror.eps>
@@ -2379,20 +2399,20 @@ Package epstopdf Info: Source file: <convexmirror.eps>
 (epstopdf)                    size: 24377 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=convexmirror-eps-con
 verted-to.pdf convexmirror.eps>
-(epstopdf)             \includegraphics on input line 613.
+(epstopdf)             \includegraphics on input line 609.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./convexmirror-eps-converted-to.pdf): PDF inclus
 ion: found PDF version <1.7>, but at most version <1.5> allowed
-<convexmirror-eps-converted-to.pdf, id=471, 270.00874pt x 187.70125pt>
+<convexmirror-eps-converted-to.pdf, id=472, 270.00874pt x 187.70125pt>
 File: convexmirror-eps-converted-to.pdf Graphic file (type pdf)
 <use convexmirror-eps-converted-to.pdf>
 Package pdftex.def Info: convexmirror-eps-converted-to.pdf  used on input line 
-613.
+609.
 (pdftex.def)             Requested size: 204.94751pt x 142.47685pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 612--614
+Underfull \hbox (badness 10000) in paragraph at lines 608--610
 []\OT1/cmr/m/n/10.95 (+20) . 
  []
 
@@ -2404,26 +2424,26 @@ Package epstopdf Info: Source file: <concavemirror.eps>
 (epstopdf)                    size: 24486 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=concavemirror-eps-co
 nverted-to.pdf concavemirror.eps>
-(epstopdf)             \includegraphics on input line 618.
+(epstopdf)             \includegraphics on input line 614.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./concavemirror-eps-converted-to.pdf): PDF inclu
 sion: found PDF version <1.7>, but at most version <1.5> allowed
-<concavemirror-eps-converted-to.pdf, id=472, 270.00874pt x 187.70125pt>
+<concavemirror-eps-converted-to.pdf, id=473, 270.00874pt x 187.70125pt>
 File: concavemirror-eps-converted-to.pdf Graphic file (type pdf)
 <use concavemirror-eps-converted-to.pdf>
 Package pdftex.def Info: concavemirror-eps-converted-to.pdf  used on input line
- 618.
+ 614.
 (pdftex.def)             Requested size: 204.94751pt x 142.47685pt.
 
-Overfull \hbox (0.14427pt too wide) in paragraph at lines 623--624
+Overfull \hbox (0.14427pt too wide) in paragraph at lines 619--620
 \OT1/cmr/m/n/10.95 (+4) manuel. For small spher-i-cal mir-rors, the aper-ture i
 s ef-fec-tively equal to the di-am- 
  []
 
 
-Overfull \hbox (0.13293pt too wide) in paragraph at lines 629--630
+Overfull \hbox (0.13293pt too wide) in paragraph at lines 625--626
 []\OT1/cmr/m/it/10.95 (+10) Object on $\OML/cmm/m/it/10.95 F$\OT1/cmr/m/n/10.95
  (+10) : if the object is on the focal point, the ``image" formed is at infinit
 y 
@@ -2434,17 +2454,17 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.26}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.630         \item \textit
+l.626         \item \textit
                            {Object between} $F$ \textit{and} $C$: if the obj...
 
 pdfTeX warning (ext4): destination with the same identifier (name{figure.27}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.630         \item \textit
+l.626         \item \textit
                            {Object between} $F$ \textit{and} $C$: if the obj...
  <./convexmirror-eps-converted-to.pdf> <./concavemirror-eps-converted-to.pdf>]
-Overfull \hbox (0.1364pt too wide) in paragraph at lines 631--632
+Overfull \hbox (0.1364pt too wide) in paragraph at lines 627--628
 []\OT1/cmr/m/it/10.95 (+13) Object on $\OML/cmm/m/it/10.95 C$\OT1/cmr/m/n/10.95
  (+13) : if the object is on the center of curvature, the image formed is real 
 
@@ -2458,20 +2478,20 @@ Package epstopdf Info: Source file: <concave1.eps>
 (epstopdf)                    size: 24256 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=concave1-eps-convert
 ed-to.pdf concave1.eps>
-(epstopdf)             \includegraphics on input line 638.
+(epstopdf)             \includegraphics on input line 634.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./concave1-eps-converted-to.pdf): PDF inclusion:
  found PDF version <1.7>, but at most version <1.5> allowed
-<concave1-eps-converted-to.pdf, id=488, 225.84375pt x 101.37875pt>
+<concave1-eps-converted-to.pdf, id=489, 225.84375pt x 101.37875pt>
 File: concave1-eps-converted-to.pdf Graphic file (type pdf)
 <use concave1-eps-converted-to.pdf>
-Package pdftex.def Info: concave1-eps-converted-to.pdf  used on input line 638.
+Package pdftex.def Info: concave1-eps-converted-to.pdf  used on input line 634.
 
 (pdftex.def)             Requested size: 204.94751pt x 92.0042pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 637--639
+Underfull \hbox (badness 10000) in paragraph at lines 633--635
 []\OT1/cmr/m/n/10.95 (+20) . 
  []
 
@@ -2483,16 +2503,16 @@ Package epstopdf Info: Source file: <concave2.eps>
 (epstopdf)                    size: 19916 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=concave2-eps-convert
 ed-to.pdf concave2.eps>
-(epstopdf)             \includegraphics on input line 643.
+(epstopdf)             \includegraphics on input line 639.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./concave2-eps-converted-to.pdf): PDF inclusion:
  found PDF version <1.7>, but at most version <1.5> allowed
-<concave2-eps-converted-to.pdf, id=489, 175.65625pt x 93.34875pt>
+<concave2-eps-converted-to.pdf, id=490, 175.65625pt x 93.34875pt>
 File: concave2-eps-converted-to.pdf Graphic file (type pdf)
 <use concave2-eps-converted-to.pdf>
-Package pdftex.def Info: concave2-eps-converted-to.pdf  used on input line 643.
+Package pdftex.def Info: concave2-eps-converted-to.pdf  used on input line 639.
 
 (pdftex.def)             Requested size: 204.94751pt x 108.92415pt.
 Package epstopdf Info: Source file: <concave3.eps>
@@ -2503,20 +2523,20 @@ Package epstopdf Info: Source file: <concave3.eps>
 (epstopdf)                    size: 28132 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=concave3-eps-convert
 ed-to.pdf concave3.eps>
-(epstopdf)             \includegraphics on input line 650.
+(epstopdf)             \includegraphics on input line 646.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./concave3-eps-converted-to.pdf): PDF inclusion:
  found PDF version <1.7>, but at most version <1.5> allowed
-<concave3-eps-converted-to.pdf, id=490, 245.91875pt x 113.42375pt>
+<concave3-eps-converted-to.pdf, id=491, 245.91875pt x 113.42375pt>
 File: concave3-eps-converted-to.pdf Graphic file (type pdf)
 <use concave3-eps-converted-to.pdf>
-Package pdftex.def Info: concave3-eps-converted-to.pdf  used on input line 650.
+Package pdftex.def Info: concave3-eps-converted-to.pdf  used on input line 646.
 
 (pdftex.def)             Requested size: 204.94751pt x 94.53108pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 649--651
+Underfull \hbox (badness 10000) in paragraph at lines 645--647
 []\OT1/cmr/m/n/10.95 (+20) . 
  []
 
@@ -2528,16 +2548,16 @@ Package epstopdf Info: Source file: <concave4.eps>
 (epstopdf)                    size: 27128 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=concave4-eps-convert
 ed-to.pdf concave4.eps>
-(epstopdf)             \includegraphics on input line 655.
+(epstopdf)             \includegraphics on input line 651.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./concave4-eps-converted-to.pdf): PDF inclusion:
  found PDF version <1.7>, but at most version <1.5> allowed
-<concave4-eps-converted-to.pdf, id=491, 211.79124pt x 109.40875pt>
+<concave4-eps-converted-to.pdf, id=492, 211.79124pt x 109.40875pt>
 File: concave4-eps-converted-to.pdf Graphic file (type pdf)
 <use concave4-eps-converted-to.pdf>
-Package pdftex.def Info: concave4-eps-converted-to.pdf  used on input line 655.
+Package pdftex.def Info: concave4-eps-converted-to.pdf  used on input line 651.
 
 (pdftex.def)             Requested size: 204.94751pt x 105.8776pt.
 Package epstopdf Info: Source file: <concave5.eps>
@@ -2548,20 +2568,20 @@ Package epstopdf Info: Source file: <concave5.eps>
 (epstopdf)                    size: 28244 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=concave5-eps-convert
 ed-to.pdf concave5.eps>
-(epstopdf)             \includegraphics on input line 662.
+(epstopdf)             \includegraphics on input line 658.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./concave5-eps-converted-to.pdf): PDF inclusion:
  found PDF version <1.7>, but at most version <1.5> allowed
-<concave5-eps-converted-to.pdf, id=492, 250.9375pt x 109.40875pt>
+<concave5-eps-converted-to.pdf, id=493, 250.9375pt x 109.40875pt>
 File: concave5-eps-converted-to.pdf Graphic file (type pdf)
 <use concave5-eps-converted-to.pdf>
-Package pdftex.def Info: concave5-eps-converted-to.pdf  used on input line 662.
+Package pdftex.def Info: concave5-eps-converted-to.pdf  used on input line 658.
 
 (pdftex.def)             Requested size: 204.94751pt x 89.36182pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 661--663
+Underfull \hbox (badness 10000) in paragraph at lines 657--659
 []\OT1/cmr/m/n/10.95 (+20) . 
  []
 
@@ -2573,16 +2593,16 @@ Package epstopdf Info: Source file: <concave6.eps>
 (epstopdf)                    size: 19541 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=concave6-eps-convert
 ed-to.pdf concave6.eps>
-(epstopdf)             \includegraphics on input line 667.
+(epstopdf)             \includegraphics on input line 663.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./concave6-eps-converted-to.pdf): PDF inclusion:
  found PDF version <1.7>, but at most version <1.5> allowed
-<concave6-eps-converted-to.pdf, id=493, 183.68625pt x 107.40125pt>
+<concave6-eps-converted-to.pdf, id=494, 183.68625pt x 107.40125pt>
 File: concave6-eps-converted-to.pdf Graphic file (type pdf)
 <use concave6-eps-converted-to.pdf>
-Package pdftex.def Info: concave6-eps-converted-to.pdf  used on input line 667.
+Package pdftex.def Info: concave6-eps-converted-to.pdf  used on input line 663.
 
 (pdftex.def)             Requested size: 204.94751pt x 119.84116pt.
 [52
@@ -2590,50 +2610,50 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.28}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.671     \quad
+l.667     \quad
                \textbf{Convex Mirror}
 pdfTeX warning (ext4): destination with the same identifier (name{figure.29}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.671     \quad
+l.667     \quad
                \textbf{Convex Mirror}
 pdfTeX warning (ext4): destination with the same identifier (name{figure.30}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.671     \quad
+l.667     \quad
                \textbf{Convex Mirror}
 pdfTeX warning (ext4): destination with the same identifier (name{figure.31}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.671     \quad
+l.667     \quad
                \textbf{Convex Mirror} <./concave1-eps-converted-to.pdf> <./conc
 ave2-eps-converted-to.pdf> <./concave3-eps-converted-to.pdf> <./concave4-eps-co
 nverted-to.pdf>]
-Overfull \hbox (0.11566pt too wide) in paragraph at lines 673--674
+Overfull \hbox (0.11566pt too wide) in paragraph at lines 669--670
 \OT1/cmr/m/n/10.95 (+18) (since the re-flected rays \OT1/cmr/m/it/10.95 (+18) p
 ro-duced \OT1/cmr/m/n/10.95 (+18) in-ter-sect), in-verted, and smaller than the
  orig-i- 
  []
 
 
-Overfull \hbox (0.14304pt too wide) in paragraph at lines 677--677
+Overfull \hbox (0.14304pt too wide) in paragraph at lines 673--673
 []\OT1/cmr/m/n/10.95 (+17) The \OT1/cmr/bx/n/10.95 (+17) Mirror Equation[][][][
 ][] \OT1/cmr/m/n/10.95 (+17) is really helpful for doing calculations. If an ob
 ject is a 
  []
 
 
-Overfull \hbox (0.13293pt too wide) in paragraph at lines 684--685
+Overfull \hbox (0.13293pt too wide) in paragraph at lines 680--681
 []\OT1/cmr/m/it/10.95 (+10) Object on $\OML/cmm/m/it/10.95 F$\OT1/cmr/m/n/10.95
  (+10) : if the object is on the focal point, the ``image" formed is at infinit
 y 
  []
 
 
-Overfull \hbox (0.1364pt too wide) in paragraph at lines 686--687
+Overfull \hbox (0.1364pt too wide) in paragraph at lines 682--683
 []\OT1/cmr/m/it/10.95 (+13) Object on $\OML/cmm/m/it/10.95 C$\OT1/cmr/m/n/10.95
  (+13) : if the object is on the center of curvature, the image formed is real 
 
@@ -2644,14 +2664,14 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.32}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.687         \item \textit
+l.683         \item \textit
                            {Object beyond} $C$: if the object is farther tha...
 
 pdfTeX warning (ext4): destination with the same identifier (name{figure.33}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.687         \item \textit
+l.683         \item \textit
                            {Object beyond} $C$: if the object is farther tha...
  <./concave5-eps-converted-to.pdf> <./concave6-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <convex1.eps>
@@ -2662,19 +2682,19 @@ Package epstopdf Info: Source file: <convex1.eps>
 (epstopdf)                    size: 19634 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=convex1-eps-converte
 d-to.pdf convex1.eps>
-(epstopdf)             \includegraphics on input line 693.
+(epstopdf)             \includegraphics on input line 689.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./convex1-eps-converted-to.pdf): PDF inclusion: 
 found PDF version <1.7>, but at most version <1.5> allowed
-<convex1-eps-converted-to.pdf, id=539, 255.95625pt x 129.48375pt>
+<convex1-eps-converted-to.pdf, id=540, 255.95625pt x 129.48375pt>
 File: convex1-eps-converted-to.pdf Graphic file (type pdf)
 <use convex1-eps-converted-to.pdf>
-Package pdftex.def Info: convex1-eps-converted-to.pdf  used on input line 693.
+Package pdftex.def Info: convex1-eps-converted-to.pdf  used on input line 689.
 (pdftex.def)             Requested size: 204.94751pt x 103.67998pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 692--694
+Underfull \hbox (badness 10000) in paragraph at lines 688--690
 []\OT1/cmr/m/n/10.95 (+20) . 
  []
 
@@ -2686,16 +2706,16 @@ Package epstopdf Info: Source file: <convex2.eps>
 (epstopdf)                    size: 15740 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=convex2-eps-converte
 d-to.pdf convex2.eps>
-(epstopdf)             \includegraphics on input line 698.
+(epstopdf)             \includegraphics on input line 694.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./convex2-eps-converted-to.pdf): PDF inclusion: 
 found PDF version <1.7>, but at most version <1.5> allowed
-<convex2-eps-converted-to.pdf, id=540, 193.72375pt x 118.4425pt>
+<convex2-eps-converted-to.pdf, id=541, 193.72375pt x 118.4425pt>
 File: convex2-eps-converted-to.pdf Graphic file (type pdf)
 <use convex2-eps-converted-to.pdf>
-Package pdftex.def Info: convex2-eps-converted-to.pdf  used on input line 698.
+Package pdftex.def Info: convex2-eps-converted-to.pdf  used on input line 694.
 (pdftex.def)             Requested size: 204.94751pt x 125.30626pt.
 Package epstopdf Info: Source file: <convex3.eps>
 (epstopdf)                    date: 2022-10-10 18:58:30
@@ -2705,19 +2725,19 @@ Package epstopdf Info: Source file: <convex3.eps>
 (epstopdf)                    size: 19219 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=convex3-eps-converte
 d-to.pdf convex3.eps>
-(epstopdf)             \includegraphics on input line 705.
+(epstopdf)             \includegraphics on input line 701.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./convex3-eps-converted-to.pdf): PDF inclusion: 
 found PDF version <1.7>, but at most version <1.5> allowed
-<convex3-eps-converted-to.pdf, id=541, 283.0575pt x 118.4425pt>
+<convex3-eps-converted-to.pdf, id=542, 283.0575pt x 118.4425pt>
 File: convex3-eps-converted-to.pdf Graphic file (type pdf)
 <use convex3-eps-converted-to.pdf>
-Package pdftex.def Info: convex3-eps-converted-to.pdf  used on input line 705.
+Package pdftex.def Info: convex3-eps-converted-to.pdf  used on input line 701.
 (pdftex.def)             Requested size: 204.94751pt x 85.76106pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 704--706
+Underfull \hbox (badness 10000) in paragraph at lines 700--702
 []\OT1/cmr/m/n/10.95 (+20) . 
  []
 
@@ -2729,16 +2749,16 @@ Package epstopdf Info: Source file: <convex4.eps>
 (epstopdf)                    size: 18144 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=convex4-eps-converte
 d-to.pdf convex4.eps>
-(epstopdf)             \includegraphics on input line 710.
+(epstopdf)             \includegraphics on input line 706.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./convex4-eps-converted-to.pdf): PDF inclusion: 
 found PDF version <1.7>, but at most version <1.5> allowed
-<convex4-eps-converted-to.pdf, id=542, 263.98625pt x 118.4425pt>
+<convex4-eps-converted-to.pdf, id=543, 263.98625pt x 118.4425pt>
 File: convex4-eps-converted-to.pdf Graphic file (type pdf)
 <use convex4-eps-converted-to.pdf>
-Package pdftex.def Info: convex4-eps-converted-to.pdf  used on input line 710.
+Package pdftex.def Info: convex4-eps-converted-to.pdf  used on input line 706.
 (pdftex.def)             Requested size: 204.94751pt x 91.95282pt.
 Package epstopdf Info: Source file: <convex5.eps>
 (epstopdf)                    date: 2022-10-10 18:58:30
@@ -2748,19 +2768,19 @@ Package epstopdf Info: Source file: <convex5.eps>
 (epstopdf)                    size: 17706 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=convex5-eps-converte
 d-to.pdf convex5.eps>
-(epstopdf)             \includegraphics on input line 717.
+(epstopdf)             \includegraphics on input line 713.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./convex5-eps-converted-to.pdf): PDF inclusion: 
 found PDF version <1.7>, but at most version <1.5> allowed
-<convex5-eps-converted-to.pdf, id=543, 259.97125pt x 118.4425pt>
+<convex5-eps-converted-to.pdf, id=544, 259.97125pt x 118.4425pt>
 File: convex5-eps-converted-to.pdf Graphic file (type pdf)
 <use convex5-eps-converted-to.pdf>
-Package pdftex.def Info: convex5-eps-converted-to.pdf  used on input line 717.
+Package pdftex.def Info: convex5-eps-converted-to.pdf  used on input line 713.
 (pdftex.def)             Requested size: 204.94751pt x 93.37335pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 716--718
+Underfull \hbox (badness 10000) in paragraph at lines 712--714
 []\OT1/cmr/m/n/10.95 (+20) . 
  []
 
@@ -2772,95 +2792,95 @@ Package epstopdf Info: Source file: <convex6.eps>
 (epstopdf)                    size: 18693 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=convex6-eps-converte
 d-to.pdf convex6.eps>
-(epstopdf)             \includegraphics on input line 722.
+(epstopdf)             \includegraphics on input line 718.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./convex6-eps-converted-to.pdf): PDF inclusion: 
 found PDF version <1.7>, but at most version <1.5> allowed
-<convex6-eps-converted-to.pdf, id=544, 237.88875pt x 118.4425pt>
+<convex6-eps-converted-to.pdf, id=545, 237.88875pt x 118.4425pt>
 File: convex6-eps-converted-to.pdf Graphic file (type pdf)
 <use convex6-eps-converted-to.pdf>
-Package pdftex.def Info: convex6-eps-converted-to.pdf  used on input line 722.
+Package pdftex.def Info: convex6-eps-converted-to.pdf  used on input line 718.
 (pdftex.def)             Requested size: 204.94751pt x 102.04651pt.
 [54
 pdfTeX warning (ext4): destination with the same identifier (name{figure.34}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.728         \item \textit
+l.724         \item \textit
                            {Object between} $P$ \textit{and infinity}: if th...
 
 pdfTeX warning (ext4): destination with the same identifier (name{figure.35}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.728         \item \textit
+l.724         \item \textit
                            {Object between} $P$ \textit{and infinity}: if th...
 
 pdfTeX warning (ext4): destination with the same identifier (name{figure.36}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.728         \item \textit
+l.724         \item \textit
                            {Object between} $P$ \textit{and infinity}: if th...
 
 pdfTeX warning (ext4): destination with the same identifier (name{figure.37}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.728         \item \textit
+l.724         \item \textit
                            {Object between} $P$ \textit{and infinity}: if th...
 
 pdfTeX warning (ext4): destination with the same identifier (name{figure.38}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.728         \item \textit
+l.724         \item \textit
                            {Object between} $P$ \textit{and infinity}: if th...
 
 pdfTeX warning (ext4): destination with the same identifier (name{figure.39}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.728         \item \textit
+l.724         \item \textit
                            {Object between} $P$ \textit{and infinity}: if th...
  <./convex1-eps-converted-to.pdf> <./convex2-eps-converted-to.pdf> <./convex3-e
 ps-converted-to.pdf> <./convex4-eps-converted-to.pdf> <./convex5-eps-converted-
 to.pdf> <./convex6-eps-converted-to.pdf>]
-Overfull \hbox (0.11566pt too wide) in paragraph at lines 728--729
+Overfull \hbox (0.11566pt too wide) in paragraph at lines 724--725
 \OT1/cmr/m/n/10.95 (+18) (since the re-flected rays \OT1/cmr/m/it/10.95 (+18) p
 ro-duced \OT1/cmr/m/n/10.95 (+18) in-ter-sect), in-verted, and smaller than the
  orig-i- 
  []
 
 
-Overfull \hbox (0.1893pt too wide) in paragraph at lines 732--733
+Overfull \hbox (0.1893pt too wide) in paragraph at lines 728--729
 \OT1/cmr/m/n/10.95 (+16) fer-ence, po-lar-iza-tion, or diffrac-tion. Huy-gens t
 hen de-throned it with his Wave The-ory, 
  []
 
 
-Overfull \hbox (0.1141pt too wide) in paragraph at lines 732--733
+Overfull \hbox (0.1141pt too wide) in paragraph at lines 728--729
 \OT1/cmr/m/n/10.95 (+12) out de-scrib-ing light as an elec-tro-mag-netic wave (
 re-mem-ber $\OML/cmm/m/it/10.95 "[]^^V[] \OT1/cmr/m/n/10.95 (+12) = \OML/cmm/m/
 it/10.95 c[]$\OT1/cmr/m/n/10.95 (+12) ) and he can de- 
  []
 
 
-Overfull \hbox (0.15622pt too wide) in paragraph at lines 732--733
+Overfull \hbox (0.15622pt too wide) in paragraph at lines 728--729
 \OT1/cmr/m/n/10.95 (+12) black-body ra-di-a-tion that we stud-ied in Ther-mo-dy
 -nam-ics. Max Plank solves the is-sue 
  []
 
 
-Overfull \hbox (0.1468pt too wide) in paragraph at lines 732--733
+Overfull \hbox (0.1468pt too wide) in paragraph at lines 728--729
 \OT1/cmr/m/n/10.95 (+3) by in-tro-duc-ing the idea of quan-ti-za-tion of light 
 (ba-si-cally he as-sumed light waves came 
  []
 
 
-Overfull \hbox (0.13225pt too wide) in paragraph at lines 736--737
+Overfull \hbox (0.13225pt too wide) in paragraph at lines 732--733
 []\OT1/cmr/m/n/10.95 (+8) Each point on a wave front is the source of smaller d
 isturbances called \OT1/cmr/m/it/10.95 (+8) secondary 
  []
@@ -2873,16 +2893,16 @@ Package epstopdf Info: Source file: <wavefront.eps>
 (epstopdf)                    size: 30177 bytes
 (epstopdf)             Command: <miktex-epstopdf --outfile=wavefront-eps-conver
 ted-to.pdf wavefront.eps>
-(epstopdf)             \includegraphics on input line 742.
+(epstopdf)             \includegraphics on input line 738.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./wavefront-eps-converted-to.pdf): PDF inclusion
 : found PDF version <1.7>, but at most version <1.5> allowed
-<wavefront-eps-converted-to.pdf, id=577, 228.855pt x 88.33pt>
+<wavefront-eps-converted-to.pdf, id=578, 228.855pt x 88.33pt>
 File: wavefront-eps-converted-to.pdf Graphic file (type pdf)
 <use wavefront-eps-converted-to.pdf>
-Package pdftex.def Info: wavefront-eps-converted-to.pdf  used on input line 742
+Package pdftex.def Info: wavefront-eps-converted-to.pdf  used on input line 738
 .
 (pdftex.def)             Requested size: 343.28165pt x 132.49466pt.
 [55
@@ -2890,7 +2910,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.40}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.745 \end{document}
+l.741 \end{document}
                      <./wavefront-eps-converted-to.pdf>]
 (C:/Users\mayan\OneDrive - The University of Texas at Austin\Documents\USAPhO-N
 otes\auxil\USAPhO Notes.aux)
@@ -2898,26 +2918,14 @@ otes\auxil\USAPhO Notes.aux)
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 2.90001pt have occurred.
 
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `"USAPhO Notes".out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `"USAPhO Notes".out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `"USAPhO Notes".out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 34424 strings out of 475385
- 695102 string characters out of 2776906
- 1270133 words of memory out of 3000000
- 54845 multiletter control sequences out of 15000+600000
+ 34462 strings out of 475385
+ 696548 string characters out of 2776906
+ 1273500 words of memory out of 3000000
+ 54875 multiletter control sequences out of 15000+600000
  502460 words of font info for 236 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  118i,43n,119p,10636b,719s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -2984,9 +2992,9 @@ iKTeX/fonts/type1/public/amsfonts/cm/cmtt9.pfb><C:/Users/mayan/AppData/Local/Pr
 ograms/MiKTeX/fonts/type1/public/amsfonts/euler/eufm10.pfb><C:/Users/mayan/AppD
 ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
 Output written on "C:/Users\mayan\OneDrive - The University of Texas at Austin\
-Documents\USAPhO-Notes\out\USAPhO Notes.pdf" (55 pages, 2148003 bytes).
+Documents\USAPhO-Notes\out\USAPhO Notes.pdf" (55 pages, 2147939 bytes).
 PDF statistics:
- 871 PDF objects out of 1000 (max. 8388607)
+ 872 PDF objects out of 1000 (max. 8388607)
  183 named destinations out of 1000 (max. 500000)
  74778 words of extra memory for PDF output out of 89155 (max. 10000000)
 

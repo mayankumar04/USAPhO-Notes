@@ -1,8 +1,5 @@
 \documentclass{scrartcl}
 \usepackage[secthm]{evan}
-\usepackage{asymptote}
-\usepackage{mathtools}
-\usepackage{enumitem}
 \usepackage[document]{ragged2e}
 \usepackage{graphicx}
 \usepackage{wrapfig}
@@ -10,7 +7,6 @@
 \usepackage{xfrac}
 \usepackage{esint}
 \usepackage{footnote}
-\usepackage{hyperref}
 \usepackage{lipsum}
 \newcommand\blfootnote[1]{
     \begingroup
@@ -39,7 +35,7 @@
         \item A force is central if and only if $\vec{\mathbf r}\times\vec{\mathbf F}=0$ everywhere where $\vec{\mathbf r}$ is the position vector of a point from the ``center." So, a force cannot produce a net torque on a particle, anywhere in its field.
         \item If $\vec{{\mathbf A}}$ is the area sweeped by a body of mass $m$, then the angular momentum is $\vec{\mathbf L}=2m\dot{\mathbf A}$
         \item If an object is in unstable equilibrium, then the graph of potential energy vs. position will have a local maxima. A local minima will occur at stable equilibrium, and $U''=0$ at neutral equilibrium, i.e. the graph is constant.
-        \item Potential energy for an object moving under the influence of  force $\vec{\mathbf F}$ is given by \[\Delta U=-\int \vec{\mathbf F}\cdot\mathrm d\vec{\mathbf s}\implies\vec{\mathbf F}=-\frac{\partial U}{\partial x}\mathbf{\hat i}-\frac{\partial U}{\partial y}\mathbf{\hat j}-\frac{\partial U}{\partial z}\mathbf{\hat k}=-\vec\nabla U\] Here, the del operator ($\vec\nabla$) denotes ``gradient." It can also denote the divergence or curl (both of which are advanced topic, don't worry). Anyway, here $U$ is a scalar field whose function is given in rectangular co-ordinates. The above formula for $\vec\nabla$ is valid only for this co-ordinate system. For spherical co-ordinates, this changes to \[\vec\nabla=\frac{\partial\hat{\mathbf r}}{\partial r}+\frac1r\frac{\partial\hat{\mathbf{\theta}}}{\partial \theta}+\frac1{r\sin\theta}\frac{\partial\hat{\mathbf{\varphi}}}{\partial\varphi}\] and in cylindrical co-ordinates it's, \[\vec\nabla=\frac{\partial\hat{\mathbf{\rho}}}{\partial\rho}+\frac1\rho\frac{\partial\hat{\mathbf{\varphi}}}{\partial\varphi}+\frac{\partial\hat{\mathbf z}}{\partial z}\]
+        \item Potential energy for an object moving under the influence of  force $\vec{\mathbf F}$ is given by \[\Delta U=-\int \vec{\mathbf F}\cdot\mathrm d\vec{\mathbf s}\implies\vec{\mathbf F}=\left\langle-\frac{\partial U}{\partial x},-\frac{\partial U}{\partial y},-\frac{\partial U}{\partial z}\right\rangle=-\vec\nabla U\] Here, the del operator ($\vec\nabla$) denotes ``gradient." It can also denote the divergence or curl (both of which are advanced topic, don't worry). Anyway, here $U$ is a scalar field whose function is given in rectangular co-ordinates. The above formula for $\vec\nabla$ is valid only for this co-ordinate system. For spherical co-ordinates, this changes to \[\vec\nabla=\frac{\partial\hat{\mathbf r}}{\partial r}+\frac1r\frac{\partial\hat{\mathbf{\theta}}}{\partial \theta}+\frac1{r\sin\theta}\frac{\partial\hat{\mathbf{\varphi}}}{\partial\varphi}\] and in cylindrical co-ordinates it's, \[\vec\nabla=\frac{\partial\hat{\mathbf{\rho}}}{\partial\rho}+\frac1\rho\frac{\partial\hat{\mathbf{\varphi}}}{\partial\varphi}+\frac{\partial\hat{\mathbf z}}{\partial z}\]
         \begin{figure}[H]
             \centering
             \begin{minipage}[b]{0.4\textwidth}
@@ -124,7 +120,7 @@
         \item \textbf{Kirchhoff's Law of Thermal Radiation}: for ALL objects, $\sfrac{j^\star_\lambda}{a_\lambda}$  is constant and equal to spectral emissive power of a perfect black body (PBB) at the same temperature and for the same wavelength.
         \item Emissive power $\left(j^\star\right)$ is the \textbf{total power} per area emitted at all wavelengths i.e. \[j^\star=\int_0^\infty j^\star_\lambda\text{ }\mathrm d\lambda\]
         \item Emissivity $\left(\epsilon\right)$ of a body is the ratio of its emissive power to the emmisive power of a PBB.
-        \item Stefan-Boltzmann Law related emissive power of a PBB to it's temperature: \[j^\star=\sigma T^4\] where $\sigma=5.67\times10^8$ W m$^{-2}$K$^{-4}$ To apply this to all objects, you can simply multiply by the emissivity to get the full Stefan-Boltzmann Law: \[j^\star=\epsilon\sigma T^4\]
+        \item Stefan-Boltzmann Law related emissive power of a PBB to it's temperature: \[j^\star=\sigma T^4\] where $\sigma=5.67\times10^8$ W m$^{-2}$ K$^{-4}$ To apply this to all objects, you can simply multiply by the emissivity to get the full Stefan-Boltzmann Law: \[j^\star=\epsilon\sigma T^4\]
         \item Cooling by radiation is dictated by the following law: \[\dot T=\frac{A\sigma \epsilon}{mc}\left(T^4-T_S^4\right)\] where $A$ is the surface area, $T_S$ is the surrounding temperature, and $c$ is the specific heat capacity of the object.
         \item Newton's law of cooling gives the rate of cooling of an object through all methods but it is valid for only small temperature differences: $\boxed{\dot Q=bA\left(T-T_S\right)}$ Here $T_S$ is the surrounding temperature and $b$ is a constant.
         \item Wien's Displacement Law gives the wavelength that corresponds to the peak of a black body curve. For a given temperature, the wavelength of maximum intensity is $\boxed{2.88\times10^{-3}=T\lambda_\max}$
